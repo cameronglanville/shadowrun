@@ -64,47 +64,80 @@ Mr. Lynche has been using him as a decker for hire, making him operate as "The M
 </notes>
   <alias>The Chevalier/ The Machinist</alias>
   <playername>Cameron</playername>
-  <gamenotes>__________________
-
-Data Snatch Mission:
-Johnson was an elf Angulous van  
-Northern wing of the resort is closed
-Target is Duncan Philstein
-He has ties to aztec
-
-Napper Whack Mission:
-Johnson was Mr. Lynch
-Target is Hendrik
-Invoved in kidnapping
-
-Locating Parcel Mission:
-Johnson is a Yakuza (Rio)
-1 min search on Corp gave basic floor plans
-30 min search on Corp gave detailed first floor plans
-12 hour search on Corp gave the detailed floor plans of the top floor
-30 min search on the Gang gave outdated information on the leader
-30 min search on Bhutta gave info that he has been dead for 2 months
-12 hour search on the Gang gave info on the new leader and her 9 lieutenants
-
-3 hit Cram, 1 hit Kamakazi, 1 hit of Jazz
-2 Ares Pred 5 with reg ammo, 2 spare clips with stick and shock
-rating 5 commlinks
-
-Mr. Nobonaga
-
-Hunched, brown hair, bald spot have image, Samson
-drive will self destruct in 3 hours
-Mistress is a paid partner Green Stuff
-10-12 at the Vice after that she is going to visit the mark
-orem corb are the protection, gold house
-
-Target:Thembo Nsephi. Has government connections, has friends in local corporations, he is a judge, he has 2 wives 6 kids
-Freak Show: Head of the paramility sercurity firm, [Archerz Corp], is Nelson; tickets are in the 100 000 Nuyen range; 3 locations are permanent Cape Town, Paris, China, 3 others change
-Show itself: selling HMVV
-Melvinious is a high ranking elf
-Staff Members
-
-Mister Xd</gamenotes>
+  <gamenotes>{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs17\lang1033 __________________\par
+\par
+Data Snatch Mission:\par
+Johnson was an elf Angulous van \par
+Northern wing of the resort is closed\par
+Target is Duncan Philstein\par
+He has ties to aztec\par
+\par
+Napper Whack Mission:\par
+Johnson was Mr. Lynch\par
+Target is Hendrik\par
+Invoved in kidnapping\par
+\par
+Locating Parcel Mission:\par
+Johnson is a Yakuza (Rio)\par
+1 min search on Corp gave basic floor plans\par
+30 min search on Corp gave detailed first floor plans\par
+12 hour search on Corp gave the detailed floor plans of the top floor\par
+30 min search on the Gang gave outdated information on the leader\par
+30 min search on Bhutta gave info that he has been dead for 2 months\par
+12 hour search on the Gang gave info on the new leader and her 9 lieutenants\par
+\par
+3 hit Cram, 1 hit Kamakazi, 1 hit of Jazz\par
+2 Ares Pred 5 with reg ammo, 2 spare clips with stick and shock\par
+rating 5 commlinks\par
+\par
+Mr. Nobonaga\par
+\par
+Hunched, brown hair, bald spot have image, Samson\par
+drive will self destruct in 3 hours\par
+Mistress is a paid partner Green Stuff\par
+10-12 at the Vice after that she is going to visit the mark\par
+orem corb are the protection, gold house\par
+\par
+Target:Thembo Nsephi. Has government connections, has friends in local corporations, he is a judge, he has 2 wives 6 kids\par
+Freak Show: Head of the paramility sercurity firm, [Archerz Corp], is Nelson; tickets are in the 100 000 Nuyen range; 3 locations are permanent Cape Town, Paris, China, 3 others change\par
+Show itself: selling HMVV\par
+Melvinious is a high ranking elf\par
+Staff Members\par
+\par
+Mister Xd\par
+\par
+Delila\par
+Womans shelter, demands for protection money\par
+\par
+Delila Tonight at 8 Woman's Shelter\par
+new characters trial run\par
+find the supplies and send a message to the thug (Fontaine)\par
+In a Van, GPS and Tags are not working.\par
+Security for the vehicle\par
+9000 for his head, 5000 for backing off, 9000 for the goods.\par
+Data: Fontaine picture, coloured skin white teeth, mean look broken nose, head shaved missing part of his left ear.\par
+6 vehicles, 8 people probably + drivers, motley army gear\par
+He is demanding protection money 10k/month fee\par
+Fontaine alias is fake, 4 months old, well done job\par
+working for a local busness man: Mike Eisland, racketering.\par
+Fontaine is one of his enforcer.\par
+Works well with the local gangs, moves money around.\par
+Mike Eisland owns 95% of Red Arrow, supplier of the meat market, or the freak show\par
+Red Arrow has a secure storage facility nearby, with faraday security.\par
+38s local gang, looking to purchase tomorrow at noon.\par
+38s red and yellow 38 written in bullet holes on their armour\par
+86s snake wrapped around a gun\par
+\par
+Lockdown 10 pm to 5 am.\par
+\par
+commlink code of the one he is gaining \par
+5am parking lot of the warehouse\par
+\par
+all 4 cars carring medical supplies have been vlown up by the red arrow\par
+}
+</gamenotes>
   <primaryarm>Right</primaryarm>
   <karma>0</karma>
   <special>0</special>
@@ -125,7 +158,7 @@ Mister Xd</gamenotes>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>67820.500</nuyen>
+  <nuyen>67805.500</nuyen>
   <startingnuyen>0</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>800</buildkarma>
@@ -5695,11 +5728,11 @@ Mister Xd</gamenotes>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit>5</programlimit>
-      <overclocked>Firewall</overclocked>
+      <overclocked>None</overclocked>
       <attack>5</attack>
-      <sleaze>8</sleaze>
-      <dataprocessing>6</dataprocessing>
-      <firewall>7</firewall>
+      <sleaze>6</sleaze>
+      <dataprocessing>7</dataprocessing>
+      <firewall>8</firewall>
       <attributearray>8,7,6,5</attributearray>
       <modattack />
       <modsleaze />
@@ -8964,38 +8997,6 @@ Mister Xd</gamenotes>
       </undo>
     </expense>
     <expense>
-      <guid>35a078c4-f707-4880-882b-9808df8caa1d</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>104b1dfc-8fb1-4bb4-b64d-f0b7eab59242</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>8b95cdd0-44a4-429e-bd73-c436ce5687d2</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
@@ -9189,6 +9190,38 @@ Mister Xd</gamenotes>
     </expense>
     <expense>
       <guid>4f70b726-6ba9-475f-930d-5b9be09ec246</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>35a078c4-f707-4880-882b-9808df8caa1d</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>104b1dfc-8fb1-4bb4-b64d-f0b7eab59242</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
       <reason>Removed Negative Quality In Debt</reason>
@@ -10950,6 +10983,38 @@ Mister Xd</gamenotes>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0d260f3a-c27a-46f9-a41c-d883538b3cf0</guid>
+      <date>2021-11-24T21:07:30</date>
+      <amount>-5</amount>
+      <reason>Drone feed</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>3810a781-dfda-43fb-8b02-712f5e38d045</guid>
+      <date>2021-11-24T21:08:22</date>
+      <amount>-10</amount>
+      <reason>Direct the feed</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
         <objectid />
         <qty>0</qty>
         <extra />

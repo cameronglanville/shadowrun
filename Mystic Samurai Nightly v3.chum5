@@ -257,6 +257,14 @@ Tom Devro 20 armed 60 civilians\par
 \par
 We have been offered trainers for a skill or skill group for 6 months\par
 \par
+at the end of April fashion changes\par
+\par
+Get Ed to eat a swan to stay in Azania\par
+\par
+Fixer in cape town has threatened to sell Samurai out\par
+\par
+Baladeir\par
+\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
@@ -7488,7 +7496,7 @@ We have been offered trainers for a skill or skill group for 6 months\par
       <sourceid>ced3fecf-2277-4b20-b1e0-894162ca9ae2</sourceid>
       <guid>7a8a83d5-41e5-4bc8-9f9b-5f00cf2be5fd</guid>
       <name>Mentor Spirit</name>
-      <extra>Planar Entity</extra>
+      <extra>Loyalty</extra>
       <bp>0</bp>
       <implemented>True</implemented>
       <contributetobp>True</contributetobp>
@@ -7508,7 +7516,7 @@ We have been offered trainers for a skill or skill group for 6 months\par
         <selectmentorspirit />
       </bonus>
       <firstlevelbonus />
-      <notes>Loyalty</notes>
+      <notes />
     </quality>
     <quality>
       <sourceid>64165b48-d67e-4bb8-b662-ca45fbf5b3c0</sourceid>
