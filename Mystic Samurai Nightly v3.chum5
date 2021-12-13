@@ -261,10 +261,21 @@ at the end of April fashion changes\par
 \par
 Get Ed to eat a swan to stay in Azania\par
 \par
-Fixer in cape town has threatened to sell Samurai out\par
+Harare Redevelopment Plan\par
+Ceo is the targets father\par
+Mr Phillip Tebruin - CEO\par
+Ms. Naomi Tebruin - CEO's daughter - our Target\par
+Target has 5 security detail\par
+Mr Devon Steenhuizen - Fiance - Chief Awakened Co-ordinator\par
+5 days to Wedding\par
 \par
-Baladeir\par
+My fixer in cape town Quick has threatened to sell Samurai out\par
 \par
+Hotel Baladeir\par
+\par
+2 * beretta 201T\par
+\par
+Impi zulu private security/ inteligence service/ secret police\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
@@ -287,7 +298,7 @@ Baladeir\par
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>224891.00000</nuyen>
+  <nuyen>224791.00000</nuyen>
   <startingnuyen>6000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -3976,7 +3987,7 @@ Baladeir\par
         </accessory>
       </accessories>
       <location />
-      <notes />
+      <notes>SG 132 ALLIANCE</notes>
       <discountedcost>False</discountedcost>
       <weaponslots />
       <doubledcostweaponslots />
@@ -7394,6 +7405,266 @@ Baladeir\par
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots>Stock/Side/Internal/Barrel/Top/Under</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>cbff618e-6a12-4bab-aaeb-2453706bf42e</sourceid>
+      <guid>d6589f4d-70a9-4dc6-be07-501b273f860c</guid>
+      <name>Beretta 201T</name>
+      <category>Light Pistols</category>
+      <type>Ranged</type>
+      <spec>Semi-Automatics</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>6P</damage>
+      <ap>-</ap>
+      <mode>SA/BF</mode>
+      <rc>0</rc>
+      <ammo>21(c)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>7R</avail>
+      <cost>210</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>425</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>6</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>27de824f-d5e4-43fd-abaa-e42da6023569</sourceid>
+          <guid>13742551-939c-415a-9374-07078e6023d8</guid>
+          <name>Stock</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>2</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>30</cost>
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>51</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+      </accessories>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots>Barrel/Top</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>cbff618e-6a12-4bab-aaeb-2453706bf42e</sourceid>
+      <guid>203693d5-0446-49a5-b40e-edfbb5893b0c</guid>
+      <name>Beretta 201T</name>
+      <category>Light Pistols</category>
+      <type>Ranged</type>
+      <spec>Semi-Automatics</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>6P</damage>
+      <ap>-</ap>
+      <mode>SA/BF</mode>
+      <rc>0</rc>
+      <ammo>21(c)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>7R</avail>
+      <cost>210</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>425</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>6</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>27de824f-d5e4-43fd-abaa-e42da6023569</sourceid>
+          <guid>0b21b495-eef6-4b38-a036-6f6b5f8edd5c</guid>
+          <name>Stock</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>2</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>30</cost>
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>51</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+      </accessories>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots>Barrel/Top</weaponslots>
       <doubledcostweaponslots />
       <active>False</active>
       <homenode>False</homenode>
@@ -24577,6 +24848,22 @@ Prayer beads with multi coloured strings.</notes>
       <refund>False</refund>
       <forcecareervisible>False</forcecareervisible>
     </expense>
+    <expense>
+      <guid>76b542b7-efa9-4923-8e52-f8923bdf2235</guid>
+      <date>2021-12-01T22:23:59</date>
+      <amount>-100</amount>
+      <reason>CFD testing</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations />
   <armorlocations />
@@ -24584,6 +24871,12 @@ Prayer beads with multi coloured strings.</notes>
   <weaponlocations />
   <improvementgroups />
   <calendar>
+    <week>
+      <guid>61a48189-8845-40fd-81cc-ae6bd796487e</guid>
+      <year>2078</year>
+      <week>7</week>
+      <notes>Nap a "B" Corp Exec's Daughter</notes>
+    </week>
     <week>
       <guid>3e42aa3c-855e-4445-b263-d4a9072c26cd</guid>
       <year>2078</year>
