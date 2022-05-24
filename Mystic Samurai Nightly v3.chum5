@@ -35,7 +35,7 @@
   <gender>Male</gender>
   <age>28/29</age>
   <eyes>Dark Brown</eyes>
-  <height>1.75m</height>
+  <height>1.75m, 5ft 9in</height>
   <weight>85kg</weight>
   <skin>Medium Tan</skin>
   <hair>Black</hair>
@@ -50,7 +50,7 @@ Tiger tattoo on his right shoulder.\par
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs17\lang1033 Tashio never knew his parents. He grew up in the slums surrounding Neo-Tokyo, fighting for survival and and later for fun. After a mugging gone wrong the wealthy looking target saw something in the boy, that he was an unaware awakened, and took him in. The man, Akamine Jun, was a member of the Yakuza. \par
 \par
-Jun gave Toshio an education and taught him the code to live by. To fight honourably, to protect and respect his friends, and to always dress well. He organised that Toshio was taught by a dudist priest how to control his powers, so he wouldn't hurt himself or others by mistake.\par
+Jun gave Toshio an education and taught him the code to live by. To fight honourably, to protect and respect his friends, and to always dress well. He organised that Toshio was taught by a buddhist priest how to control his powers, so he wouldn't hurt himself or others by mistake.\par
 \par
 Years later Jun was promoted to a local boss, and tasked with establishing a foothold in Azania. Toshio had followed in his adopted fathers footsteps and had become a member of the Yakuza. Toshio volunteered to accompy Jun to Azania, wanting to serve as his first guard.\par
 \par
@@ -59,9 +59,13 @@ Another a base was established they had begun to claim territory. Members of ano
 Toshio feels dishonoured by his failure to protect his father. He strives to stay true to the code given to him by his father. He seeks vengence and to reclaim his father's sword, but is worried that his intentions are not pure. To do this he seeks out those who know what goes on in the shadows.\par
 }
 </background>
-  <concept>To Toshiro honour is what is most important, so he seeks to make fights fair. He uses his powers to level the field and seeks to draw enemies into melee.
-
-He follows the Seven Virtues: Righteousness, Courage, Kindness, Respect, Honesty, Honor and Loyalty.</concept>
+  <concept>{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs17\lang1033 To Toshiro honour is what is most important, so he seeks to make fights fair. He uses his powers to level the field and seeks to draw enemies into melee.\par
+\par
+He follows the Seven Virtues: Righteousness, Courage, Kindness, Respect, Honesty, Honor and Loyalty.\par
+}
+</concept>
   <notes />
   <alias>Samurai</alias>
   <playername>Cameron</playername>
@@ -190,7 +194,7 @@ high res 8th floor 15 foor htr\par
 5 days.\par
 12 guards\par
 \par
-2 stun 1 \par
+2 stun 1\par
 5000 Nuyen in cash\par
 \par
 120 000 nuyen\par
@@ -276,10 +280,79 @@ Hotel Baladeir\par
 2 * beretta 201T\par
 \par
 Impi zulu private security/ inteligence service/ secret police\par
+she is coming to the reserve to see a specific animal in the animal reserve, the terrapin\par
+\par
+2% per box of physical damge to repair the car. so 8% of 67000 = 5360\par
+\par
+Ken Chen - Samurai\par
+\par
+Ryo wants us to extract a Yakuza member in Cape Town in the next 3 weeks 50,000 a head.\par
+\par
+5 - 7 pm\par
+\par
+200kg of c4 was moved by Janus and Baron\par
+\par
+To contact the trainer, contact Weasel\par
+\par
+Amanda Hildenhuis - Surfer Chick\par
+\par
+The D. B. Cooper Forum has bounty hunter jobs\par
+\par
+Sandy the Orc, Bar tender, have her number\par
+\par
+Ilay Scotch\par
+`\par
+Knyght has gone missing.\par
+He organised for someone to get his deck from Ed's room.\par
+Looking on the board for jobs he has looked at.\par
+Courier recived Knyghts deck at 5am.\par
+\par
+Confrontation with the military at the Cape Town station.\par
+\par
+Ministry of the military know who we are\par
+\par
+Hasagawa Iroha\par
+2 years Aoi junior.\par
+Is a genius, sycopath/sociopath. Chemical booms.\par
+Aoi sent me, remind her, the snow does not give way to the sakura, it leaves of its own accord\par
+Good at Impressions\par
+Rainbow hair\par
+\par
+One of the six engines went.\par
+Rudy made it worse with his magic.\par
+Spirit of Man told us not to go to the other side of the moutain, or to only go when the storm was down/ they were asleep. Only go if you can deal with them. They will trick you.\par
+There are spirits fighting on the other side. We should only go when the fighting spirits are sleeping.\par
+42000 for the repairs.\par
+\par
+beginning training spellcasting 7\par
+\par
+Break into a church to get Iroha Hasagawa 5ft4\par
+long hair, rainbow hue\par
+has tatoos everywhere\par
+western dragon on her back\par
+mostly yakuza\par
+cartoon characters on the front torso\par
+hands feet and face clear of tattoos\par
+one green eye on purple eye\par
+peircing from nose to lip\par
+she is in a old compound/ church colonial\par
+near the wine lands\par
+she repurposed it, so we are blind\par
+30 soldiers\par
+Silent Moon brothers, 2 adept hand to hand warrior, Nobunaga family\par
+operating in a red zone, cfd sufferers\par
+possible chance that their grandmaster is there.\par
+he is specialised in health spells\par
+he has been dabbling in corrupted magic, toxic mage\par
+\par
+Got to the staging area 15 min from the town we are going to\par
+Klaxons went off end of session\par
+\par
+\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>4</karma>
+  <karma>1</karma>
   <special>0</special>
   <totalspecial>3</totalspecial>
   <totalattributes>24</totalattributes>
@@ -298,7 +371,7 @@ Impi zulu private security/ inteligence service/ secret police\par
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>224791.00000</nuyen>
+  <nuyen>217481.00000</nuyen>
   <startingnuyen>6000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -638,7 +711,7 @@ Impi zulu private security/ inteligence service/ secret police\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>1</karma>
+        <karma>2</karma>
         <base>0</base>
         <notes />
         <name>Automatics</name>
@@ -750,7 +823,7 @@ Impi zulu private security/ inteligence service/ secret police\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <notes />
         <name>Computer</name>
@@ -763,7 +836,7 @@ Impi zulu private security/ inteligence service/ secret police\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>1</karma>
+        <karma>2</karma>
         <base>0</base>
         <notes />
         <name>Con</name>
@@ -1062,7 +1135,7 @@ Impi zulu private security/ inteligence service/ secret police\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>1</karma>
+        <karma>3</karma>
         <base>0</base>
         <notes />
         <name>Intimidation</name>
@@ -1101,7 +1174,7 @@ Impi zulu private security/ inteligence service/ secret police\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>2</karma>
         <base>0</base>
         <notes />
         <name>Longarms</name>
@@ -1741,7 +1814,7 @@ Impi zulu private security/ inteligence service/ secret police\par
     <contact>
       <name>Mother Mortiss</name>
       <role>Armorer</role>
-      <location />
+      <location>Cape Town</location>
       <connection>3</connection>
       <loyalty>2</loyalty>
       <metatype>Troll</metatype>
@@ -1853,7 +1926,7 @@ Impi zulu private security/ inteligence service/ secret police\par
     <contact>
       <name>Jeff</name>
       <role>Smuggler</role>
-      <location />
+      <location>Cape Town</location>
       <connection>1</connection>
       <loyalty>1</loyalty>
       <metatype />
@@ -1964,7 +2037,7 @@ Impi zulu private security/ inteligence service/ secret police\par
     </contact>
     <contact>
       <name>Kurozuka</name>
-      <role>Yakuza</role>
+      <role>Yakuza Team Leader</role>
       <location>Harare</location>
       <connection>1</connection>
       <loyalty>1</loyalty>
@@ -2043,6 +2116,146 @@ Impi zulu private security/ inteligence service/ secret police\par
       <free>False</free>
       <groupenabled>True</groupenabled>
       <guid>c85e8ce6-eaec-4960-a3d4-5d78033674b8</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Doc Johmson</name>
+      <role>Fixer</role>
+      <location>?</location>
+      <connection>1</connection>
+      <loyalty>1</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>08921666-ae6d-4e2d-b050-63c33ac9424c</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>D. B. Cooper Forum </name>
+      <role>Fixer</role>
+      <location>Matrix</location>
+      <connection>8</connection>
+      <loyalty>5</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>bf012b63-defa-49ff-a914-16fa2bc817b0</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Matt with a PHD</name>
+      <role>Parazoology (Infected)</role>
+      <location>Cape Town</location>
+      <connection>1</connection>
+      <loyalty>1</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>73a5251a-a752-4fe8-a0de-f373de4b6aa2</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Route</name>
+      <role>Shadowrunner</role>
+      <location />
+      <connection>1</connection>
+      <loyalty>1</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>96c51f70-b55a-4f7a-89be-06d19c06aecb</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Metric</name>
+      <role>Mechanic/ Vtol Hanger owner</role>
+      <location>Harare</location>
+      <connection>4</connection>
+      <loyalty>3</loyalty>
+      <metatype>Gnome</metatype>
+      <gender>Female</gender>
+      <age />
+      <contacttype>Mechanic</contacttype>
+      <preferredpayment />
+      <hobbiesvice>Rigger</hobbiesvice>
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>703ef3d6-7dc5-4003-8435-a8f0bf1a20c0</guid>
       <mainmugshotindex>-1</mainmugshotindex>
       <mugshots />
     </contact>
@@ -2869,7 +3082,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <source>RG</source>
       <page>74</page>
       <armorname />
-      <equipped>False</equipped>
+      <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -3221,7 +3434,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <source>RG</source>
       <page>61</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -3336,7 +3549,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <source>RG</source>
       <page>58</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -3591,7 +3804,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <source>SR5</source>
       <page>437</page>
       <armorname />
-      <equipped>False</equipped>
+      <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -5528,13 +5741,13 @@ Impi zulu private security/ inteligence service/ secret police\par
       <rating>0</rating>
       <clips>
         <clip>
-          <name>Ammo: EX-Explosive Rounds</name>
-          <id>8be0c065-06bf-4d79-b531-7cc731916f85</id>
+          <name>Ammo: Stick-n-Shock</name>
+          <id>50f2a118-33f8-43d1-803c-fcc5441c04ae</id>
           <count>15</count>
         </clip>
         <clip>
-          <name>Ammo: EX-Explosive Rounds</name>
-          <id>8be0c065-06bf-4d79-b531-7cc731916f85</id>
+          <name>Ammo: Gel Rounds</name>
+          <id>f60555d1-b62e-409d-8b6e-74e438b60ed0</id>
           <count>15</count>
         </clip>
         <clip>
@@ -7688,6 +7901,86 @@ Impi zulu private security/ inteligence service/ secret police\par
       <sortorder>0</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
+    <weapon>
+      <sourceid>a68d164d-4b79-47b9-ac89-4985ae18e882</sourceid>
+      <guid>8a6f1da7-6a75-4ddf-91f7-fcf7efb1f17c</guid>
+      <name>Sapphire Knife</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <spec>Knives</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>(STR+2)P</damage>
+      <ap>-3</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>6R</avail>
+      <cost>900</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>HT</source>
+      <page>179</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>5</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
+    </weapon>
   </weapons>
   <cyberwares />
   <qualities>
@@ -7892,6 +8185,35 @@ Impi zulu private security/ inteligence service/ secret police\par
       <firstlevelbonus />
       <notes />
     </quality>
+    <quality>
+      <sourceid>84305e09-f8d5-4a82-8257-0119b8c3f926</sourceid>
+      <guid>e45a1b70-7e9d-4b28-9597-c3fc0f449f89</guid>
+      <name>Catlike</name>
+      <extra />
+      <bp>7</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>True</mutant>
+      <source>SR5</source>
+      <page>72</page>
+      <sourcename />
+      <bonus>
+        <specificskill>
+          <name>Sneaking</name>
+          <bonus>2</bonus>
+        </specificskill>
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
   </qualities>
   <lifestyles>
     <lifestyle>
@@ -7903,7 +8225,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <lp>4</lp>
       <baselifestyle>Medium</baselifestyle>
       <multiplier>100</multiplier>
-      <months>5</months>
+      <months>4</months>
       <roommates>0</roommates>
       <percentage>100</percentage>
       <area>0</area>
@@ -8163,7 +8485,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>4</sortorder>
+      <sortorder>13</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -8201,7 +8523,122 @@ Impi zulu private security/ inteligence service/ secret police\par
       <matrixcmbonus>0</matrixcmbonus>
       <parentid />
       <allowrename>True</allowrename>
-      <children />
+      <children>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>de412ea3-1606-44d6-818f-56a0a8b02905</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Driver's License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>c1aa23fb-e3c9-4843-8bd6-03df5250a8a0</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Mystic Adept License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>1</sortorder>
+        </gear>
+      </children>
       <location />
       <notes />
       <discountedcost>False</discountedcost>
@@ -8220,7 +8657,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>5</sortorder>
+      <sortorder>16</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -8660,7 +9097,7 @@ Impi zulu private security/ inteligence service/ secret police\par
         </gear>
       </children>
       <location />
-      <notes />
+      <notes>Burnt</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
       <overclocked>None</overclocked>
@@ -8677,7 +9114,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>6</sortorder>
+      <sortorder>17</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -8792,7 +9229,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>7</sortorder>
+      <sortorder>18</sortorder>
     </gear>
     <gear>
       <sourceid>c6084c7a-ab84-4ea6-999e-ff99b91f9bf0</sourceid>
@@ -8964,7 +9401,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>8</sortorder>
+      <sortorder>19</sortorder>
     </gear>
     <gear>
       <sourceid>a19055f0-02ab-4bc2-ab43-0ef82e1b9100</sourceid>
@@ -9019,7 +9456,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>10</sortorder>
+      <sortorder>21</sortorder>
     </gear>
     <gear>
       <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
@@ -9109,7 +9546,7 @@ Impi zulu private security/ inteligence service/ secret police\par
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>1</sortorder>
+          <sortorder>2</sortorder>
         </gear>
         <gear>
           <sourceid>b0eef1d1-31ad-4e5c-bd55-27b2ae492327</sourceid>
@@ -9221,7 +9658,7 @@ Impi zulu private security/ inteligence service/ secret police\par
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </gear>
       </children>
       <location />
@@ -9242,7 +9679,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>9</sortorder>
+      <sortorder>20</sortorder>
     </gear>
     <gear>
       <sourceid>697ef5f4-8cde-434d-aca6-1bddd4d526d3</sourceid>
@@ -9297,7 +9734,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>11</sortorder>
+      <sortorder>22</sortorder>
     </gear>
     <gear>
       <sourceid>4f5b4fbc-78c4-4aa4-a5c2-7739f12e9b39</sourceid>
@@ -9352,7 +9789,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>12</sortorder>
+      <sortorder>23</sortorder>
     </gear>
     <gear>
       <sourceid>27f9775d-cd14-4900-827f-ba00d26e0c67</sourceid>
@@ -9739,7 +10176,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>2</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
@@ -9794,7 +10231,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>13</sortorder>
+      <sortorder>24</sortorder>
     </gear>
     <gear>
       <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
@@ -9960,7 +10397,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>3</sortorder>
+      <sortorder>11</sortorder>
     </gear>
     <gear>
       <sourceid>73e98bb9-4521-45a2-9185-13067fe6b90b</sourceid>
@@ -10622,7 +11059,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>4</sortorder>
+      <sortorder>14</sortorder>
     </gear>
     <gear>
       <sourceid>82334694-a630-42c4-95d6-eb1345e4ed82</sourceid>
@@ -10677,7 +11114,464 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>14</sortorder>
+      <sortorder>25</sortorder>
+    </gear>
+    <gear>
+      <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
+      <guid>06e8972e-715d-4c17-b2c5-3ff9a364445c</guid>
+      <name>Fake SIN</name>
+      <category>ID/Credsticks</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>6</rating>
+      <qty>1.0</qty>
+      <avail>(Rating * 3)F</avail>
+      <cost>Rating * 2500</cost>
+      <extra>Goto Tadasu</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <selecttext />
+      </bonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>True</allowrename>
+      <children>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>b7ba8689-0481-44bd-a2dd-31b752f9c352</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Driver's License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>58874ac8-ee7a-4526-886d-efef23bb5545</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Mystic Adept License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>de8f7381-9c6d-4ecf-96be-15bbdd7130f5</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Pistol License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>9ba3e56f-0cff-462e-bd7c-e8591af6678d</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Concealed Carry Permit</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>eff528d9-0631-4042-94a8-23e88de31490</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Blades License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>0ab94351-7743-4b01-ba8c-36bd19b1f1b6</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Bounty Hunter's License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>a8888793-d6d9-419c-a722-1d48fd1baa98</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Pilot License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </children>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>15</sortorder>
     </gear>
     <gear>
       <sourceid>ef37af30-1204-4918-af66-dfbdd33cd045</sourceid>
@@ -10732,7 +11626,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>15</sortorder>
+      <sortorder>26</sortorder>
     </gear>
     <gear>
       <sourceid>ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5</sourceid>
@@ -10790,7 +11684,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>16</sortorder>
+      <sortorder>27</sortorder>
     </gear>
     <gear>
       <sourceid>1315cecd-1c13-4d69-9828-a3ea535675da</sourceid>
@@ -10849,7 +11743,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>17</sortorder>
+      <sortorder>28</sortorder>
     </gear>
     <gear>
       <sourceid>7c5e7573-d75e-43e3-949c-cb4c9d70329b</sourceid>
@@ -10905,7 +11799,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>22</sortorder>
+      <sortorder>33</sortorder>
     </gear>
     <gear>
       <sourceid>96eb3f57-26e0-40c5-8dac-62cf8a0bc52f</sourceid>
@@ -10917,7 +11811,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>15</qty>
+      <qty>45</qty>
       <avail>14F</avail>
       <costfor>10</costfor>
       <cost>120</cost>
@@ -10964,7 +11858,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>18</sortorder>
+      <sortorder>29</sortorder>
     </gear>
     <gear>
       <sourceid>b2a0b340-c793-4322-8422-8b03d18a6fae</sourceid>
@@ -11020,7 +11914,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>19</sortorder>
+      <sortorder>30</sortorder>
     </gear>
     <gear>
       <sourceid>d9f69780-93eb-41ff-9a9c-893f8c52794e</sourceid>
@@ -11032,7 +11926,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>18</qty>
+      <qty>3</qty>
       <avail>6R</avail>
       <costfor>10</costfor>
       <cost>80</cost>
@@ -11080,7 +11974,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>20</sortorder>
+      <sortorder>31</sortorder>
     </gear>
     <gear>
       <sourceid>0c8d16cb-6e96-4d95-8454-104a36091cf9</sourceid>
@@ -11092,7 +11986,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>18</qty>
+      <qty>3</qty>
       <avail>2R</avail>
       <costfor>10</costfor>
       <cost>25</cost>
@@ -11139,7 +12033,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>21</sortorder>
+      <sortorder>32</sortorder>
     </gear>
     <gear>
       <sourceid>84c6921e-dfa0-42ca-a01f-87c459ffc000</sourceid>
@@ -11195,7 +12089,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>23</sortorder>
+      <sortorder>34</sortorder>
     </gear>
     <gear>
       <sourceid>f4b92e14-fe1f-4be4-ad73-aed10e1f73b4</sourceid>
@@ -11207,7 +12101,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>5</qty>
+      <qty>10</qty>
       <avail>6R</avail>
       <cost>100</cost>
       <extra />
@@ -11251,7 +12145,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>24</sortorder>
+      <sortorder>35</sortorder>
     </gear>
     <gear>
       <sourceid>25b0168d-7052-4f76-b8e5-162d67b8ab6e</sourceid>
@@ -11308,7 +12202,7 @@ Impi zulu private security/ inteligence service/ secret police\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>25</sortorder>
+      <sortorder>36</sortorder>
     </gear>
     <gear>
       <sourceid>8783e50c-f80b-4efe-b440-d2963b55c54e</sourceid>
@@ -11364,7 +12258,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>26</sortorder>
+      <sortorder>37</sortorder>
     </gear>
     <gear>
       <sourceid>76aca45d-0d4f-45a3-a532-c47ac0b26b89</sourceid>
@@ -11419,7 +12313,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>31</sortorder>
+      <sortorder>42</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -11483,7 +12377,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>27</sortorder>
+      <sortorder>38</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -11547,7 +12441,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>28</sortorder>
+      <sortorder>39</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -11611,7 +12505,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>29</sortorder>
+      <sortorder>40</sortorder>
     </gear>
     <gear>
       <sourceid>ae9c37df-6d82-44c1-aa21-6c87e45e2dc1</sourceid>
@@ -11672,7 +12566,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>30</sortorder>
+      <sortorder>41</sortorder>
     </gear>
     <gear>
       <sourceid>8adaecd5-0c24-4982-8803-e4459e16589f</sourceid>
@@ -11727,7 +12621,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>32</sortorder>
+      <sortorder>43</sortorder>
     </gear>
     <gear>
       <sourceid>a6c84397-4ee6-4f04-a18f-5506b38725f2</sourceid>
@@ -11782,7 +12676,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>33</sortorder>
+      <sortorder>44</sortorder>
     </gear>
     <gear>
       <sourceid>1522dd91-99d9-42f9-ab19-b43e8e3c7322</sourceid>
@@ -12556,7 +13450,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>True</active>
       <homenode>False</homenode>
-      <sortorder>34</sortorder>
+      <sortorder>45</sortorder>
     </gear>
     <gear>
       <sourceid>b4bbdbd3-1f65-44e5-b196-6ccbee1cc182</sourceid>
@@ -12612,7 +13506,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>35</sortorder>
+      <sortorder>46</sortorder>
     </gear>
     <gear>
       <sourceid>d1fca845-ae01-4b39-a176-1506da699e0e</sourceid>
@@ -12667,7 +13561,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>3</sortorder>
+      <sortorder>12</sortorder>
     </gear>
     <gear>
       <sourceid>2633cf38-90a6-4843-b475-e3ee1132fb5f</sourceid>
@@ -12725,7 +13619,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>1</sortorder>
+      <sortorder>8</sortorder>
     </gear>
     <gear>
       <sourceid>36b116d0-b401-4f60-b079-b748cf569edb</sourceid>
@@ -12780,7 +13674,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>2</sortorder>
+      <sortorder>10</sortorder>
     </gear>
     <gear>
       <sourceid>f8151303-b838-4af1-ba9d-d43ff0892b40</sourceid>
@@ -12837,7 +13731,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>af829cba-8d5e-40fd-b37b-e5266c29c55a</sourceid>
@@ -12898,7 +13792,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>0fdeb240-743c-4a9d-9cf1-fef0990575bb</sourceid>
@@ -12953,7 +13847,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>a39501ca-0df5-4fb7-8992-97b765383d17</sourceid>
@@ -13013,7 +13907,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
       <sourceid>ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5</sourceid>
@@ -13071,7 +13965,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>d9f69780-93eb-41ff-9a9c-893f8c52794e</sourceid>
@@ -13131,7 +14025,62 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>6</sortorder>
+    </gear>
+    <gear>
+      <sourceid>429fbdba-2818-43db-948a-e138b6bf49f9</sourceid>
+      <guid>b9c4deb0-8ef2-4bdb-93f7-5ed9ea628440</guid>
+      <name>Duffel Bag (Good)</name>
+      <category>Tools</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>100</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>RF</source>
+      <page>254</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>7</sortorder>
     </gear>
   </gears>
   <vehicles>
@@ -13258,7 +14207,7 @@ Prayer beads with multi coloured strings.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </gear>
       </gears>
       <weapons />
@@ -13313,7 +14262,7 @@ Prayer beads with multi coloured strings.</notes>
       <source>R5</source>
       <page>45</page>
       <parentid />
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
       <physicalcmfilled>0</physicalcmfilled>
       <matrixcmfilled>0</matrixcmfilled>
       <vehiclename />
@@ -13382,7 +14331,7 @@ Prayer beads with multi coloured strings.</notes>
           </bonus>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13418,7 +14367,7 @@ Prayer beads with multi coloured strings.</notes>
           </bonus>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13454,7 +14403,7 @@ Prayer beads with multi coloured strings.</notes>
           </bonus>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13489,7 +14438,7 @@ Prayer beads with multi coloured strings.</notes>
           </bonus>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13521,7 +14470,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13553,7 +14502,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13585,7 +14534,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>7</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13617,7 +14566,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>8</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13653,7 +14602,7 @@ Prayer beads with multi coloured strings.</notes>
           </bonus>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>9</sortorder>
           <stolen>False</stolen>
         </mod>
       </mods>
@@ -13712,7 +14661,7 @@ Prayer beads with multi coloured strings.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>10</sortorder>
         </gear>
       </gears>
       <weapons />
@@ -13735,7 +14684,7 @@ Prayer beads with multi coloured strings.</notes>
       <modfirewall />
       <modattributearray />
       <canswapattributes>False</canswapattributes>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </vehicle>
     <vehicle>
       <sourceid>c470d083-325f-43f4-a87e-3e3a56a73362</sourceid>
@@ -13767,7 +14716,7 @@ Prayer beads with multi coloured strings.</notes>
       <source>SS</source>
       <page>187</page>
       <parentid />
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
       <physicalcmfilled>0</physicalcmfilled>
       <matrixcmfilled>0</matrixcmfilled>
       <vehiclename />
@@ -13833,7 +14782,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13865,7 +14814,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13897,7 +14846,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13929,7 +14878,7 @@ Prayer beads with multi coloured strings.</notes>
           <weapons />
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -13964,7 +14913,7 @@ Prayer beads with multi coloured strings.</notes>
           </bonus>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
           <stolen>False</stolen>
         </mod>
         <mod>
@@ -14000,7 +14949,39 @@ Prayer beads with multi coloured strings.</notes>
           </bonus>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>b02bf28a-1012-452c-ac88-cb98181eded4</sourceid>
+          <guid>b21c6c66-38bb-468e-bd52-9691ec4863db</guid>
+          <name>Morphing License Plate</name>
+          <category>All</category>
+          <limit />
+          <slots>0</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>8F</avail>
+          <cost>1000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>152</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>7</sortorder>
           <stolen>False</stolen>
         </mod>
       </mods>
@@ -14059,7 +15040,7 @@ Prayer beads with multi coloured strings.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>8</sortorder>
         </gear>
       </gears>
       <weapons />
@@ -14082,7 +15063,411 @@ Prayer beads with multi coloured strings.</notes>
       <modfirewall />
       <modattributearray />
       <canswapattributes>False</canswapattributes>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
+    </vehicle>
+    <vehicle>
+      <sourceid>37eff614-ba8d-422c-af74-5cabcdebe3ce</sourceid>
+      <guid>6ba6f237-bbd9-4245-8ac8-7b4b2f27c348</guid>
+      <name>Federated Boeing Commuter (Tilt-Wing Airplane)</name>
+      <category>VTOL/VSTOL</category>
+      <handling>3</handling>
+      <offroadhandling>3</offroadhandling>
+      <accel>3</accel>
+      <offroadaccel>3</offroadaccel>
+      <speed>3</speed>
+      <offroadspeed>3</offroadspeed>
+      <pilot>3</pilot>
+      <body>16</body>
+      <seats>30</seats>
+      <armor>8</armor>
+      <sensor>3</sensor>
+      <devicerating>3</devicerating>
+      <avail>10</avail>
+      <cost>350000</cost>
+      <addslots>0</addslots>
+      <modslots>16</modslots>
+      <powertrainmodslots>0</powertrainmodslots>
+      <protectionmodslots>0</protectionmodslots>
+      <weaponmodslots>0</weaponmodslots>
+      <bodymodslots>0</bodymodslots>
+      <electromagneticmodslots>0</electromagneticmodslots>
+      <cosmeticmodslots>0</cosmeticmodslots>
+      <source>SR5</source>
+      <page>465</page>
+      <parentid />
+      <sortorder>3</sortorder>
+      <physicalcmfilled>0</physicalcmfilled>
+      <matrixcmfilled>0</matrixcmfilled>
+      <vehiclename />
+      <mods>
+        <mod>
+          <sourceid>831a60c3-f57b-40c7-9b4d-92906897ee90</sourceid>
+          <guid>24fbff1d-c91d-4cfb-95a5-b78c94bbb892</guid>
+          <name>GridLink</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>2</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>4</avail>
+          <cost>0</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>166</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>1</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>2e9575fb-d141-4f1d-a1a0-63aadc261c97</sourceid>
+          <guid>7e168b92-bff6-492c-b60c-c31c8e03de7d</guid>
+          <name>GridLink Override</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>1</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>8F</avail>
+          <cost>1000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>167</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>2</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>a249d87f-ec07-4716-9c62-e26061e80eac</sourceid>
+          <guid>8ecff796-affa-4df0-ac97-3482eb3a040b</guid>
+          <name>Signature Masking</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>Rating</slots>
+          <capacity />
+          <rating>6</rating>
+          <maxrating>6</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>14F</avail>
+          <cost>Rating * 2000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>168</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>3</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>bbfe9593-12ea-4873-9203-8f7063957225</sourceid>
+          <guid>9a9aba06-3dc0-4ad7-8cac-022c48a0b1b6</guid>
+          <name>SunCell</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>2</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>6</avail>
+          <cost>Body * 500</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>168</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>4</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>b242a897-74d6-44da-9922-b0b1f4537609</sourceid>
+          <guid>6ba5b693-1060-4d68-8e62-9da4147f3f94</guid>
+          <name>Multifuel Engine</name>
+          <category>Powertrain</category>
+          <limit />
+          <slots>4</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>10</avail>
+          <cost>Body * 1000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>155</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>5</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>b03829bf-1e15-4afe-aafc-9cda2c159fcd</sourceid>
+          <guid>fc48211d-e16a-4f97-9f7c-9102f367adfa</guid>
+          <name>Smuggling Compartment</name>
+          <category>Body</category>
+          <limit />
+          <slots>3</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>8F</avail>
+          <cost>1500</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>165</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>6</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>99f438a6-7543-4bb0-a1dc-4cef3112f003</sourceid>
+          <guid>a908266c-2e21-4c46-b428-6ec3f20dadef</guid>
+          <name>Spoof Chips</name>
+          <category>All</category>
+          <limit />
+          <slots>0</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>8F</avail>
+          <cost>500</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>152</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>7</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>7dbf54b3-6921-4fb6-b0e8-2a2e5e5e84fe</sourceid>
+          <guid>de236f48-0418-45f5-8de6-c7ebfc6bc72a</guid>
+          <name>Personal Armor</name>
+          <category>Protection</category>
+          <limit />
+          <slots>2</slots>
+          <capacity />
+          <rating>10</rating>
+          <maxrating>10</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>(Rating)R</avail>
+          <cost>Rating * 500</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>159</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>8</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>f2d9840c-22a7-4c70-943d-ffac88fe6120</sourceid>
+          <guid>4f484854-d85c-4408-87dd-b4882bd2ae3a</guid>
+          <name>Anti-Theft System</name>
+          <category>Protection</category>
+          <limit />
+          <slots>FixedValues(1,2,4,6)</slots>
+          <capacity />
+          <rating>3</rating>
+          <maxrating>4</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>FixedValues(4,6,8R,12F)</avail>
+          <cost>FixedValues(500,1000,2500,5000)</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>159</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+      </mods>
+      <weaponmounts />
+      <gears>
+        <gear>
+          <sourceid>2ca81a10-d0f7-4b39-ac93-a84f2f69f9d9</sourceid>
+          <guid>2a3a51c1-4d32-4e09-857b-3a0615d6f4ca</guid>
+          <name>Sensor Array</name>
+          <category>Sensors</category>
+          <capacity>8/[0]</capacity>
+          <armorcapacity>[0]</armorcapacity>
+          <minrating>2</minrating>
+          <maxrating>8</maxrating>
+          <rating>3</rating>
+          <qty>1.0</qty>
+          <avail>7</avail>
+          <cost>0</cost>
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>445</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid>6ba6f237-bbd9-4245-8ac8-7b4b2f27c348</parentid>
+          <allowrename>False</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>9</sortorder>
+        </gear>
+      </gears>
+      <weapons />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating>3</devicerating>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <sortorder>3</sortorder>
     </vehicle>
   </vehicles>
   <metamagics>
@@ -14353,7 +15738,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>False</enabled>
+      <enabled>True</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -14377,7 +15762,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>True</enabled>
+      <enabled>False</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -14401,7 +15786,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>True</enabled>
+      <enabled>False</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -14473,7 +15858,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>False</enabled>
+      <enabled>True</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -14568,7 +15953,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>False</enabled>
+      <enabled>True</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -14592,7 +15977,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>False</enabled>
+      <enabled>True</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -19044,6 +20429,259 @@ Prayer beads with multi coloured strings.</notes>
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>Driver's License</improvedname>
+      <sourcename>de412ea3-1606-44d6-818f-56a0a8b02905</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Mystic Adept License</improvedname>
+      <sourcename>c1aa23fb-e3c9-4843-8bd6-03df5250a8a0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Goto Tadasu</improvedname>
+      <sourcename>06e8972e-715d-4c17-b2c5-3ff9a364445c</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Driver's License</improvedname>
+      <sourcename>b7ba8689-0481-44bd-a2dd-31b752f9c352</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Mystic Adept License</improvedname>
+      <sourcename>58874ac8-ee7a-4526-886d-efef23bb5545</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Pistol License</improvedname>
+      <sourcename>de8f7381-9c6d-4ecf-96be-15bbdd7130f5</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Concealed Carry Permit</improvedname>
+      <sourcename>9ba3e56f-0cff-462e-bd7c-e8591af6678d</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Blades License</improvedname>
+      <sourcename>eff528d9-0631-4042-94a8-23e88de31490</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Bounty Hunter's License</improvedname>
+      <sourcename>0ab94351-7743-4b01-ba8c-36bd19b1f1b6</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Sneaking</improvedname>
+      <sourcename>e45a1b70-7e9d-4b28-9597-c3fc0f449f89</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Pilot License</improvedname>
+      <sourcename>a8888793-d6d9-419c-a722-1d48fd1baa98</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits>
@@ -22901,7 +24539,7 @@ Prayer beads with multi coloured strings.</notes>
       <guid>5a707591-f896-4e0b-ba0b-4abe637c36b5</guid>
       <date>2020-02-10T20:50:36</date>
       <amount>10</amount>
-      <reason>Equinox vision</reason>
+      <reason>Equinox vision Chosen Follower Arcana 1 to 3</reason>
       <type>Karma</type>
       <refund>True</refund>
       <forcecareervisible>False</forcecareervisible>
@@ -24491,7 +26129,7 @@ Prayer beads with multi coloured strings.</notes>
       <guid>e7f4cb3b-35be-4a2a-a231-b76e6d5a4e70</guid>
       <date>2021-10-12T19:19:00</date>
       <amount>9</amount>
-      <reason>Chosen Follower</reason>
+      <reason>Chosen Follower Magical Knowledge Skill</reason>
       <type>Karma</type>
       <refund>True</refund>
       <forcecareervisible>False</forcecareervisible>
@@ -24571,7 +26209,7 @@ Prayer beads with multi coloured strings.</notes>
       <guid>332ac0f8-be4e-4586-8109-0f5ae1f874a7</guid>
       <date>2021-10-12T23:01:59</date>
       <amount>15000</amount>
-      <reason>Rudy introduction Mission Reward</reason>
+      <reason>Rudy digging a hole in rock introduction Mission Reward</reason>
       <type>Nuyen</type>
       <refund>False</refund>
       <forcecareervisible>False</forcecareervisible>
@@ -24651,7 +26289,7 @@ Prayer beads with multi coloured strings.</notes>
       <guid>489c8810-2380-430f-b679-ba10604bd438</guid>
       <date>2021-10-20T21:08:19</date>
       <amount>3000</amount>
-      <reason>Diana Mission Forward Payment</reason>
+      <reason>Diana Compound Clearing Mission Forward Payment</reason>
       <type>Nuyen</type>
       <refund>False</refund>
       <forcecareervisible>False</forcecareervisible>
@@ -24864,6 +26502,792 @@ Prayer beads with multi coloured strings.</notes>
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>cd62883f-a2ba-4b83-8432-d67c6d6c26ac</guid>
+      <date>2021-12-15T21:32:39</date>
+      <amount>-6000.0</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>de412ea3-1606-44d6-818f-56a0a8b02905</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8824786d-dcd9-4ae2-8cb0-fda116ed00d7</guid>
+      <date>2022-01-05T19:37:26</date>
+      <amount>25</amount>
+      <reason>Christmas Karma</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>d17e6c00-ec57-4fa1-97a0-0df307e15ee6</guid>
+      <date>2022-01-05T21:45:30</date>
+      <amount>-1000.00</amount>
+      <reason>Purchased Vehicle Mod Morphing License Plate</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>b21c6c66-38bb-468e-bd52-9691ec4863db</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8a037a9e-be76-4df3-b575-73de0cf025c3</guid>
+      <date>2022-01-05T21:52:26</date>
+      <amount>-5360</amount>
+      <reason>Car repair materials</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>34c85035-241e-40a5-9393-117d41877134</guid>
+      <date>2022-01-05T21:53:15</date>
+      <amount>-1000</amount>
+      <reason>Mech Skills</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4afd6dd1-4b9d-4a1b-9b21-a4cdd8d3955d</guid>
+      <date>2022-01-12T19:27:36</date>
+      <amount>-900.0</amount>
+      <reason>Purchased Weapon Sapphire Knife</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeapon</nuyentype>
+        <objectid>8a6f1da7-6a75-4ddf-91f7-fcf7efb1f17c</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e695aa4c-2b1a-4db0-ad8d-934d54c2fcb3</guid>
+      <date>2022-01-12T19:28:17</date>
+      <amount>-1200.0</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>c1aa23fb-e3c9-4843-8bd6-03df5250a8a0</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c615f394-0d89-49a5-95ec-e6a52b16ca8c</guid>
+      <date>2022-01-18T21:23:54</date>
+      <amount>-100.0</amount>
+      <reason>Purchased Gear Duffel Bag (Good)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>b9c4deb0-8ef2-4bdb-93f7-5ed9ea628440</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>b4016e80-76a9-42e9-83cb-b3f63d77e76b</guid>
+      <date>2022-01-18T23:13:26</date>
+      <amount>30000</amount>
+      <reason>Impi Mission reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>351ebbeb-cf02-411f-bb6d-f5aadb567135</guid>
+      <date>2022-01-18T23:20:48</date>
+      <amount>10</amount>
+      <reason>Impi Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e2c2ecba-612b-4a27-83ec-3bbe87743aab</guid>
+      <date>2022-01-26T21:20:02</date>
+      <amount>-2</amount>
+      <reason>Active Skill Longarms 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>205d981a-fb43-4d50-9ed7-a7d56db34b0d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e225cffa-9b61-4cfb-8071-95c80b23f409</guid>
+      <date>2022-02-06T18:28:05</date>
+      <amount>-18750.000</amount>
+      <reason>Purchased Gear Fake SIN</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>06e8972e-715d-4c17-b2c5-3ff9a364445c</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5463da6f-ded8-4dbb-960a-fca6aa4d2094</guid>
+      <date>2022-02-06T18:28:43</date>
+      <amount>-1500.000</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>b7ba8689-0481-44bd-a2dd-31b752f9c352</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>6237308b-a0cc-451d-9c3f-c4e0a571d2b1</guid>
+      <date>2022-02-06T18:29:55</date>
+      <amount>-1500.000</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>58874ac8-ee7a-4526-886d-efef23bb5545</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e3373141-dec1-45f9-b972-23ee16bbe7fb</guid>
+      <date>2022-02-06T18:30:16</date>
+      <amount>-1500.000</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>de8f7381-9c6d-4ecf-96be-15bbdd7130f5</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c0e7cfa8-40cd-4411-b015-c75aac0e43d1</guid>
+      <date>2022-02-06T18:30:51</date>
+      <amount>-1500.000</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>9ba3e56f-0cff-462e-bd7c-e8591af6678d</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>523e4eb1-0dfd-43ca-aa00-37aeee4b3102</guid>
+      <date>2022-02-06T18:32:27</date>
+      <amount>-1500.000</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>eff528d9-0631-4042-94a8-23e88de31490</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>40e483d6-1776-4027-8db7-ebe333de83a1</guid>
+      <date>2022-02-06T18:32:51</date>
+      <amount>-1500.000</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>0ab94351-7743-4b01-ba8c-36bd19b1f1b6</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e93e8ec8-8c4c-433e-b491-d4487597b489</guid>
+      <date>2022-02-06T19:39:25</date>
+      <amount>-100</amount>
+      <reason>Longarms Training</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9ca594db-d2a6-4dfa-b813-08f66c788e34</guid>
+      <date>2022-02-06T19:40:15</date>
+      <amount>-4</amount>
+      <reason>Active Skill Longarms 1 -&gt; 2</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>205d981a-fb43-4d50-9ed7-a7d56db34b0d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>da8bfe1a-7b6f-4fde-bc9e-b47bde9eb454</guid>
+      <date>2022-02-06T19:58:34</date>
+      <amount>-100</amount>
+      <reason>Automatics Taining</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>93e0d957-d2a0-4102-adc7-83c4a5866415</guid>
+      <date>2022-02-06T19:59:41</date>
+      <amount>-4</amount>
+      <reason>Active Skill Automatics 1 -&gt; 2</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>956ea8ae-7eed-428e-850e-7b5381142f2f</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4121a711-ca54-4a9b-b8de-71d61a8dc1ee</guid>
+      <date>2022-02-16T19:03:41</date>
+      <amount>2</amount>
+      <reason>Bonus</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>f6bc577b-4613-4463-895a-26be8743dd48</guid>
+      <date>2022-03-02T22:58:28</date>
+      <amount>-14</amount>
+      <reason>Gained Positive Quality Catlike</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>e45a1b70-7e9d-4b28-9597-c3fc0f449f89</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9fc24983-16dc-433c-91de-ff1e127396fd</guid>
+      <date>2022-03-16T20:31:39</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>11937c8a-c82a-49c0-9a38-37fb460cc890</guid>
+      <date>2022-03-16T20:38:10</date>
+      <amount>-2000.0</amount>
+      <reason>Purchased Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>IncreaseLifestyle</nuyentype>
+        <objectid>35614705-c9b3-4e13-b130-35bded62061c</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>f62b67ca-e167-43ad-a722-8c73e2756a0d</guid>
+      <date>2022-03-16T20:38:24</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>5a365204-c133-4ad6-9e18-cfda90ab6698</guid>
+      <date>2022-03-23T20:48:41</date>
+      <amount>0.0</amount>
+      <reason>Purchased Vehicle Mod Chameleon Coating</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>a8aebd6e-a486-4bc9-8ad7-d7dacc520c73</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4705bcfb-bdb2-45c4-b7e2-38baa899f138</guid>
+      <date>2022-03-30T19:34:56</date>
+      <amount>0.0</amount>
+      <reason>Purchased Vehicle Mod GridLink</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>24fbff1d-c91d-4cfb-95a5-b78c94bbb892</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>2133df4c-3353-4ebd-a188-89d6769d5ee3</guid>
+      <date>2022-04-06T20:02:27</date>
+      <amount>24500</amount>
+      <reason>Money from the Military</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>62510d8d-d604-435d-bf7b-748836bf9f02</guid>
+      <date>2022-04-06T20:24:39</date>
+      <amount>-2</amount>
+      <reason>Active Skill Computer 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>fe274bf5-98b2-416b-98e9-52d40f7a3163</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0914bcb6-b770-4e5c-8058-897d4a97eb98</guid>
+      <date>2022-04-06T20:30:58</date>
+      <amount>-4</amount>
+      <reason>Active Skill Con 1 -&gt; 2</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>eb4b4801-6e94-4266-9a49-e611458d5a0d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>49fbe146-46cc-4225-ac2d-bccf83be4c11</guid>
+      <date>2022-04-06T20:31:02</date>
+      <amount>-4</amount>
+      <reason>Active Skill Intimidation 1 -&gt; 2</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>ffcdf119-2d0f-4c29-bb6a-ed6640ecff0d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>87deda5a-c90d-48d4-82de-ddcfff1bf997</guid>
+      <date>2022-04-06T20:31:04</date>
+      <amount>-6</amount>
+      <reason>Active Skill Intimidation 2 -&gt; 3</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>ffcdf119-2d0f-4c29-bb6a-ed6640ecff0d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c6341bbb-40c5-4e0a-97dd-cdd4596a0ce0</guid>
+      <date>2022-04-06T20:31:55</date>
+      <amount>3200</amount>
+      <reason>Chameleon coating (sale)</reason>
+      <type>Nuyen</type>
+      <refund>True</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5e0d1f46-ed62-4cf5-91a4-89da545733fe</guid>
+      <date>2022-04-06T20:33:15</date>
+      <amount>-7000</amount>
+      <reason>Repair the VTOL</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0a357788-2f01-4256-9ad6-4021646936e8</guid>
+      <date>2022-04-06T20:33:37</date>
+      <amount>4000</amount>
+      <reason>Payment for repairs from Rudy</reason>
+      <type>Nuyen</type>
+      <refund>True</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>847e0f7d-f8ca-400c-a5b8-50dbcd66c6a1</guid>
+      <date>2022-04-06T20:34:21</date>
+      <amount>-1000.0</amount>
+      <reason>Purchased Vehicle Mod GridLink Override</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>7e168b92-bff6-492c-b60c-c31c8e03de7d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>32aa266a-9243-4213-b013-5f7912794ca0</guid>
+      <date>2022-04-06T20:35:21</date>
+      <amount>-12000.0</amount>
+      <reason>Purchased Vehicle Mod Signature Masking</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>8ecff796-affa-4df0-ac97-3482eb3a040b</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>cae3504a-2700-4f1b-91ab-28c78d4fc360</guid>
+      <date>2022-04-06T20:36:04</date>
+      <amount>-8000.0</amount>
+      <reason>Purchased Vehicle Mod SunCell</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>9a9aba06-3dc0-4ad7-8cac-022c48a0b1b6</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>1c1c6b9a-c534-4e9b-9d86-808bf646ffb2</guid>
+      <date>2022-04-06T20:36:26</date>
+      <amount>-16000.0</amount>
+      <reason>Purchased Vehicle Mod Multifuel Engine</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>6ba5b693-1060-4d68-8e62-9da4147f3f94</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>116acc8a-96a2-407b-b01c-757866ff754c</guid>
+      <date>2022-04-06T20:36:45</date>
+      <amount>-1500.0</amount>
+      <reason>Purchased Vehicle Mod Smuggling Compartment</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>fc48211d-e16a-4f97-9f7c-9102f367adfa</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>7f3d2330-bac8-4aa4-b10d-3092d3b93438</guid>
+      <date>2022-04-06T20:37:17</date>
+      <amount>-300</amount>
+      <reason>3 days Shop Rental</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>b74f453c-a8eb-43d8-8bdd-6b735fcae334</guid>
+      <date>2022-04-06T20:37:35</date>
+      <amount>-3000</amount>
+      <reason>Mechanical Labour</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9d11f0b3-3022-44b6-b51d-2e10828316bc</guid>
+      <date>2022-04-06T21:02:35</date>
+      <amount>-500.0</amount>
+      <reason>Purchased Vehicle Mod Spoof Chips</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>a908266c-2e21-4c46-b428-6ec3f20dadef</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0ceaabc0-c84a-483b-b080-5ad98984c11f</guid>
+      <date>2022-04-06T21:14:17</date>
+      <amount>-5000.0</amount>
+      <reason>Purchased Vehicle Mod Personal Armor</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>de236f48-0418-45f5-8de6-c7ebfc6bc72a</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>6c86df84-831d-4c11-b453-26ff87e1225c</guid>
+      <date>2022-04-06T21:17:56</date>
+      <amount>-1200.0</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>a8888793-d6d9-419c-a722-1d48fd1baa98</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>aefb41de-a94f-44f7-bfe2-c90f7bd1800a</guid>
+      <date>2022-04-06T21:18:06</date>
+      <amount>-500</amount>
+      <reason>Docking fee</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>b24aae6f-1974-4671-8fc6-788b2f92c863</guid>
+      <date>2022-04-06T22:15:29</date>
+      <amount>35000</amount>
+      <reason>Ryo pre mission payment</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>932beda0-ca62-49c0-b0f3-37536cf70216</guid>
+      <date>2022-04-12T19:00:48</date>
+      <amount>-2500.0</amount>
+      <reason>Purchased Vehicle Mod Anti-Theft System</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>4f484854-d85c-4408-87dd-b4882bd2ae3a</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations />
   <armorlocations />
@@ -24872,10 +27296,34 @@ Prayer beads with multi coloured strings.</notes>
   <improvementgroups />
   <calendar>
     <week>
+      <guid>ef3c1a0a-491a-4347-8d8e-256ff206ed1b</guid>
+      <year>2078</year>
+      <week>11</week>
+      <notes>Third week of downtime, second week of training.</notes>
+    </week>
+    <week>
+      <guid>ae1cb7cc-3aa0-4b4f-82b9-576e98d7a9f1</guid>
+      <year>2078</year>
+      <week>10</week>
+      <notes>Second week of downtime, mostly training, some VTOL upgrading is planned. Vtol was repaired and upgraded with</notes>
+    </week>
+    <week>
+      <guid>1a8082bb-386d-41a7-88d0-4435a5ee7f3e</guid>
+      <year>2078</year>
+      <week>9</week>
+      <notes>Had a run in with an officer of the Azanian Military. Back in Harare. Had a meeting about the Azanian Military. Ryo gave us a mission. Janus made a deal with the Azanian Military.</notes>
+    </week>
+    <week>
+      <guid>c78dcc88-cb9e-434b-bbd1-92720c69f346</guid>
+      <year>2078</year>
+      <week>8</week>
+      <notes>Training at the bucker and went to the Waterfront in Cape Town</notes>
+    </week>
+    <week>
       <guid>61a48189-8845-40fd-81cc-ae6bd796487e</guid>
       <year>2078</year>
       <week>7</week>
-      <notes>Nap a "B" Corp Exec's Daughter</notes>
+      <notes>Napped a B Corp (Harare Redevelopment Plan) Exec's Daughter, ran up against the Impi. Joined the D B Cooper Board</notes>
     </week>
     <week>
       <guid>3e42aa3c-855e-4445-b263-d4a9072c26cd</guid>

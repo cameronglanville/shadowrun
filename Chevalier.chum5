@@ -64,7 +64,7 @@ Mr. Lynche has been using him as a decker for hire, making him operate as "The M
 </notes>
   <alias>The Chevalier/ The Machinist</alias>
   <playername>Cameron</playername>
-  <gamenotes>{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+  <gamenotes>{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs17\lang1033 __________________\par
 \par
@@ -132,10 +132,10 @@ Red Arrow has a secure storage facility nearby, with faraday security.\par
 \par
 Lockdown 10 pm to 5 am.\par
 \par
-commlink code of the one he is gaining \par
+commlink code of the one he is gaining\par
 5am parking lot of the warehouse\par
 \par
-all 4 cars carring medical supplies have been vlown up by the red arrow\par
+all 4 cars carring medical supplies have been Blown up by the red arrow\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
@@ -1153,12 +1153,12 @@ all 4 cars carring medical supplies have been vlown up by the red arrow\par
         <guid>c1c89d94-8e91-476d-8b13-ea943441326f</guid>
         <suid>00000000-0000-0000-0000-000000000000</suid>
         <isknowledge>True</isknowledge>
-        <skillcategory>Academic</skillcategory>
+        <skillcategory />
         <karma>0</karma>
         <base>0</base>
         <notes />
         <name>Dissonance</name>
-        <type>Academic</type>
+        <type />
         <isnativelanguage>False</isnativelanguage>
         <forced />
       </skill>
@@ -4613,7 +4613,7 @@ all 4 cars carring medical supplies have been vlown up by the red arrow\par
       <devicerating>5</devicerating>
       <gearname />
       <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmfilled>1</matrixcmfilled>
       <matrixcmbonus>0</matrixcmbonus>
       <parentid />
       <allowrename>False</allowrename>
@@ -8997,38 +8997,6 @@ all 4 cars carring medical supplies have been vlown up by the red arrow\par
       </undo>
     </expense>
     <expense>
-      <guid>8b95cdd0-44a4-429e-bd73-c436ce5687d2</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>0409136d-96b7-41c7-b349-667ef4e7073d</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>dc781247-5683-4296-bd87-7f9d23d175c2</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
@@ -9222,6 +9190,38 @@ all 4 cars carring medical supplies have been vlown up by the red arrow\par
     </expense>
     <expense>
       <guid>104b1dfc-8fb1-4bb4-b64d-f0b7eab59242</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8b95cdd0-44a4-429e-bd73-c436ce5687d2</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0409136d-96b7-41c7-b349-667ef4e7073d</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
       <reason>Removed Negative Quality In Debt</reason>
