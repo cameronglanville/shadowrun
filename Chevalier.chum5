@@ -139,7 +139,7 @@ all 4 cars carring medical supplies have been Blown up by the red arrow\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>0</karma>
+  <karma>5</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>0</totalattributes>
@@ -8997,22 +8997,6 @@ all 4 cars carring medical supplies have been Blown up by the red arrow\par
       </undo>
     </expense>
     <expense>
-      <guid>dc781247-5683-4296-bd87-7f9d23d175c2</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>a6f7f675-c771-4bd8-9a43-9a10a176f7b7</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
@@ -9222,6 +9206,22 @@ all 4 cars carring medical supplies have been Blown up by the red arrow\par
     </expense>
     <expense>
       <guid>0409136d-96b7-41c7-b349-667ef4e7073d</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>dc781247-5683-4296-bd87-7f9d23d175c2</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
       <reason>Removed Negative Quality In Debt</reason>
@@ -11015,6 +11015,22 @@ all 4 cars carring medical supplies have been Blown up by the red arrow\par
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>cc6a05bc-52cd-40ad-a4cb-ffd9f07d58f4</guid>
+      <date>2022-05-24T19:43:29</date>
+      <amount>5</amount>
+      <reason>Medical Supplies Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
         <objectid />
         <qty>0</qty>
         <extra />
