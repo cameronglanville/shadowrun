@@ -347,12 +347,10 @@ he has been dabbling in corrupted magic, toxic mage\par
 \par
 Got to the staging area 15 min from the town we are going to\par
 Klaxons went off end of session\par
-\par
-\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>1</karma>
+  <karma>43</karma>
   <special>0</special>
   <totalspecial>3</totalspecial>
   <totalattributes>24</totalattributes>
@@ -371,7 +369,7 @@ Klaxons went off end of session\par
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>217481.00000</nuyen>
+  <nuyen>232481.00000</nuyen>
   <startingnuyen>6000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -485,7 +483,7 @@ Klaxons went off end of session\par
       <base>0</base>
       <karma>3</karma>
       <metatypecategory>Special</metatypecategory>
-      <totalvalue>4</totalvalue>
+      <totalvalue>3</totalvalue>
     </attribute>
     <attribute>
       <name>MAG</name>
@@ -20682,6 +20680,29 @@ Prayer beads with multi coloured strings.</notes>
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>EDG</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>0</max>
+      <aug>-1</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>EdgeUse</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits>
@@ -25818,7 +25839,7 @@ Prayer beads with multi coloured strings.</notes>
       <forcecareervisible>False</forcecareervisible>
     </expense>
     <expense>
-      <guid>1824fa1a-b15e-447a-9b01-cbd42e229d9e</guid>
+      <guid>cbed8ca6-d8b5-4a50-b98f-762f1d64cba3</guid>
       <date>2021-09-29T21:36:37</date>
       <amount>0</amount>
       <reason>Decremented Lifestyle Medium</reason>
@@ -25827,7 +25848,7 @@ Prayer beads with multi coloured strings.</notes>
       <forcecareervisible>False</forcecareervisible>
     </expense>
     <expense>
-      <guid>cbed8ca6-d8b5-4a50-b98f-762f1d64cba3</guid>
+      <guid>1824fa1a-b15e-447a-9b01-cbd42e229d9e</guid>
       <date>2021-09-29T21:36:37</date>
       <amount>0</amount>
       <reason>Decremented Lifestyle Medium</reason>
@@ -27284,6 +27305,70 @@ Prayer beads with multi coloured strings.</notes>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddVehicleMod</nuyentype>
         <objectid>4f484854-d85c-4408-87dd-b4882bd2ae3a</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>93db5d22-fe0d-4af6-a77c-0a2fa6792712</guid>
+      <date>2022-05-24T19:42:59</date>
+      <amount>5</amount>
+      <reason>Medical supplies Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>34a4544e-58a8-44c8-8fab-45e11e1338de</guid>
+      <date>2022-06-28T20:00:38</date>
+      <amount>25</amount>
+      <reason>Karma for getting a new Rule Book</reason>
+      <type>Karma</type>
+      <refund>True</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>fd99e0a9-02c6-4757-8bcf-2e60fe7543fb</guid>
+      <date>2022-06-28T23:56:24</date>
+      <amount>15000</amount>
+      <reason>Iroha resue Mission Reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5e8d8f3a-a0f3-4bb0-ac41-c4ec9ab97b31</guid>
+      <date>2022-06-28T23:56:42</date>
+      <amount>12</amount>
+      <reason>Iroha Resue Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
         <qty>0</qty>
         <extra />
       </undo>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <character>
   <createdversion>5.201.28</createdversion>
-  <appversion>5.211.0.0</appversion>
+  <appversion>5.214.0.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>default.xml</settings>
   <metatype>Troll</metatype>
@@ -29,7 +29,7 @@
   <name>Connor Quinn</name>
   <mainmugshotindex>-1</mainmugshotindex>
   <mugshots />
-  <sex>Male</sex>
+  <gender>Male</gender>
   <age>26</age>
   <eyes>Brown</eyes>
   <height>290cm</height>
@@ -58,37 +58,42 @@ He picked up the name Omega, for his overwhelming power and tendency to end figh
   <notes>Has a Judge tattoo on his left shoulder.</notes>
   <alias>Omega</alias>
   <playername>Cameron</playername>
-  <gamenotes>Persephone Drudic Troll
-uncategorized mentor spirit, precognation
-gone to the wasteland
-gone to the middle of the city, looking to prevent something she saw, a cult trying to currupt the mana
-
-3* potency 6 body boosts
-
-Meet with Carter of the Judge's Maggie, mean streak
-Take out a crowbar gang: D69s
-Leader is named Rodriguez
-Hit 5 targets and leave an ARO with a commlink number
-10 buildings they own
-15 outposts they frequent
-10 clubs they frequent
-
-26000 Nuyen in debt to Crazy Mage
-
-Mandraks drug made by the Americas gang
-
-Heckter Maias head of a new brothel.
-^Americas
-
-rating 2 commlink
-rating 3 commlink
-ares alpha
-wrecked ares alpha
-^3 spare clips
-4 mini frag grenades
-ares preditor V
-rating 4 commlink
-ares preditor V * 2
+  <gamenotes>{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs17\lang1033 Persephone Drudic Troll\par
+uncategorized mentor spirit, precognation\par
+gone to the wasteland\par
+gone to the middle of the city, looking to prevent something she saw, a cult trying to currupt the mana\par
+\par
+3* potency 6 body boosts\par
+\par
+Meet with Carter of the Judge's Maggie, mean streak\par
+Take out a crowbar gang: D69s\par
+Leader is named Rodriguez\par
+Hit 5 targets and leave an ARO with a commlink number\par
+10 buildings they own\par
+15 outposts they frequent\par
+10 clubs they frequent\par
+\par
+26000 Nuyen in debt to Crazy Mage\par
+\par
+Mandraks drug made by the Americas gang\par
+\par
+Heckter Maias head of a new brothel.\par
+^Americas\par
+\par
+rating 2 commlink\par
+rating 3 commlink\par
+ares alpha\par
+wrecked ares alpha\par
+^3 spare clips\par
+4 mini frag grenades\par
+ares preditor V\par
+rating 4 commlink\par
+ares preditor V * 2\par
+\par
+Alfred\par
+}
 </gamenotes>
   <primaryarm>Right</primaryarm>
   <karma>5</karma>
@@ -106,6 +111,8 @@ ares preditor V * 2
   <notoriety>0</notoriety>
   <publicawareness>0</publicawareness>
   <burntstreetcred>0</burntstreetcred>
+  <baseastralreputation>0</baseastralreputation>
+  <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
   <nuyen>37333.00</nuyen>
@@ -295,6 +302,9 @@ ares preditor V * 2
         <suid>b52f7575-eebf-41c4-938d-df3397b5ee68</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -305,6 +315,9 @@ ares preditor V * 2
         <suid>e09e5aa7-e496-41a2-97ce-17f577361888</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -315,6 +328,9 @@ ares preditor V * 2
         <suid>74a68a9e-8c5b-4998-8dbb-08c1e768afc3</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Pseudo-Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -325,6 +341,9 @@ ares preditor V * 2
         <suid>1537ca5c-fa93-4c05-b073-a2a0eed91b8e</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -335,6 +354,9 @@ ares preditor V * 2
         <suid>ada6d9b2-e451-4289-be45-7085fa34a51a</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -345,6 +367,9 @@ ares preditor V * 2
         <suid>2f4c706f-5ac5-4774-8a45-3b4667989a20</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -355,6 +380,9 @@ ares preditor V * 2
         <suid>788b387b-ee41-4e6a-bf22-481a8cc4cf9f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -365,6 +393,9 @@ ares preditor V * 2
         <suid>5e5f2f7f-f63b-4f65-a65d-91b3d4523c6f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -375,6 +406,9 @@ ares preditor V * 2
         <suid>ba624682-a5c0-4cf5-b47b-1021e6a1800d</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -385,6 +419,9 @@ ares preditor V * 2
         <suid>48763fa5-4b89-48c7-80ff-d0a2761de4c0</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -395,6 +432,9 @@ ares preditor V * 2
         <suid>bd4d977a-cbd4-4289-99bb-896caed6786a</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -405,6 +445,9 @@ ares preditor V * 2
         <suid>cd9f6bf7-fa48-464b-9a8f-c7ce26713a72</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -415,6 +458,9 @@ ares preditor V * 2
         <suid>1c14bf0d-cc69-4126-9a95-1f2429c11aa5</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -425,6 +471,9 @@ ares preditor V * 2
         <suid>6d7f48d3-84a1-4fce-90d3-58d566f70fa6</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -435,6 +484,9 @@ ares preditor V * 2
         <suid>7143f979-aa48-4cc8-a29c-e010400e6e11</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -445,6 +497,9 @@ ares preditor V * 2
         <suid>9b386fe5-83b3-436f-9035-efd1c0f7a680</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -455,6 +510,9 @@ ares preditor V * 2
         <suid>276877e1-5cdf-4e95-befd-13c1abb5ae02</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -465,6 +523,9 @@ ares preditor V * 2
         <suid>9b2416b2-3e2b-4dd6-ab9d-530f493c1c22</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -475,6 +536,9 @@ ares preditor V * 2
         <suid>23c3320c-5010-4b2e-ac46-76f0a86af0b9</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -485,6 +549,9 @@ ares preditor V * 2
         <suid>2c8e5f20-e52d-4844-89e9-51b92dba47df</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -495,6 +562,9 @@ ares preditor V * 2
         <suid>3f93335c-49d6-4904-a97e-4c942ab05b59</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -505,6 +575,9 @@ ares preditor V * 2
         <suid>b20acd11-f102-40f3-a641-e3c420fbdb91</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -515,6 +588,9 @@ ares preditor V * 2
         <suid>47cb1e8b-c285-4c54-9aaa-75305ad6dd4f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -525,6 +601,9 @@ ares preditor V * 2
         <suid>27db6e2a-a49f-4232-b150-e676b8dacb52</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>True</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -535,6 +614,9 @@ ares preditor V * 2
         <suid>c9f52f97-a284-44a7-8af6-802dd3ed554f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -545,6 +627,9 @@ ares preditor V * 2
         <suid>f510ccc3-cf95-4461-b2f7-e966daaa5a91</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -555,6 +640,9 @@ ares preditor V * 2
         <suid>58452cff-44ea-41c6-a554-28a869149b27</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -565,6 +653,9 @@ ares preditor V * 2
         <suid>a9fa961d-07e5-46da-8edc-403ae3e6cc75</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -575,6 +666,9 @@ ares preditor V * 2
         <suid>c2bb65f5-4a6b-49bf-9925-ef6434cb6929</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -585,6 +679,9 @@ ares preditor V * 2
         <suid>41e184e0-7273-403a-9300-fa29a1707bf0</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -595,6 +692,9 @@ ares preditor V * 2
         <suid>64841e6e-9487-4b63-80a1-dcad6eb78179</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>1</karma>
         <base>6</base>
         <notes />
@@ -604,6 +704,7 @@ ares preditor V * 2
             <guid>3c673dd2-ac5c-4df9-8ea8-51f2b92f8557</guid>
             <name>Machine Guns</name>
             <free>False</free>
+            <expertise>False</expertise>
           </spec>
         </specs>
       </skill>
@@ -612,6 +713,9 @@ ares preditor V * 2
         <suid>e7e5a43f-9762-4863-86dc-3fd7799e53a2</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -622,6 +726,9 @@ ares preditor V * 2
         <suid>935621c5-d384-42f2-a740-1fa349fa85a1</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -632,6 +739,9 @@ ares preditor V * 2
         <suid>3b34b209-00be-42b8-b4ac-cc7dea08af8a</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -642,6 +752,9 @@ ares preditor V * 2
         <suid>9de43fad-b365-4e73-bc06-91dd571b858a</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -652,6 +765,9 @@ ares preditor V * 2
         <suid>963a548d-c629-4a13-a3e3-31b085a42e20</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -662,6 +778,9 @@ ares preditor V * 2
         <suid>09fbc992-9fad-4f2d-ab56-725bac943dc6</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -672,6 +791,9 @@ ares preditor V * 2
         <suid>64088b25-de37-4d71-8800-4a430fde08af</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -682,6 +804,9 @@ ares preditor V * 2
         <suid>938be691-4b3d-49a2-a673-bbf9924ce8f0</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -692,6 +817,9 @@ ares preditor V * 2
         <suid>48cc79be-f75e-4fe6-8721-7864c9f231f6</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -702,6 +830,9 @@ ares preditor V * 2
         <suid>f8037e7f-d48b-452b-8f66-2e0c36677fea</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>1</base>
         <notes />
@@ -712,6 +843,9 @@ ares preditor V * 2
         <suid>729c9cee-ef8f-492d-aa7f-17ec1bc3816e</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>2</karma>
         <base>0</base>
         <notes />
@@ -722,6 +856,9 @@ ares preditor V * 2
         <suid>17fbaafa-8dbb-4f29-9244-5ae1cd4ac42f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -732,6 +869,9 @@ ares preditor V * 2
         <suid>04e1eb3e-e82d-485b-a7fd-1e677df2a070</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>1</karma>
         <base>2</base>
         <notes />
@@ -742,6 +882,9 @@ ares preditor V * 2
         <suid>53f96d6a-363b-4c14-be1d-68e74930c67b</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -752,6 +895,9 @@ ares preditor V * 2
         <suid>3ba9397e-f790-44ca-ae40-15a2356e348d</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -762,6 +908,9 @@ ares preditor V * 2
         <suid>10d5c887-a1e5-4cca-8613-3a28f1aab810</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -772,6 +921,9 @@ ares preditor V * 2
         <suid>ae91a8a6-80e7-4f52-b9eb-21725a5528a4</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>5</base>
         <notes />
@@ -782,6 +934,9 @@ ares preditor V * 2
         <suid>b8a24d87-465a-4365-9948-038fe1ac62c4</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -792,6 +947,9 @@ ares preditor V * 2
         <suid>1579818e-af85-47cd-8c9f-2e86e9dc19da</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -802,6 +960,9 @@ ares preditor V * 2
         <suid>adf31a50-b228-4e09-a09c-46ab9f5e59a1</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -812,6 +973,9 @@ ares preditor V * 2
         <suid>1531b2d8-6116-4be4-87b0-232dba1fc447</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>True</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>1</base>
         <notes />
@@ -821,6 +985,7 @@ ares preditor V * 2
             <guid>672a8299-73fe-4e72-9e64-aeb4d42fab21</guid>
             <name>Sprinting</name>
             <free>False</free>
+            <expertise>False</expertise>
           </spec>
         </specs>
       </skill>
@@ -829,6 +994,9 @@ ares preditor V * 2
         <suid>9cff9aa7-d092-4f89-8b7b-3ab835818874</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -839,6 +1007,9 @@ ares preditor V * 2
         <suid>b693f3bf-48dc-4570-9743-d94d14ee698b</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -849,6 +1020,9 @@ ares preditor V * 2
         <suid>89ee1730-053a-400f-a13a-4fbadae015f0</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>1</base>
         <notes />
@@ -859,6 +1033,9 @@ ares preditor V * 2
         <suid>0dbcb9cd-f824-4b5d-a387-90d33318b04c</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>True</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>0</base>
         <notes />
@@ -869,6 +1046,9 @@ ares preditor V * 2
         <suid>867a6fa0-7d98-4cde-83a4-b33dd39de08e</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>5</base>
         <notes />
@@ -879,6 +1059,9 @@ ares preditor V * 2
         <suid>7ed2f3e0-a791-4cb7-ba3e-ac785fdc3d7e</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>1</base>
         <notes />
@@ -889,6 +1072,9 @@ ares preditor V * 2
         <suid>4fcd40cb-4b02-4b7e-afcb-f44d46cd5706</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
         <base>6</base>
         <notes />
@@ -907,33 +1093,16 @@ ares preditor V * 2
     </skills>
     <knoskills>
       <skill>
-        <guid>3e3d4680-fee3-47b0-9e1f-f337e83bef58</guid>
-        <suid>907a3a8f-2c40-4543-a5a9-891bcde41f6b</suid>
-        <isknowledge>True</isknowledge>
-        <skillcategory>Language</skillcategory>
-        <karma>0</karma>
-        <base>0</base>
-        <notes />
-        <name>English</name>
-        <type>Language</type>
-      </skill>
-      <skill>
-        <guid>18f5d0d9-9823-45b3-99b4-cd64a45ab314</guid>
-        <suid>a1c95207-1864-4723-b26f-b0a8c5b6290d</suid>
+        <guid>0dfc85cf-a39e-41f9-81cd-f4a362f1cfef</guid>
+        <suid>00000000-0000-0000-0000-000000000000</suid>
         <isknowledge>True</isknowledge>
         <skillcategory>Street</skillcategory>
         <karma>2</karma>
-        <base>1</base>
+        <base>0</base>
         <notes />
-        <specs>
-          <spec>
-            <guid>0ab1fbaa-5b2a-481f-afde-3d7173143f41</guid>
-            <name>Trogg United</name>
-            <free>False</free>
-          </spec>
-        </specs>
-        <name>Gangs</name>
+        <name>Area Knowledge: Cape Town</name>
         <type>Street</type>
+        <isnativelanguage>False</isnativelanguage>
       </skill>
       <skill>
         <guid>7899b8a8-5820-4c20-98c1-22b41cebe14f</guid>
@@ -945,6 +1114,7 @@ ares preditor V * 2
         <notes />
         <name>Area Knowledge: Harare</name>
         <type>Street</type>
+        <isnativelanguage>False</isnativelanguage>
       </skill>
       <skill>
         <guid>3842d6aa-6474-4493-a074-61eb86be6ef6</guid>
@@ -956,24 +1126,19 @@ ares preditor V * 2
         <notes />
         <name>Combat Tactics</name>
         <type>Professional</type>
+        <isnativelanguage>False</isnativelanguage>
       </skill>
       <skill>
-        <guid>b1f77f4e-35d2-4173-b2c1-669eb1b0e2af</guid>
-        <suid>1d68ed58-91ff-495a-a456-2bc04d82a3b7</suid>
+        <guid>3e3d4680-fee3-47b0-9e1f-f337e83bef58</guid>
+        <suid>907a3a8f-2c40-4543-a5a9-891bcde41f6b</suid>
         <isknowledge>True</isknowledge>
-        <skillcategory>Street</skillcategory>
+        <skillcategory>Language</skillcategory>
         <karma>0</karma>
-        <base>2</base>
+        <base>0</base>
         <notes />
-        <specs>
-          <spec>
-            <guid>116df8cf-6431-458d-98a6-2f62cfce22d8</guid>
-            <name>Physical</name>
-            <free>False</free>
-          </spec>
-        </specs>
-        <name>Lone Star Procedures</name>
-        <type>Street</type>
+        <name>English</name>
+        <type>Language</type>
+        <isnativelanguage>True</isnativelanguage>
       </skill>
       <skill>
         <guid>21b63776-7f21-40d3-8ea3-74f86d2a46d4</guid>
@@ -988,21 +1153,52 @@ ares preditor V * 2
             <guid>1c37bb3f-b38f-45b8-92a2-898f7c4e49e7</guid>
             <name>Heavy Weapons</name>
             <free>False</free>
+            <expertise>False</expertise>
           </spec>
         </specs>
         <name>Firearms</name>
         <type>Professional</type>
+        <isnativelanguage>False</isnativelanguage>
       </skill>
       <skill>
-        <guid>746ea21c-3ba8-4308-8745-0d4ca778dda9</guid>
-        <suid>4e62ab4f-4877-4a7f-bcb9-3023fc443078</suid>
+        <guid>18f5d0d9-9823-45b3-99b4-cd64a45ab314</guid>
+        <suid>a1c95207-1864-4723-b26f-b0a8c5b6290d</suid>
         <isknowledge>True</isknowledge>
-        <skillcategory>Interest</skillcategory>
-        <karma>0</karma>
+        <skillcategory>Street</skillcategory>
+        <karma>2</karma>
         <base>1</base>
         <notes />
-        <name>Vehicles</name>
-        <type>Interest</type>
+        <specs>
+          <spec>
+            <guid>0ab1fbaa-5b2a-481f-afde-3d7173143f41</guid>
+            <name>Trogg United</name>
+            <free>False</free>
+            <expertise>False</expertise>
+          </spec>
+        </specs>
+        <name>Gangs</name>
+        <type>Street</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>b1f77f4e-35d2-4173-b2c1-669eb1b0e2af</guid>
+        <suid>1d68ed58-91ff-495a-a456-2bc04d82a3b7</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Street</skillcategory>
+        <karma>0</karma>
+        <base>2</base>
+        <notes />
+        <specs>
+          <spec>
+            <guid>116df8cf-6431-458d-98a6-2f62cfce22d8</guid>
+            <name>Physical</name>
+            <free>False</free>
+            <expertise>False</expertise>
+          </spec>
+        </specs>
+        <name>Lone Star Procedures</name>
+        <type>Street</type>
+        <isnativelanguage>False</isnativelanguage>
       </skill>
       <skill>
         <guid>b19660ae-642a-4eb7-ad31-0c8fa9893790</guid>
@@ -1014,17 +1210,19 @@ ares preditor V * 2
         <notes />
         <name>Sports</name>
         <type>Interest</type>
+        <isnativelanguage>False</isnativelanguage>
       </skill>
       <skill>
-        <guid>0dfc85cf-a39e-41f9-81cd-f4a362f1cfef</guid>
-        <suid>00000000-0000-0000-0000-000000000000</suid>
+        <guid>746ea21c-3ba8-4308-8745-0d4ca778dda9</guid>
+        <suid>4e62ab4f-4877-4a7f-bcb9-3023fc443078</suid>
         <isknowledge>True</isknowledge>
-        <skillcategory>Street</skillcategory>
-        <karma>2</karma>
-        <base>0</base>
+        <skillcategory>Interest</skillcategory>
+        <karma>0</karma>
+        <base>1</base>
         <notes />
-        <name>Area Knowledge: Cape Town</name>
-        <type>Street</type>
+        <name>Vehicles</name>
+        <type>Interest</type>
+        <isnativelanguage>False</isnativelanguage>
       </skill>
     </knoskills>
     <skilljackknowledgeskills />
@@ -1032,56 +1230,8 @@ ares preditor V * 2
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>14cd8c11-da3b-43d9-ac49-ada9a6b8fe8c</id>
-        <name>Stealth</name>
-      </group>
-      <group>
-        <karma>1</karma>
-        <base>0</base>
-        <id>51e82e65-ef7e-4387-bdfb-1b65956ef608</id>
-        <name>Outdoors</name>
-      </group>
-      <group>
-        <karma>0</karma>
-        <base>0</base>
-        <id>db318cee-5347-44e0-b2df-692c9ca76a3a</id>
-        <name>Influence</name>
-      </group>
-      <group>
-        <karma>0</karma>
-        <base>5</base>
-        <id>42fb0a12-1cef-4ff4-86fc-087be3d4c0eb</id>
-        <name>Firearms</name>
-      </group>
-      <group>
-        <karma>0</karma>
-        <base>0</base>
-        <id>b89428a1-5163-4e60-9c34-fa41f44656ef</id>
-        <name>Engineering</name>
-      </group>
-      <group>
-        <karma>0</karma>
-        <base>0</base>
-        <id>ecece494-14e5-4049-a75e-da3d01be91d2</id>
-        <name>Electronics</name>
-      </group>
-      <group>
-        <karma>0</karma>
-        <base>0</base>
-        <id>442532b2-57df-44c8-99ad-27c92da50704</id>
-        <name>Cracking</name>
-      </group>
-      <group>
-        <karma>0</karma>
-        <base>0</base>
-        <id>5e046a0a-bf84-43ba-85e9-11f84d6b4f2f</id>
-        <name>Close Combat</name>
-      </group>
-      <group>
-        <karma>0</karma>
-        <base>0</base>
-        <id>805739d0-3761-4b13-9596-9af311193d6e</id>
-        <name>Biotech</name>
+        <id>678616b0-fe5c-496e-9bfe-236e79db69e4</id>
+        <name>Acting</name>
       </group>
       <group>
         <karma>0</karma>
@@ -1092,8 +1242,56 @@ ares preditor V * 2
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>678616b0-fe5c-496e-9bfe-236e79db69e4</id>
-        <name>Acting</name>
+        <id>805739d0-3761-4b13-9596-9af311193d6e</id>
+        <name>Biotech</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>5e046a0a-bf84-43ba-85e9-11f84d6b4f2f</id>
+        <name>Close Combat</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>442532b2-57df-44c8-99ad-27c92da50704</id>
+        <name>Cracking</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>ecece494-14e5-4049-a75e-da3d01be91d2</id>
+        <name>Electronics</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>b89428a1-5163-4e60-9c34-fa41f44656ef</id>
+        <name>Engineering</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>5</base>
+        <id>42fb0a12-1cef-4ff4-86fc-087be3d4c0eb</id>
+        <name>Firearms</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>db318cee-5347-44e0-b2df-692c9ca76a3a</id>
+        <name>Influence</name>
+      </group>
+      <group>
+        <karma>1</karma>
+        <base>0</base>
+        <id>51e82e65-ef7e-4387-bdfb-1b65956ef608</id>
+        <name>Outdoors</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>14cd8c11-da3b-43d9-ac49-ada9a6b8fe8c</id>
+        <name>Stealth</name>
       </group>
     </groups>
   </newskills>
@@ -1105,7 +1303,7 @@ ares preditor V * 2
       <connection>4</connection>
       <loyalty>2</loyalty>
       <metatype>Troll</metatype>
-      <sex>Female</sex>
+      <gender>Female</gender>
       <age>Young</age>
       <contacttype>Swag</contacttype>
       <preferredpayment>Cash (Credstick)</preferredpayment>
@@ -1133,7 +1331,7 @@ ares preditor V * 2
       <connection>1</connection>
       <loyalty>4</loyalty>
       <metatype>Ork</metatype>
-      <sex>Male</sex>
+      <gender>Male</gender>
       <age>Young</age>
       <contacttype />
       <preferredpayment />
@@ -1161,7 +1359,7 @@ ares preditor V * 2
       <connection>4</connection>
       <loyalty>1</loyalty>
       <metatype>Human</metatype>
-      <sex>Male</sex>
+      <gender>Male</gender>
       <age>Young</age>
       <contacttype />
       <preferredpayment />
@@ -1189,7 +1387,7 @@ ares preditor V * 2
       <connection>4</connection>
       <loyalty>2</loyalty>
       <metatype>Human</metatype>
-      <sex>Female</sex>
+      <gender>Female</gender>
       <age>Young</age>
       <contacttype />
       <preferredpayment />
@@ -1217,7 +1415,7 @@ ares preditor V * 2
       <connection>3</connection>
       <loyalty>1</loyalty>
       <metatype>Elf</metatype>
-      <sex>Male</sex>
+      <gender>Male</gender>
       <age>Young</age>
       <contacttype />
       <preferredpayment />
@@ -1245,7 +1443,7 @@ ares preditor V * 2
       <connection>1</connection>
       <loyalty>1</loyalty>
       <metatype>?</metatype>
-      <sex>?</sex>
+      <gender>?</gender>
       <age>?</age>
       <contacttype />
       <preferredpayment />
@@ -1434,8 +1632,8 @@ ares preditor V * 2
       <emcumbrance>True</emcumbrance>
       <armormods>
         <armormod>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
           <guid>c8ec9ece-ebe8-4974-bba8-ae0fa17e2651</guid>
+          <sourceid>0cbf733c-1fd0-48ae-be2c-b3afe0036fd0</sourceid>
           <name>Liner - Chemical Protection (6)</name>
           <category>Victory Liners</category>
           <armor>0</armor>
@@ -1463,8 +1661,8 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </armormod>
         <armormod>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
           <guid>5664cb10-12ea-4b60-846b-f9b7c23cbe2f</guid>
+          <sourceid>38168e21-833e-4ab3-8e5c-186468b70ef9</sourceid>
           <name>Custom Fit</name>
           <category>General</category>
           <armor>0</armor>
@@ -1489,8 +1687,8 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </armormod>
         <armormod>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
           <guid>c24fc0ca-a120-482c-80f2-69c091a41df5</guid>
+          <sourceid>6a4274bb-307d-433d-a1a7-75be52eacb93</sourceid>
           <name>Gear Access</name>
           <category>General</category>
           <armor>0</armor>
@@ -1534,12 +1732,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>431</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -1601,8 +1801,8 @@ ares preditor V * 2
       <emcumbrance>True</emcumbrance>
       <armormods>
         <armormod>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
           <guid>929eb3cf-887b-4c31-a70e-cc68794e154c</guid>
+          <sourceid>0d74f2f6-74bf-4c7e-afdf-d44f24c3ac12</sourceid>
           <name>Custom Fit (Stack)</name>
           <category>General</category>
           <armor>0</armor>
@@ -1629,8 +1829,8 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </armormod>
         <armormod>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
           <guid>05661b3f-d45b-4e90-a904-944ee5c7a0e6</guid>
+          <sourceid>6226742c-d950-46af-af1a-fc483e14be5c</sourceid>
           <name>Concealability</name>
           <category>General</category>
           <armor>0</armor>
@@ -1716,7 +1916,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -1779,6 +1978,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>7bc2f035-ce0d-4f0a-8c14-dd62fdb3f4f4</sourceid>
@@ -1796,7 +1996,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -1859,6 +2058,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>884d8ed3-3e21-4bf6-b0e5-2197b3d8bc5f</sourceid>
@@ -1876,7 +2076,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -1916,7 +2115,7 @@ ares preditor V * 2
       <extramount />
       <accessories>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
           <guid>bd40c10f-c422-4b8a-a4d0-20cac9c03911</guid>
           <name>Personalized Grip</name>
           <mount>None</mount>
@@ -1941,6 +2140,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -1948,7 +2148,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -1989,6 +2188,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>168c2aa5-c4d9-4fd7-a629-fc70c6720d03</sourceid>
@@ -2006,7 +2206,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2069,6 +2268,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>e789ce47-f1bf-4c08-88b8-3295dddd03b1</sourceid>
@@ -2086,7 +2286,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2149,6 +2348,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>559655cd-a883-4beb-9d19-ed59b51d27a5</sourceid>
@@ -2166,7 +2366,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2229,6 +2428,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>80b53580-d3fb-4d33-bfe5-f3c727fe5d8f</sourceid>
@@ -2246,7 +2446,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2309,6 +2508,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>a95df82f-4c48-43b1-8cfe-58d9aedb0b07</sourceid>
@@ -2326,7 +2526,6 @@ ares preditor V * 2
       <ammo>50(c) or 100(belt)</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2392,7 +2591,7 @@ ares preditor V * 2
       <extramount />
       <accessories>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
           <guid>270bf86a-ab70-4cef-9657-f4df10239bd1</guid>
           <name>Personalized Grip</name>
           <mount>None</mount>
@@ -2417,6 +2616,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2424,7 +2624,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2440,7 +2639,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>b3562903-b1c6-4300-9f6e-25e0102aa69b</sourceid>
           <guid>6eab0b90-cc4c-487f-a478-ff6e88a1e3f4</guid>
           <name>Smartgun System, External</name>
           <mount>None</mount>
@@ -2479,12 +2678,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>446</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -2532,12 +2733,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -2573,6 +2776,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2580,7 +2784,6 @@ ares preditor V * 2
           <apreplace />
           <notes>Top</notes>
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2596,7 +2799,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>6b06cf52-04fa-4034-bb10-2bcdd58c4bfb</sourceid>
           <guid>f093da63-bfed-4035-82ec-f9cf77973598</guid>
           <name>Gas-Vent 3 System</name>
           <mount>Barrel</mount>
@@ -2621,6 +2824,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2628,7 +2832,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2644,7 +2847,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>806bfacc-095e-448d-a5b2-c271c569ae51</sourceid>
           <guid>af858ce3-5561-43c7-b9b6-4463a7d4346a</guid>
           <name>Melee Hardening</name>
           <mount>None</mount>
@@ -2669,6 +2872,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2676,7 +2880,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2692,7 +2895,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>a1865555-8ad5-43ec-a30e-b7d77e804fab</sourceid>
           <guid>4651bd89-9fc7-4d2b-94d6-62f6c3eea14b</guid>
           <name>Sling</name>
           <mount>None</mount>
@@ -2717,6 +2920,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2724,7 +2928,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2740,7 +2943,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>8eec5df1-88e2-4822-b156-9c2340a33efc</sourceid>
           <guid>1825badb-e4f5-4466-9047-60cba2c5f001</guid>
           <name>Foregrip</name>
           <mount>Under</mount>
@@ -2765,6 +2968,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2772,7 +2976,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2788,7 +2991,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>71a37dd2-d162-4829-a233-5afdd954691d</sourceid>
           <guid>6650de26-d835-4334-baee-737ab1d36070</guid>
           <name>Hip Pad Bracing System</name>
           <mount>Stock</mount>
@@ -2813,6 +3016,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2820,7 +3024,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2836,7 +3039,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
           <guid>c302c280-44f4-40da-b8c4-1d6530982b6c</guid>
           <name>Spare Clip</name>
           <mount>None</mount>
@@ -2861,6 +3064,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2868,7 +3072,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2884,7 +3087,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
           <guid>c390e06b-9392-4f4c-9d89-919d8c18edb1</guid>
           <name>Spare Clip</name>
           <mount>None</mount>
@@ -2909,6 +3112,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2916,7 +3120,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2932,7 +3135,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
           <guid>dccc6c68-5377-4c6e-997f-f05bc2f113fb</guid>
           <name>Spare Clip</name>
           <mount>None</mount>
@@ -2957,6 +3160,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -2964,7 +3168,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -2980,7 +3183,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
           <guid>9cf21285-d367-41e9-b1b9-10695f37a35c</guid>
           <name>Spare Clip</name>
           <mount>None</mount>
@@ -3005,6 +3208,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3012,7 +3216,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3028,7 +3231,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>de62b79f-2864-4023-a286-6c1f270aade3</sourceid>
           <guid>01bf718f-1793-4970-afed-f8a65fcb81f7</guid>
           <name>Slide Mount</name>
           <mount>None</mount>
@@ -3053,6 +3256,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3060,7 +3264,6 @@ ares preditor V * 2
           <apreplace />
           <notes>Top</notes>
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3076,7 +3279,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>de62b79f-2864-4023-a286-6c1f270aade3</sourceid>
           <guid>be77a7b3-e124-4033-9428-54d85608c04e</guid>
           <name>Slide Mount</name>
           <mount>None</mount>
@@ -3101,6 +3304,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3108,7 +3312,6 @@ ares preditor V * 2
           <apreplace />
           <notes>Side</notes>
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3149,6 +3352,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
     </weapon>
     <weapon>
       <sourceid>a92933cb-0c81-4b54-aeb1-ddc24836775d</sourceid>
@@ -3166,7 +3370,6 @@ ares preditor V * 2
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3229,6 +3432,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>5e6759c6-1e51-4b3b-b400-6610d080d966</sourceid>
@@ -3246,7 +3450,6 @@ ares preditor V * 2
       <ammo>100(belt)</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3297,7 +3500,7 @@ ares preditor V * 2
       <extramount />
       <accessories>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
           <guid>bf8d1708-ad5e-4fdc-8be4-5f95dc67e5ef</guid>
           <name>Personalized Grip</name>
           <mount>Internal</mount>
@@ -3322,6 +3525,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3329,7 +3533,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3345,7 +3548,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>d57d2c64-1f61-4f5f-a465-8ce0dfacec6a</sourceid>
           <guid>1d6d6684-60f9-452b-84a9-2f553de3fdca</guid>
           <name>Smartgun System, Internal</name>
           <mount>Internal</mount>
@@ -3384,12 +3587,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>446</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3437,12 +3642,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3478,6 +3685,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3485,7 +3693,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3501,7 +3708,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>a1865555-8ad5-43ec-a30e-b7d77e804fab</sourceid>
           <guid>236b3dc0-81ca-4728-b6f7-d22b9b1c0332</guid>
           <name>Sling</name>
           <mount>None</mount>
@@ -3526,6 +3733,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3533,7 +3741,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3549,7 +3756,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>37d3ffa9-b33e-4280-845c-bee0d063f193</sourceid>
           <guid>f40beb2c-5fce-454d-b23f-bda69372f488</guid>
           <name>Krime Pack</name>
           <mount>None</mount>
@@ -3574,6 +3781,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3581,7 +3789,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3622,6 +3829,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
     </weapon>
     <weapon>
       <sourceid>9629810f-8db3-44a4-afc4-97eb5b391fb5</sourceid>
@@ -3639,7 +3847,6 @@ ares preditor V * 2
       <ammo>1</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3702,6 +3909,7 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>gear</weapontype>
     </weapon>
     <weapon>
       <sourceid>9cdf4a80-efc1-4c96-bc99-c67c880be39e</sourceid>
@@ -3719,7 +3927,6 @@ ares preditor V * 2
       <ammo>1(b)</ammo>
       <cyberware>False</cyberware>
       <ammocategory>Sporting Rifles</ammocategory>
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3765,7 +3972,7 @@ ares preditor V * 2
       <extramount />
       <accessories>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>d5abeadd-fba4-47f9-ac35-bfbb31ce34be</sourceid>
           <guid>88ef150e-9c2f-442a-ba92-e0b083471385</guid>
           <name>Long Barrel</name>
           <mount>Internal</mount>
@@ -3790,6 +3997,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3797,7 +4005,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3813,7 +4020,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
           <guid>2e1afdee-e2da-4669-8202-1ef1823f0f0f</guid>
           <name>Personalized Grip</name>
           <mount>None</mount>
@@ -3838,6 +4045,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -3845,7 +4053,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -3861,7 +4068,7 @@ ares preditor V * 2
           <sortorder>0</sortorder>
         </accessory>
         <accessory>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>d57d2c64-1f61-4f5f-a465-8ce0dfacec6a</sourceid>
           <guid>dc758dd0-cb15-4fa1-83b3-042f96db723d</guid>
           <name>Smartgun System, Internal</name>
           <mount>None</mount>
@@ -3900,12 +4107,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>446</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3953,12 +4162,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3994,6 +4205,7 @@ ares preditor V * 2
           <modifyammocapacity />
           <damagetype />
           <damage />
+          <reach>0</reach>
           <damagereplace />
           <firemode />
           <firemodereplace />
@@ -4001,7 +4213,6 @@ ares preditor V * 2
           <apreplace />
           <notes />
           <discountedcost>False</discountedcost>
-          <addmode />
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
           <longburst>0</longburst>
@@ -4042,12 +4253,13 @@ ares preditor V * 2
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
     </weapon>
   </weapons>
   <cyberwares>
     <cyberware>
-      <sourceid>47c48542-48c3-417e-91f0-b5a456183f05</sourceid>
       <guid>4ece7394-8209-4b2f-ac92-b2747b9cd37c</guid>
+      <sourceid>47c48542-48c3-417e-91f0-b5a456183f05</sourceid>
       <name>Datajack</name>
       <category>Headware</category>
       <limbslot />
@@ -4112,12 +4324,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>RF</source>
           <page>254</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4171,8 +4385,8 @@ ares preditor V * 2
       <sortorder>0</sortorder>
     </cyberware>
     <cyberware>
-      <sourceid>e03d454f-4a15-43ce-9cd0-db80e8600eae</sourceid>
       <guid>cd5cf262-9858-4ae2-b670-9da64d4756a7</guid>
+      <sourceid>e03d454f-4a15-43ce-9cd0-db80e8600eae</sourceid>
       <name>Image Link</name>
       <category>Eyeware</category>
       <limbslot />
@@ -4241,8 +4455,8 @@ ares preditor V * 2
       <sortorder>0</sortorder>
     </cyberware>
     <cyberware>
-      <sourceid>35dba0e2-1d3d-4386-a657-17fedca4622d</sourceid>
       <guid>c341d041-9e8c-4308-85bc-3049274a4572</guid>
+      <sourceid>35dba0e2-1d3d-4386-a657-17fedca4622d</sourceid>
       <name>Smartlink</name>
       <category>Eyeware</category>
       <limbslot />
@@ -4321,6 +4535,7 @@ ares preditor V * 2
       <extra>AGI</extra>
       <bp>14</bp>
       <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
       <contributetolimit>True</contributetolimit>
       <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
@@ -4341,8 +4556,7 @@ ares preditor V * 2
           </selectattribute>
         </selectattributes>
       </bonus>
-      <firstlevelbonus>
-      </firstlevelbonus>
+      <firstlevelbonus />
       <notes />
     </quality>
     <quality>
@@ -4352,6 +4566,7 @@ ares preditor V * 2
       <extra />
       <bp>3</bp>
       <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
       <contributetolimit>False</contributetolimit>
       <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
@@ -4364,10 +4579,8 @@ ares preditor V * 2
       <source>SR5</source>
       <page>66</page>
       <sourcename />
-      <bonus>
-      </bonus>
-      <firstlevelbonus>
-      </firstlevelbonus>
+      <bonus />
+      <firstlevelbonus />
       <notes />
     </quality>
     <quality>
@@ -4377,6 +4590,7 @@ ares preditor V * 2
       <extra />
       <bp>4</bp>
       <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
       <contributetolimit>True</contributetolimit>
       <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
@@ -4392,8 +4606,7 @@ ares preditor V * 2
       <bonus>
         <ambidextrous />
       </bonus>
-      <firstlevelbonus>
-      </firstlevelbonus>
+      <firstlevelbonus />
       <notes />
     </quality>
     <quality>
@@ -4403,6 +4616,7 @@ ares preditor V * 2
       <extra />
       <bp>5</bp>
       <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
       <contributetolimit>True</contributetolimit>
       <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
@@ -4418,8 +4632,7 @@ ares preditor V * 2
       <bonus>
         <biowareessmultiplier>90</biowareessmultiplier>
       </bonus>
-      <firstlevelbonus>
-      </firstlevelbonus>
+      <firstlevelbonus />
       <notes />
     </quality>
     <quality>
@@ -4429,6 +4642,7 @@ ares preditor V * 2
       <extra />
       <bp>3</bp>
       <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
       <contributetolimit>True</contributetolimit>
       <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
@@ -4441,10 +4655,8 @@ ares preditor V * 2
       <source>RF</source>
       <page>145</page>
       <sourcename />
-      <bonus>
-      </bonus>
-      <firstlevelbonus>
-      </firstlevelbonus>
+      <bonus />
+      <firstlevelbonus />
       <notes />
     </quality>
   </qualities>
@@ -4484,7 +4696,7 @@ ares preditor V * 2
       <sourceid>9cb0222c-14c1-4bea-bf83-055513a1f33e</sourceid>
       <lifestylequalities>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>ae63d09f-22a1-4c27-bc99-d82887fcef15</sourceid>
           <guid>3bfed85f-f8ad-4318-b328-f13ae2382a8d</guid>
           <name>Dangerous Area</name>
           <category>Negative</category>
@@ -4511,7 +4723,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>23c785d3-e086-46a6-8491-603fa1e6963d</sourceid>
           <guid>0a7fc5ba-3172-4349-b9b1-7358c9bd2129</guid>
           <name>Gym</name>
           <category>Entertainment - Asset</category>
@@ -4538,7 +4750,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>7348e613-3f05-413a-b8eb-a27e480d9f88</sourceid>
           <guid>847af376-eab8-4627-a9ff-b49d0f59fdf6</guid>
           <name>Local Bar Patron</name>
           <category>Entertainment - Outing</category>
@@ -4565,7 +4777,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>7868fea6-f3b9-4db8-baee-60fd16f322cc</sourceid>
           <guid>4c9f8e77-1f76-4b02-91bb-3f9b60c37270</guid>
           <name>Rough Neighborhood</name>
           <category>Negative</category>
@@ -4592,7 +4804,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>1fa52cd4-4342-4511-91dc-6d452032d2c7</sourceid>
           <guid>e2b6c898-b12b-4440-a808-7fd0f89a2153</guid>
           <name>Lax Security</name>
           <category>Negative</category>
@@ -4619,7 +4831,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>91ac54bf-0f7d-40f3-81bf-dc32e62fd94e</sourceid>
           <guid>32bc89dc-1934-4d73-9464-17cda9aa555c</guid>
           <name>Armory</name>
           <category>Entertainment - Asset</category>
@@ -4646,7 +4858,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>9e7cea76-8f2e-4d87-a5ce-60395a8d701f</sourceid>
           <guid>dcaf0849-0c97-42d3-b090-901e07884aff</guid>
           <name>Garage (Car (Body 5 or More))</name>
           <category>Entertainment - Asset</category>
@@ -4675,7 +4887,7 @@ ares preditor V * 2
       </lifestylequalities>
       <freegrids>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
           <guid>6194af3d-e05f-4e87-bf3e-4b186d1f0afa</guid>
           <name>Grid Subscription</name>
           <category>Entertainment - Asset</category>
@@ -4702,7 +4914,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
           <guid>ceb42383-6b59-4752-a345-01e400232224</guid>
           <name>Grid Subscription</name>
           <category>Entertainment - Asset</category>
@@ -4767,7 +4979,7 @@ ares preditor V * 2
       <sourceid>9cb0222c-14c1-4bea-bf83-055513a1f33e</sourceid>
       <lifestylequalities>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>24c33e2d-bb97-4f82-a68d-dfa7c89a69d7</sourceid>
           <guid>37765236-b731-4bc3-87e1-26fb4669877e</guid>
           <name>Special Work Area</name>
           <category>Positive</category>
@@ -4796,7 +5008,7 @@ ares preditor V * 2
       </lifestylequalities>
       <freegrids>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
           <guid>b823c7f2-846a-4c65-91d0-83e4a8de34b9</guid>
           <name>Grid Subscription</name>
           <category>Entertainment - Asset</category>
@@ -4823,7 +5035,7 @@ ares preditor V * 2
           <notes />
         </lifestylequality>
         <lifestylequality>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
           <guid>6ff98c82-89e1-4ee5-aac6-66b5d271ef20</guid>
           <name>Grid Subscription</name>
           <category>Entertainment - Asset</category>
@@ -4876,10 +5088,13 @@ ares preditor V * 2
       <bonus>
         <selecttext />
       </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4910,10 +5125,13 @@ ares preditor V * 2
           <bonus>
             <selectrestricted />
           </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4964,10 +5182,13 @@ ares preditor V * 2
           <bonus>
             <selectrestricted />
           </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5018,10 +5239,13 @@ ares preditor V * 2
           <bonus>
             <selectrestricted />
           </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5090,12 +5314,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>438</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona>Self</canformpersona>
       <devicerating>3</devicerating>
       <gearname />
@@ -5123,12 +5349,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>438</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5156,12 +5384,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5209,12 +5439,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5262,12 +5494,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5315,12 +5549,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5368,12 +5604,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5421,12 +5659,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5474,12 +5714,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5527,12 +5769,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5580,12 +5824,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>445</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5633,12 +5879,14 @@ ares preditor V * 2
               <equipped>True</equipped>
               <wirelesson>False</wirelesson>
               <stolen>False</stolen>
-              <bonus>
-              </bonus>
-              <wirelessbonus>
-              </wirelessbonus>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
               <source>SR5</source>
               <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5707,12 +5955,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>438</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating>0</devicerating>
           <gearname />
@@ -5781,12 +6031,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5834,12 +6086,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>445</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5867,12 +6121,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>RF</source>
           <page>229</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5941,12 +6197,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>441</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5997,10 +6255,13 @@ ares preditor V * 2
       <bonus>
         <selecttext />
       </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>441</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6048,12 +6309,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>RF</source>
       <page>254</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6101,12 +6364,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>449</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6155,12 +6420,14 @@ ares preditor V * 2
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
       <weaponguid>aec75db6-3eae-49b2-9af2-1f85e281c8f8</weaponguid>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>449</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6188,12 +6455,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>449</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -6241,12 +6510,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>449</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -6294,12 +6565,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>449</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -6347,12 +6620,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>449</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -6400,12 +6675,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>449</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -6453,12 +6730,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>449</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -6534,10 +6813,13 @@ ares preditor V * 2
           <condition>Only for First Aid and Medicine</condition>
         </limitmodifier>
       </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>450</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6585,12 +6867,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>450</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6638,12 +6922,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>448</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6691,12 +6977,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>411</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6745,15 +7033,16 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
       <weaponbonus>
         <ap>-4</ap>
       </weaponbonus>
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6802,12 +7091,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6856,15 +7147,16 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
       <weaponbonus>
         <ap>-4</ap>
       </weaponbonus>
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6913,12 +7205,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6967,12 +7261,14 @@ ares preditor V * 2
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
       <weaponguid>fa46f968-7c99-4cef-a420-e286bb81c5c3</weaponguid>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>435</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7024,10 +7320,13 @@ ares preditor V * 2
         <toxininhalationimmune />
         <pathogeninhalationimmune />
       </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>449</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7075,12 +7374,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>TCT</source>
       <page>185</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7129,12 +7430,14 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7183,17 +7486,18 @@ ares preditor V * 2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
+      <bonus />
+      <wirelessbonus />
       <weaponbonus>
         <apreplace>-5</apreplace>
         <damage>-2</damage>
         <damagetype>S(e)</damagetype>
       </weaponbonus>
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7247,8 +7551,11 @@ ares preditor V * 2
       <weaponbonus>
         <ap>-4</ap>
       </weaponbonus>
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7304,8 +7611,12 @@ ares preditor V * 2
         </limitmodifier>
       </bonus>
       <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>450</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7355,8 +7666,12 @@ ares preditor V * 2
       <stolen>False</stolen>
       <bonus />
       <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
       <source>SR5</source>
       <page>451</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7424,7 +7739,7 @@ ares preditor V * 2
       <vehiclename />
       <mods>
         <mod>
-          <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
+          <sourceid>a586e8b6-2737-4baa-a343-f366d33fe57a</sourceid>
           <guid>80b23d74-a4c7-46ae-9538-f67ebd4fcbeb</guid>
           <name>Metahuman Adjustment</name>
           <category>Cosmetic</category>
@@ -7476,12 +7791,14 @@ ares preditor V * 2
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
           <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
           <source>SR5</source>
           <page>445</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -9376,6 +9693,7 @@ ares preditor V * 2
       <reason>Starting Nuyen</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9391,6 +9709,7 @@ ares preditor V * 2
       <reason>Purchased Gear Ammo: APDS</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -9406,6 +9725,7 @@ ares preditor V * 2
       <reason>Purchased Gear Ammo: Regular Ammo</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -9421,6 +9741,7 @@ ares preditor V * 2
       <reason>Purchased Gear Grenade: Flash-Bang</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -9436,6 +9757,7 @@ ares preditor V * 2
       <reason>Judge's Mission Forward Payment</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9451,6 +9773,7 @@ ares preditor V * 2
       <reason>Jotunn Payment for Krime Pack and Bullets</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -9466,6 +9789,7 @@ ares preditor V * 2
       <reason>Purchased Armor Mod Gel Packs</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddArmorMod</nuyentype>
@@ -9481,6 +9805,7 @@ ares preditor V * 2
       <reason>Purchased Armor Mod Gel Packs</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddArmorMod</nuyentype>
@@ -9496,6 +9821,7 @@ ares preditor V * 2
       <reason>Purchased Armor Armor Vest</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddArmor</nuyentype>
@@ -9511,6 +9837,7 @@ ares preditor V * 2
       <reason>Judge's Mission MK's Bonus</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9526,6 +9853,7 @@ ares preditor V * 2
       <reason>Judge's Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9541,6 +9869,7 @@ ares preditor V * 2
       <reason>Jotunn payment for 6 flash grenades</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -9556,6 +9885,7 @@ ares preditor V * 2
       <reason>Knowledge Skill Gangs 1 -&gt; 2</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9571,6 +9901,7 @@ ares preditor V * 2
       <reason>Knowledge Skill Gangs 2 -&gt; 3</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9586,6 +9917,7 @@ ares preditor V * 2
       <reason>Knowledge Skill Sports 0 -&gt; 1</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>AddSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9601,6 +9933,7 @@ ares preditor V * 2
       <reason>Purchased Gear Ammo: Regular Ammo</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -9616,6 +9949,7 @@ ares preditor V * 2
       <reason>Purchased Gear Reinforced Standard Rope (100m)</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -9631,6 +9965,7 @@ ares preditor V * 2
       <reason>Druid Rescue Mission Forward Payment</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9646,6 +9981,7 @@ ares preditor V * 2
       <reason>Toxic Joburg Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9661,6 +9997,7 @@ ares preditor V * 2
       <reason>Druid Mission bounty</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9676,6 +10013,7 @@ ares preditor V * 2
       <reason>Secondary Character Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9691,6 +10029,7 @@ ares preditor V * 2
       <reason>Secondary Character Reward</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9706,6 +10045,7 @@ ares preditor V * 2
       <reason>Christmas 2018 Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9721,6 +10061,7 @@ ares preditor V * 2
       <reason>Attribute EDG 2 -&gt; 3</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9736,6 +10077,7 @@ ares preditor V * 2
       <reason>Active Skill Heavy Weapons 6 -&gt; 7</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9751,6 +10093,7 @@ ares preditor V * 2
       <reason>Purchased Weapon Cavalier Champion</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddWeapon</nuyentype>
@@ -9766,6 +10109,7 @@ ares preditor V * 2
       <reason>Purchased Weapon Accessory Personalized Grip</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddWeaponAccessory</nuyentype>
@@ -9781,6 +10125,7 @@ ares preditor V * 2
       <reason>Private Room at Fred's Grill and Bar</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -9796,6 +10141,7 @@ ares preditor V * 2
       <reason>Crowbar Gang Mission Reward</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9811,6 +10157,7 @@ ares preditor V * 2
       <reason>Judge's Crowbar Gang Removal Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9826,6 +10173,7 @@ ares preditor V * 2
       <reason>Borrowed money from crazy mage (why?)</reason>
       <type>Nuyen</type>
       <refund>True</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9841,6 +10189,7 @@ ares preditor V * 2
       <reason>Removed Negative Quality In Debt</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualSubtract</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9856,6 +10205,7 @@ ares preditor V * 2
       <reason>Removed Negative Quality In Debt</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>RemoveQuality</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9871,6 +10221,7 @@ ares preditor V * 2
       <reason>Removed Negative Quality In Debt</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -9886,6 +10237,7 @@ ares preditor V * 2
       <reason>Lynch Bonus?</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9901,6 +10253,7 @@ ares preditor V * 2
       <reason>Purchased Weapon Accessory Smartgun System, Internal</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddWeaponAccessory</nuyentype>
@@ -9916,6 +10269,7 @@ ares preditor V * 2
       <reason>School Brothel Mission</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9931,6 +10285,7 @@ ares preditor V * 2
       <reason>Brothel Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9946,6 +10301,7 @@ ares preditor V * 2
       <reason>Judges bonus</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9961,6 +10317,7 @@ ares preditor V * 2
       <reason>Deliaelh bonus</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -9976,6 +10333,7 @@ ares preditor V * 2
       <reason>Gained Positive Quality Common Sense</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>AddQuality</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -9991,6 +10349,7 @@ ares preditor V * 2
       <reason>Initiation Mission Reward</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -10006,6 +10365,7 @@ ares preditor V * 2
       <reason>Initiation Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10021,6 +10381,7 @@ ares preditor V * 2
       <reason>Knowledge Skill Area Knowledge: Cape Town 0 -&gt; 1</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>AddSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10036,6 +10397,7 @@ ares preditor V * 2
       <reason>Knowledge Skill Area Knowledge: Cape Town 1 -&gt; 2</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10051,6 +10413,7 @@ ares preditor V * 2
       <reason>Active Skill Perception 2 -&gt; 3</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10066,6 +10429,7 @@ ares preditor V * 2
       <reason>Chilly Beer</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -10081,6 +10445,7 @@ ares preditor V * 2
       <reason>Assasination Mission forward payment</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -10096,6 +10461,7 @@ ares preditor V * 2
       <reason>Purchased Gear Ammo: APDS</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -10111,6 +10477,7 @@ ares preditor V * 2
       <reason>Purchased Gear Grenade: Flash-Bang</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -10126,6 +10493,7 @@ ares preditor V * 2
       <reason>Assasination Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10141,6 +10509,7 @@ ares preditor V * 2
       <reason>Assasination Mission Expenses</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -10156,6 +10525,7 @@ ares preditor V * 2
       <reason>Active Skill Negotiation 0 -&gt; 1</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>AddSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10171,6 +10541,7 @@ ares preditor V * 2
       <reason>Active Skill Negotiation 1 -&gt; 2</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10186,6 +10557,7 @@ ares preditor V * 2
       <reason>Fate Weaver payback</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -10201,6 +10573,7 @@ ares preditor V * 2
       <reason>Purchased Gear Ammo: APDS</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -10216,6 +10589,7 @@ ares preditor V * 2
       <reason>APDS MMG</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -10231,6 +10605,7 @@ ares preditor V * 2
       <reason>Felix Assassination forward</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -10246,6 +10621,7 @@ ares preditor V * 2
       <reason>Felix info</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -10261,6 +10637,7 @@ ares preditor V * 2
       <reason>Purchased Gear Jazz</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -10276,6 +10653,7 @@ ares preditor V * 2
       <reason>Purchased Gear Medkit</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -10291,6 +10669,7 @@ ares preditor V * 2
       <reason>Purchased Gear Medkit Supplies</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -10306,6 +10685,7 @@ ares preditor V * 2
       <reason>Purchased Gear Slap Patch, Stim Patch</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddGear</nuyentype>
@@ -10321,6 +10701,7 @@ ares preditor V * 2
       <reason>Wack No 2 Mission forward payment.</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -10336,6 +10717,7 @@ ares preditor V * 2
       <reason>Double Assasinate Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
@@ -10351,6 +10733,7 @@ ares preditor V * 2
       <reason>Payed Aberrant</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
@@ -10366,6 +10749,7 @@ ares preditor V * 2
       <reason>Double Assasinate Mission Reward</reason>
       <type>Nuyen</type>
       <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
@@ -10391,36 +10775,9 @@ ares preditor V * 2
     <source>TCT</source>
   </sources>
   <customdatadirectorynames>
+    <directoryname>Bone Lacing Adds to Body</directoryname>
     <directoryname>Legal SIN and Licenses</directoryname>
   </customdatadirectorynames>
-  <plugins>
-    <ChummerHub.Client version="1.0.0.4">{
-  "DownloadedFromSINnersTime": "0001-01-01T00:00:00",
-  "ZipFilePath": "C:\\Users\\Cameron\\AppData\\Local\\Temp\\SINner\\1c0f3d9d-3323-4476-9cef-1bb2dc399dd0",
-  "FilePath": null,
-  "editionNumber": null,
-  "myHash": null,
-  "language": "en-us",
-  "siNnerMetaData": {
-    "id": "0272fc53-ef5e-4067-925a-9470fb19d46a",
-    "visibility": {
-      "id": "5f077976-4f4e-4d6e-840b-e33aa2c0d518",
-      "isPublic": true,
-      "isGroupVisible": true,
-      "userRights": null
-    },
-    "tags": []
-  },
-  "lastDownload": null,
-  "myGroup": null,
-  "alias": null,
-  "id": "1c0f3d9d-3323-4476-9cef-1bb2dc399dd0",
-  "downloadUrl": null,
-  "uploadDateTime": null,
-  "lastChange": "2020-09-08T21:32:21.4028935Z",
-  "fileName": null
-}</ChummerHub.Client>
-  </plugins>
   <calculatedvalues>
     <!--these values are not loaded and only stored here for third parties, who parse this files (to not have to calculate them themselves)-->
     <physicalcm>12</physicalcm>

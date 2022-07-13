@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <character>
   <createdversion>5.205.60</createdversion>
-  <appversion>5.213.0.0</appversion>
+  <appversion>5.214.0.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>default.xml</settings>
   <metatype>Elf</metatype>
@@ -25,7 +25,7 @@
   <priorityresources>D,1</priorityresources>
   <prioritytalent>Mundane</prioritytalent>
   <priorityskills />
-  <essenceatspecialstart>-79228162514264337593543950335</essenceatspecialstart>
+  <essenceatspecialstart>6.0</essenceatspecialstart>
   <name>Luna</name>
   <mainmugshotindex>-1</mainmugshotindex>
   <mugshots />
@@ -301,7 +301,7 @@ Machinist\par
       <base>0</base>
       <karma>0</karma>
       <metatypecategory>Special</metatypecategory>
-      <totalvalue>0</totalvalue>
+      <totalvalue>1</totalvalue>
     </attribute>
   </attributes>
   <magenabled>False</magenabled>
@@ -1898,7 +1898,6 @@ Machinist\par
       <ammo>15(c)</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2015,6 +2014,7 @@ Machinist\par
               <source>SR5</source>
               <page>446</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -2069,6 +2069,7 @@ Machinist\par
               <source>SR5</source>
               <page>443</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -2536,6 +2537,7 @@ Machinist\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
     </weapon>
     <weapon>
       <sourceid>63dcfdb6-bbd9-4a58-bbf4-cd35f7614fdc</sourceid>
@@ -2553,7 +2555,6 @@ Machinist\par
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2616,6 +2617,7 @@ Machinist\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>1</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>676660a2-3320-4b4a-acaf-f645f2ba6cd7</sourceid>
@@ -2633,7 +2635,6 @@ Machinist\par
       <ammo>11(c)</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2735,6 +2736,7 @@ Machinist\par
               <source>SR5</source>
               <page>446</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -2789,6 +2791,7 @@ Machinist\par
               <source>SR5</source>
               <page>443</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3112,6 +3115,7 @@ Machinist\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>2</sortorder>
+      <weapontype>gun</weapontype>
     </weapon>
     <weapon>
       <sourceid>aab70ade-8586-4539-a184-99cb63e7bfab</sourceid>
@@ -3129,7 +3133,6 @@ Machinist\par
       <ammo>1</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3192,6 +3195,7 @@ Machinist\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>3</sortorder>
+      <weapontype>gear</weapontype>
     </weapon>
     <weapon>
       <sourceid>691ba610-d99a-4a86-a010-e21fa17e924c</sourceid>
@@ -3209,7 +3213,6 @@ Machinist\par
       <ammo>1</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3272,6 +3275,7 @@ Machinist\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>4</sortorder>
+      <weapontype>gear</weapontype>
     </weapon>
     <weapon>
       <sourceid>e789ce47-f1bf-4c08-88b8-3295dddd03b1</sourceid>
@@ -3289,7 +3293,6 @@ Machinist\par
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3352,6 +3355,7 @@ Machinist\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>5</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>03713add-261a-440c-a965-f6bcea5e4aeb</sourceid>
@@ -3369,7 +3373,6 @@ Machinist\par
       <ammo>6(c)</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname>Ammo: Injection Darts</ammoname>
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -3466,6 +3469,7 @@ Machinist\par
               <source>SR5</source>
               <page>446</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3520,6 +3524,7 @@ Machinist\par
               <source>SR5</source>
               <page>443</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3747,6 +3752,7 @@ Machinist\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>6</sortorder>
+      <weapontype>dartgun</weapontype>
     </weapon>
   </weapons>
   <cyberwares />
@@ -4223,6 +4229,7 @@ Machinist\par
       <source>KC</source>
       <page>60</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating>4</devicerating>
       <gearname />
@@ -4259,6 +4266,7 @@ Machinist\par
           <source>KC</source>
           <page>60</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating>4</devicerating>
           <gearname />
@@ -4336,6 +4344,7 @@ Machinist\par
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4372,6 +4381,7 @@ Machinist\par
           <source>SR5</source>
           <page>443</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4428,6 +4438,7 @@ Machinist\par
           <source>SR5</source>
           <page>443</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4484,6 +4495,7 @@ Machinist\par
           <source>SR5</source>
           <page>443</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4540,6 +4552,7 @@ Machinist\par
           <source>SR5</source>
           <page>443</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4615,6 +4628,7 @@ Machinist\par
       <source>HT</source>
       <page>188</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4670,6 +4684,7 @@ Machinist\par
       <source>SR5</source>
       <page>435</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4724,6 +4739,7 @@ Machinist\par
       <source>SR5</source>
       <page>410</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4779,6 +4795,7 @@ Machinist\par
       <source>SR5</source>
       <page>435</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4837,6 +4854,7 @@ Machinist\par
       <source>SR5</source>
       <page>434</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4894,6 +4912,7 @@ Machinist\par
       <source>SR5</source>
       <page>434</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4948,6 +4967,7 @@ Machinist\par
       <source>SR5</source>
       <page>443</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4982,6 +5002,7 @@ Machinist\par
           <source>SR5</source>
           <page>444</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5038,6 +5059,7 @@ Machinist\par
           <source>SR5</source>
           <page>444</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5092,6 +5114,7 @@ Machinist\par
           <source>SR5</source>
           <page>444</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5167,6 +5190,7 @@ Machinist\par
       <source>SR5</source>
       <page>443</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5207,6 +5231,7 @@ Machinist\par
           <source>SR5</source>
           <page>444</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5261,6 +5286,7 @@ Machinist\par
           <source>SR5</source>
           <page>444</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5338,6 +5364,7 @@ Machinist\par
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5392,6 +5419,7 @@ Machinist\par
       <source>SR5</source>
       <page>441</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5446,6 +5474,7 @@ Machinist\par
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5500,6 +5529,7 @@ Machinist\par
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5559,6 +5589,7 @@ Machinist\par
       <source>SR5</source>
       <page>434</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5614,6 +5645,7 @@ Machinist\par
       <source>SR5</source>
       <page>434</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>dartgun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5670,6 +5702,7 @@ Machinist\par
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -5706,6 +5739,7 @@ Machinist\par
           <source>SR5</source>
           <page>443</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5781,6 +5815,7 @@ Machinist\par
       <source>SR5</source>
       <page>438</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona>Self</canformpersona>
       <devicerating>6</devicerating>
       <gearname>Evo Rover</gearname>
@@ -5815,6 +5850,7 @@ Machinist\par
           <source>SR5</source>
           <page>438</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5849,6 +5885,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5903,6 +5940,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -5957,6 +5995,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6011,6 +6050,7 @@ Machinist\par
               <source>SR5</source>
               <page>443</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6065,6 +6105,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6119,6 +6160,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6173,6 +6215,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6227,6 +6270,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6281,6 +6325,7 @@ Machinist\par
               <source>SR5</source>
               <page>445</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6335,6 +6380,7 @@ Machinist\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -6410,6 +6456,7 @@ Machinist\par
           <source>SR5</source>
           <page>438</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating>0</devicerating>
           <gearname />
@@ -6486,6 +6533,7 @@ Machinist\par
       <source>SR5</source>
       <page>434</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6540,6 +6588,7 @@ Machinist\par
       <source>HT</source>
       <page>188</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6599,6 +6648,7 @@ Nornal white guy like Baron</notes>
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6653,6 +6703,7 @@ Nornal white guy like Baron</notes>
       <source>SR5</source>
       <page>439</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating>3</devicerating>
       <gearname />
@@ -6707,6 +6758,7 @@ Nornal white guy like Baron</notes>
       <source>SR5</source>
       <page>410</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6761,6 +6813,7 @@ Nornal white guy like Baron</notes>
       <source>SR5</source>
       <page>450</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6821,6 +6874,7 @@ Nornal white guy like Baron</notes>
       <source>SR5</source>
       <page>450</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -6880,6 +6934,7 @@ Nornal white guy like Baron</notes>
       <source>SR5</source>
       <page>434</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7006,6 +7061,7 @@ Nornal white guy like Baron</notes>
           <source>SR5</source>
           <page>445</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -7839,6 +7895,29 @@ Nornal white guy like Baron</notes>
       <condition />
       <improvementttype>Text</improvementttype>
       <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>DEP</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>1</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>EssenceLoss</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
@@ -8832,6 +8911,7 @@ Nornal white guy like Baron</notes>
     <source>R5</source>
   </sources>
   <customdatadirectorynames>
+    <directoryname>Bone Lacing Adds to Body</directoryname>
     <directoryname>Legal SIN and Licenses</directoryname>
   </customdatadirectorynames>
   <calculatedvalues>

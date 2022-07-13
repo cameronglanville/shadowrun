@@ -30,7 +30,7 @@
   <mainmugshotindex>-1</mainmugshotindex>
   <mugshots />
   <gender>Male</gender>
-  <age>26</age>
+  <age>26(27)</age>
   <eyes />
   <height />
   <weight />
@@ -136,6 +136,26 @@ commlink code of the one he is gaining\par
 5am parking lot of the warehouse\par
 \par
 all 4 cars carring medical supplies have been Blown up by the red arrow\par
+\par
+package must be retrived\par
+fragile? orc kick is enough to destroy the contents \par
+in transport\par
+need tech master\par
+3-4 days to get it, before final destination: 3.5 days\par
+hack someones commlink to find the package\par
+Daimien Ernst.\par
+Local Government Official.\par
+Ward councillor.\par
+involved in Helix Incorporated\par
+4 people on the package at any time\par
+Daimien doesn't know we want it.\par
+helix bioware\par
+Daimien is the 3rd CEO, 4 years\par
+Lots of conflict since he showed up, more security than usual sounds, like theyhave become PMC\par
+Mage lost her SIN to Lone Star, gave her my rating 1\par
+\par
+3 locations, currently Helix facility, 5pm: Lone Star lockup, after that I have one more location\par
+have a copy of the tracking app, and the tracking number.\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
@@ -1661,7 +1681,7 @@ all 4 cars carring medical supplies have been Blown up by the red arrow\par
       <source>SR5</source>
       <page>437</page>
       <armorname />
-      <equipped>False</equipped>
+      <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -8997,22 +9017,6 @@ all 4 cars carring medical supplies have been Blown up by the red arrow\par
       </undo>
     </expense>
     <expense>
-      <guid>a6f7f675-c771-4bd8-9a43-9a10a176f7b7</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>2bb862c6-b927-4bb7-9ac1-ced47a5f1fb3</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
@@ -9222,6 +9226,22 @@ all 4 cars carring medical supplies have been Blown up by the red arrow\par
     </expense>
     <expense>
       <guid>dc781247-5683-4296-bd87-7f9d23d175c2</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>a6f7f675-c771-4bd8-9a43-9a10a176f7b7</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
       <reason>Removed Negative Quality In Debt</reason>
