@@ -59,7 +59,7 @@ Another a base was established they had begun to claim territory. Members of ano
 Toshio feels dishonoured by his failure to protect his father. He strives to stay true to the code given to him by his father. He seeks vengence and to reclaim his father's sword, but is worried that his intentions are not pure. To do this he seeks out those who know what goes on in the shadows.\par
 }
 </background>
-  <concept>{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+  <concept>{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs17\lang1033 To Toshiro honour is what is most important, so he seeks to make fights fair. He uses his powers to level the field and seeks to draw enemies into melee.\par
 \par
@@ -324,6 +324,7 @@ Spirit of Man told us not to go to the other side of the moutain, or to only go 
 There are spirits fighting on the other side. We should only go when the fighting spirits are sleeping.\par
 42000 for the repairs.\par
 \par
+Half training time from\par
 beginning training spellcasting 7\par
 \par
 Break into a church to get Iroha Hasagawa 5ft4\par
@@ -347,10 +348,18 @@ he has been dabbling in corrupted magic, toxic mage\par
 \par
 Got to the staging area 15 min from the town we are going to\par
 Klaxons went off end of session\par
+\par
+Ed's company want us to protect thier shipment in a week and a half from a go gang.\par
+Probably not a go gang.\par
+Springs Elite bought out their contract rather than going after the go gang.\par
+75 000 offered.\par
+disgressionary fund for expenses (25 000 ?).\par
+\par
+Carbon projection\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>43</karma>
+  <karma>25</karma>
   <special>0</special>
   <totalspecial>3</totalspecial>
   <totalattributes>24</totalattributes>
@@ -369,7 +378,7 @@ Klaxons went off end of session\par
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>232481.00000</nuyen>
+  <nuyen>190666.00000</nuyen>
   <startingnuyen>6000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -483,7 +492,7 @@ Klaxons went off end of session\par
       <base>0</base>
       <karma>3</karma>
       <metatypecategory>Special</metatypecategory>
-      <totalvalue>3</totalvalue>
+      <totalvalue>4</totalvalue>
     </attribute>
     <attribute>
       <name>MAG</name>
@@ -1866,7 +1875,7 @@ Klaxons went off end of session\par
       <mugshots />
     </contact>
     <contact>
-      <name>Ryo</name>
+      <name>Ryu</name>
       <role>Yakuza Fixer</role>
       <location>Harare</location>
       <connection>6</connection>
@@ -2118,7 +2127,7 @@ Klaxons went off end of session\par
       <mugshots />
     </contact>
     <contact>
-      <name>Doc Johmson</name>
+      <name>Doc Johnson</name>
       <role>Fixer</role>
       <location>?</location>
       <connection>1</connection>
@@ -2146,7 +2155,7 @@ Klaxons went off end of session\par
       <mugshots />
     </contact>
     <contact>
-      <name>D. B. Cooper Forum </name>
+      <name>D. B. Cooper Forum</name>
       <role>Fixer</role>
       <location>Matrix</location>
       <connection>8</connection>
@@ -2254,6 +2263,34 @@ Klaxons went off end of session\par
       <free>False</free>
       <groupenabled>True</groupenabled>
       <guid>703ef3d6-7dc5-4003-8435-a8f0bf1a20c0</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Hasagawa Iroha</name>
+      <role>Yakuza</role>
+      <location>Harare</location>
+      <connection>1</connection>
+      <loyalty>1</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>f9017a2c-0398-4c15-91e3-239145075675</guid>
       <mainmugshotindex>-1</mainmugshotindex>
       <mugshots />
     </contact>
@@ -7259,7 +7296,7 @@ Klaxons went off end of session\par
           <firemodereplace />
           <ap />
           <apreplace />
-          <notes />
+          <notes>Bottom</notes>
           <discountedcost>False</discountedcost>
           <singleshot>0</singleshot>
           <shortburst>0</shortburst>
@@ -7316,54 +7353,6 @@ Klaxons went off end of session\par
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
           <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>False</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-        </accessory>
-        <accessory>
-          <sourceid>21bc8b85-3fd7-4bde-ac8d-35e1fa099f21</sourceid>
-          <guid>234f8d64-15b5-4e4e-a48f-d29908ccc461</guid>
-          <name>Improved Range Finder</name>
-          <mount>Top</mount>
-          <extramount>None</extramount>
-          <rc />
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>0</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal />
-          <avail>6</avail>
-          <cost>2000</cost>
-          <included>False</included>
-          <equipped>True</equipped>
-          <source>RG</source>
-          <page>52</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes />
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>1</rangemodifier>
           <extra />
           <ammobonus />
           <wirelesson>False</wirelesson>
@@ -7586,6 +7575,321 @@ Klaxons went off end of session\par
           <accuracy>0</accuracy>
           <ammoreplace />
           <ammoslots>1</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+        <accessory>
+          <sourceid>21bc8b85-3fd7-4bde-ac8d-35e1fa099f21</sourceid>
+          <guid>579503ca-0867-497c-9528-78b0d98fd901</guid>
+          <name>Improved Range Finder</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>6</avail>
+          <cost>2000</cost>
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>52</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>1</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+        <accessory>
+          <sourceid>2905095e-937e-4dbc-aa56-3b66676e1559</sourceid>
+          <guid>34e4a847-8dd1-456d-a1dc-c9603175ba50</guid>
+          <name>Imaging Scope</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>300</cost>
+          <included>False</included>
+          <equipped>True</equipped>
+          <allowgear>
+            <gearcategory>Vision Enhancements</gearcategory>
+            <gearcategory>Custom</gearcategory>
+          </allowgear>
+          <source>SR5</source>
+          <page>432</page>
+          <accuracy>0</accuracy>
+          <gears>
+            <gear>
+              <sourceid>fa6fa434-107b-4f36-a138-f98b044dae76</sourceid>
+              <guid>8b418b08-3a0d-4081-ac73-1d278dc72382</guid>
+              <name>Camera, Micro</name>
+              <category>Vision Devices</category>
+              <capacity>1</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>34e4a847-8dd1-456d-a1dc-c9603175ba50</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>adf3533a-461c-46ae-9ee7-77dfd31c5d5a</sourceid>
+              <guid>0e1670d2-c181-4900-8145-ea8efe7a37c2</guid>
+              <name>Vision Magnification</name>
+              <category>Vision Enhancements</category>
+              <capacity>[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>+2</avail>
+              <cost>0</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>444</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>34e4a847-8dd1-456d-a1dc-c9603175ba50</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>f7f74a85-bd3b-4a46-9c3b-80688c72ef51</sourceid>
+              <guid>a44c8e1b-28bd-45ee-a202-426566bdad8d</guid>
+              <name>Thermographic Vision</name>
+              <category>Vision Enhancements</category>
+              <capacity>[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>+6</avail>
+              <cost>500</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>444</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid />
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+          </gears>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+        <accessory>
+          <sourceid>a1865555-8ad5-43ec-a30e-b7d77e804fab</sourceid>
+          <guid>907ce148-8c0b-4a01-8e0c-90e9f3752eb6</guid>
+          <name>Sling</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>0</avail>
+          <cost>15</cost>
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>52</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
           <damage />
@@ -7979,6 +8283,248 @@ Klaxons went off end of session\par
       <sortorder>0</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
+    <weapon>
+      <sourceid>fb545997-dcd5-48d4-963e-4f0c797e5982</sourceid>
+      <guid>98a4803d-4f12-407d-9121-ca23fc9ed037</guid>
+      <name>Stoner-Ares M-22A1</name>
+      <category>Heavy Machine Guns</category>
+      <type>Ranged</type>
+      <spec>Machine Guns</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>18P</damage>
+      <ap>-6</ap>
+      <mode>FA</mode>
+      <rc>-6</rc>
+      <ammo>200(belt)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>10</conceal>
+      <avail>24F</avail>
+      <cost>29000</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SL</source>
+      <page>130</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>4</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>d57d2c64-1f61-4f5f-a465-8ce0dfacec6a</sourceid>
+          <guid>cf15e712-baae-4db5-8774-fa53296cf24e</guid>
+          <name>Smartgun System, Internal</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>+2R</avail>
+          <cost>Weapon Cost</cost>
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>2</accuracy>
+          <gears>
+            <gear>
+              <sourceid>3a79e046-8106-4089-a1ab-895eee956b86</sourceid>
+              <guid>9aa5c3d5-9277-4380-a8d3-d4b75a541b97</guid>
+              <name>Laser Range Finder</name>
+              <category>Sensor Functions</category>
+              <capacity>[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>446</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>cf15e712-baae-4db5-8774-fa53296cf24e</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>fa6fa434-107b-4f36-a138-f98b044dae76</sourceid>
+              <guid>d68713ad-a2dc-41d3-bcd5-8b720c2576e5</guid>
+              <name>Camera, Micro</name>
+              <category>Vision Devices</category>
+              <capacity>1</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>cf15e712-baae-4db5-8774-fa53296cf24e</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+          </gears>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+      </accessories>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots>Stock/Side/Internal/Barrel/Top/Under</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
+    </weapon>
   </weapons>
   <cyberwares />
   <qualities>
@@ -8212,6 +8758,65 @@ Klaxons went off end of session\par
       <firstlevelbonus />
       <notes />
     </quality>
+    <quality>
+      <sourceid>68cfe94a-fa7e-4129-a9b9-b5d73e3ced99</sourceid>
+      <guid>afca783a-339a-4a3d-89fe-1ea497517858</guid>
+      <name>Ambidextrous</name>
+      <extra />
+      <bp>4</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>71</page>
+      <sourcename />
+      <bonus>
+        <ambidextrous />
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
+    <quality>
+      <sourceid>1bad26cf-9d67-4bb1-9b4f-e9c80d668651</sourceid>
+      <guid>c8b2b59a-5b7f-448a-8808-e8434c0b433f</guid>
+      <name>Perceptive</name>
+      <extra />
+      <bp>5</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>148</page>
+      <sourcename />
+      <bonus>
+        <specificskill>
+          <name>Perception</name>
+          <bonus>1</bonus>
+        </specificskill>
+        <specificskill>
+          <name>Assensing</name>
+          <bonus>1</bonus>
+        </specificskill>
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
   </qualities>
   <lifestyles>
     <lifestyle>
@@ -8223,7 +8828,7 @@ Klaxons went off end of session\par
       <lp>4</lp>
       <baselifestyle>Medium</baselifestyle>
       <multiplier>100</multiplier>
-      <months>4</months>
+      <months>3</months>
       <roommates>0</roommates>
       <percentage>100</percentage>
       <area>0</area>
@@ -8345,6 +8950,72 @@ Klaxons went off end of session\par
         <lifestylequality>
           <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
           <guid>2fc3072b-c675-46a2-bcba-2e7e7a5e89e5</guid>
+          <name>Grid Subscription</name>
+          <category>Entertainment - Asset</category>
+          <extra>Public Grid</extra>
+          <cost>50</cost>
+          <multiplier>0</multiplier>
+          <basemultiplier>0</basemultiplier>
+          <lp>1</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
+          <contributetolimit>True</contributetolimit>
+          <print>True</print>
+          <lifestylequalitytype>Entertainment</lifestylequalitytype>
+          <lifestylequalitysource>Selected</lifestylequalitysource>
+          <source>RF</source>
+          <page>222</page>
+          <allowed>Medium,High,Luxury</allowed>
+          <bonus>
+          </bonus>
+          <notes />
+        </lifestylequality>
+      </freegrids>
+      <notes />
+      <sortorder>0</sortorder>
+    </lifestyle>
+    <lifestyle>
+      <sourceid>451eef87-d18e-4bee-a972-1ee165b08522</sourceid>
+      <guid>d5208b09-2f06-4cc9-9a37-c10d36d9b308</guid>
+      <name>Plot of Land</name>
+      <cost>2000</cost>
+      <dice>3</dice>
+      <lp>3</lp>
+      <baselifestyle>Low</baselifestyle>
+      <multiplier>60</multiplier>
+      <months>1</months>
+      <roommates>5</roommates>
+      <percentage>100</percentage>
+      <area>0</area>
+      <comforts>0</comforts>
+      <security>0</security>
+      <basearea>2</basearea>
+      <basecomforts>2</basecomforts>
+      <basesecurity>2</basesecurity>
+      <maxarea>3</maxarea>
+      <maxcomforts>3</maxcomforts>
+      <maxsecurity>3</maxsecurity>
+      <costforearea>0</costforearea>
+      <costforcomforts>0</costforcomforts>
+      <costforsecurity>0</costforsecurity>
+      <allowbonuslp>False</allowbonuslp>
+      <bonuslp>0</bonuslp>
+      <source>SR5</source>
+      <page>369</page>
+      <trustfund>False</trustfund>
+      <primarytenant>False</primarytenant>
+      <type>Standard</type>
+      <increment>Month</increment>
+      <sourceid>451eef87-d18e-4bee-a972-1ee165b08522</sourceid>
+      <lifestylequalities />
+      <freegrids>
+        <lifestylequality>
+          <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
+          <guid>ba03e47a-4874-4854-b1c2-5902babac5be</guid>
           <name>Grid Subscription</name>
           <category>Entertainment - Asset</category>
           <extra>Public Grid</extra>
@@ -20682,18 +21353,87 @@ Prayer beads with multi coloured strings.</notes>
     </improvement>
     <improvement>
       <target />
-      <improvedname>EDG</improvedname>
-      <sourcename />
+      <improvedname />
+      <sourcename>afca783a-339a-4a3d-89fe-1ea497517858</sourcename>
       <min>0</min>
       <max>0</max>
-      <aug>-1</aug>
+      <aug>0</aug>
       <augmax>0</augmax>
       <val>0</val>
       <rating>1</rating>
       <exclude />
       <condition />
-      <improvementttype>Attribute</improvementttype>
-      <improvementsource>EdgeUse</improvementsource>
+      <improvementttype>Ambidextrous</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Perception</improvedname>
+      <sourcename>c8b2b59a-5b7f-448a-8808-e8434c0b433f</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Assensing</improvedname>
+      <sourcename>c8b2b59a-5b7f-448a-8808-e8434c0b433f</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Public Grid</improvedname>
+      <sourcename>ba03e47a-4874-4854-b1c2-5902babac5be</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Quality</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
@@ -25839,7 +26579,7 @@ Prayer beads with multi coloured strings.</notes>
       <forcecareervisible>False</forcecareervisible>
     </expense>
     <expense>
-      <guid>cbed8ca6-d8b5-4a50-b98f-762f1d64cba3</guid>
+      <guid>1824fa1a-b15e-447a-9b01-cbd42e229d9e</guid>
       <date>2021-09-29T21:36:37</date>
       <amount>0</amount>
       <reason>Decremented Lifestyle Medium</reason>
@@ -25848,7 +26588,7 @@ Prayer beads with multi coloured strings.</notes>
       <forcecareervisible>False</forcecareervisible>
     </expense>
     <expense>
-      <guid>1824fa1a-b15e-447a-9b01-cbd42e229d9e</guid>
+      <guid>cbed8ca6-d8b5-4a50-b98f-762f1d64cba3</guid>
       <date>2021-09-29T21:36:37</date>
       <amount>0</amount>
       <reason>Decremented Lifestyle Medium</reason>
@@ -27373,6 +28113,195 @@ Prayer beads with multi coloured strings.</notes>
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>f94aaa40-bca9-4b10-9d7b-1afce84d3371</guid>
+      <date>2022-07-13T22:04:54</date>
+      <amount>5000</amount>
+      <reason>Shylock payment?</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>7c6f10ce-bd13-42e3-91e0-e54268bf97f1</guid>
+      <date>2022-07-19T18:58:19</date>
+      <amount>-8</amount>
+      <reason>Gained Positive Quality Ambidextrous</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>afca783a-339a-4a3d-89fe-1ea497517858</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9ef7e62f-ece9-42f5-8d99-7c037d6887df</guid>
+      <date>2022-07-19T19:08:29</date>
+      <amount>-10</amount>
+      <reason>Gained Positive Quality Perceptive</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>c8b2b59a-5b7f-448a-8808-e8434c0b433f</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>dcb9950d-cadd-4241-8261-57efe0e74cd9</guid>
+      <date>2022-07-19T19:40:45</date>
+      <amount>-2000.0</amount>
+      <reason>Purchased Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>IncreaseLifestyle</nuyentype>
+        <objectid>35614705-c9b3-4e13-b130-35bded62061c</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4e48092c-744a-405f-aac7-72559cfb4e2a</guid>
+      <date>2022-07-19T19:40:47</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>7c5434a1-c5ff-44a6-86c0-43c2cff27c23</guid>
+      <date>2022-07-19T19:40:49</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>c849aff0-7267-4a10-9839-caa4ae10f3ec</guid>
+      <date>2022-07-19T19:51:35</date>
+      <amount>0.00</amount>
+      <reason>Modified Lifestyle Low ("Plot of Land") -&gt; Low ("Plot of Land")</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>c053029d-0c74-40f6-be2d-129dfc0b1583</guid>
+      <date>2022-07-19T19:51:45</date>
+      <amount>0.00</amount>
+      <reason>Modified Lifestyle Low ("Plot of Land") -&gt; Low ("Plot of Land")</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>5bbeede9-2064-4d22-8669-ec69f0944025</guid>
+      <date>2022-07-19T19:52:02</date>
+      <amount>0.00</amount>
+      <reason>Modified Lifestyle Low ("Plot of Land") -&gt; Low ("Plot of Land")</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>88a026c7-1137-48fa-bea3-ed22857e3125</guid>
+      <date>2022-07-19T19:52:06</date>
+      <amount>-500</amount>
+      <reason>Purchased Lifestyle Low</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>IncreaseLifestyle</nuyentype>
+        <objectid>d5208b09-2f06-4cc9-9a37-c10d36d9b308</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>6477536c-99a5-48e8-8f6c-078260c443dd</guid>
+      <date>2022-07-19T20:14:34</date>
+      <amount>-300.0</amount>
+      <reason>Purchased Weapon Accessory Imaging Scope</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>34e4a847-8dd1-456d-a1dc-c9603175ba50</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5de8ec5f-2fa3-43c7-88e9-a09bff22e995</guid>
+      <date>2022-07-19T20:14:58</date>
+      <amount>-500.0</amount>
+      <reason>Purchased Weapon Gear Thermographic Vision</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponGear</nuyentype>
+        <objectid>a44c8e1b-28bd-45ee-a202-426566bdad8d</objectid>
+        <qty>1</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>1867733f-1118-48fd-b6fb-8da97d1e42ad</guid>
+      <date>2022-07-19T20:15:08</date>
+      <amount>-15.0</amount>
+      <reason>Purchased Weapon Accessory Sling</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>907ce148-8c0b-4a01-8e0c-90e9f3752eb6</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>fb6dd8b0-fa88-4dd2-9ac5-e47d62615df5</guid>
+      <date>2022-08-10T20:05:55</date>
+      <amount>-43500.00</amount>
+      <reason>Purchased Weapon Stoner-Ares M-22A1</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeapon</nuyentype>
+        <objectid>98a4803d-4f12-407d-9121-ca23fc9ed037</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations />
   <armorlocations />
@@ -27380,6 +28309,18 @@ Prayer beads with multi coloured strings.</notes>
   <weaponlocations />
   <improvementgroups />
   <calendar>
+    <week>
+      <guid>51245108-3c1a-4a7d-a56e-bc5d85de487e</guid>
+      <year>2078</year>
+      <week>13</week>
+      <notes>Down Time week one.</notes>
+    </week>
+    <week>
+      <guid>206c27e8-d05a-490a-b03e-97ea962213cc</guid>
+      <year>2078</year>
+      <week>12</week>
+      <notes>Run in Cape Town, Saved Iroha.</notes>
+    </week>
     <week>
       <guid>ef3c1a0a-491a-4347-8d8e-256ff206ed1b</guid>
       <year>2078</year>
@@ -27429,6 +28370,7 @@ Prayer beads with multi coloured strings.</notes>
     <source>HT</source>
     <source>RF</source>
     <source>RG</source>
+    <source>SL</source>
     <source>FA</source>
     <source>CF</source>
     <source>DT</source>
