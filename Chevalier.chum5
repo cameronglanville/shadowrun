@@ -31,11 +31,11 @@
   <mugshots />
   <gender>Male</gender>
   <age>26(27)</age>
-  <eyes />
-  <height />
-  <weight />
-  <skin />
-  <hair />
+  <eyes>Red</eyes>
+  <height>0.8</height>
+  <weight>25kg</weight>
+  <skin>Light</skin>
+  <hair>Dark</hair>
   <description>{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs17\lang2057 Gnome Decker\par
@@ -149,17 +149,40 @@ Ward councillor.\par
 involved in Helix Incorporated\par
 4 people on the package at any time\par
 Daimien doesn't know we want it.\par
-helix bioware\par
-Daimien is the 3rd CEO, 4 years\par
-Lots of conflict since he showed up, more security than usual sounds, like theyhave become PMC\par
+Helix Bioware (Corp)\par
+Daimien is the 3rd CEO in 4 years\par
+Lots of conflict since he showed up, more security than usual sounds, like they have become PMC\par
 Mage lost her SIN to Lone Star, gave her my rating 1\par
 \par
 3 locations, currently Helix facility, 5pm: Lone Star lockup, after that I have one more location\par
 have a copy of the tracking app, and the tracking number.\par
+\par
+Manufacturing facilities underground\par
+\par
+3/4 utilities and half the power\par
+Anton Dobeni\par
+\par
+Rating 6 Host highest firewall\par
+\par
+Johnathan has hired a Gang to be a ganger, We are to kill him\par
+Cape Town Stadium\par
+\par
+Target: Johnson Johan Aarnhard\par
+Local upcoming Low level Exec of\par
+Steele and Sons Inc.\par
+Azanian, 10% az steel, labour stuff, boy is in charge, expanded company, squshed competetors\par
+Bought out a local Gang, the 253s, Enforcers and Drug pushers, poisons, non standard ways of dealing with things, 3 months ago leader seems to have gone missing, good quality drugs\par
+\par
+Multifaceted entertainment\par
+Bleeding Edge\par
+\par
+Host rating 7 Firewall 8\par
+\par
+Huntress Heavy pistol\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>5</karma>
+  <karma>4</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>0</totalattributes>
@@ -178,7 +201,7 @@ have a copy of the tracking app, and the tracking number.\par
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>67805.500</nuyen>
+  <nuyen>85743.500</nuyen>
   <startingnuyen>0</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>800</buildkarma>
@@ -1007,7 +1030,7 @@ have a copy of the tracking app, and the tracking number.\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <notes />
         <name>Pilot Ground Craft</name>
@@ -1312,7 +1335,7 @@ have a copy of the tracking app, and the tracking number.\par
         <name>Influence</name>
       </group>
       <group>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <id>18ce2669-67a4-4093-8641-01688bec871e</id>
         <name>Outdoors</name>
@@ -2943,61 +2966,6 @@ have a copy of the tracking app, and the tracking number.\par
   <gears>
     <gear>
       <sourceid>2d8396ff-a4a9-4382-ab69-70d198856e7f</sourceid>
-      <guid>1dfad3bc-fb54-4c95-8783-a0a4520f86ea</guid>
-      <name>Agent</name>
-      <category>Software</category>
-      <capacity />
-      <armorcapacity />
-      <minrating>0</minrating>
-      <maxrating>6</maxrating>
-      <rating>6</rating>
-      <qty>1</qty>
-      <avail>Rating * 3</avail>
-      <cost>FixedValues([1000],[2000],[3000],[8000],[10000],[12000])</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>246</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>0</sortorder>
-    </gear>
-    <gear>
-      <sourceid>2d8396ff-a4a9-4382-ab69-70d198856e7f</sourceid>
       <guid>75f82a39-0bae-459f-8d3b-4687c6e00f47</guid>
       <name>Agent</name>
       <category>Software</category>
@@ -3049,7 +3017,62 @@ have a copy of the tracking app, and the tracking number.\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>5</sortorder>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>2d8396ff-a4a9-4382-ab69-70d198856e7f</sourceid>
+      <guid>1dfad3bc-fb54-4c95-8783-a0a4520f86ea</guid>
+      <name>Agent</name>
+      <category>Software</category>
+      <capacity />
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating>6</maxrating>
+      <rating>6</rating>
+      <qty>1</qty>
+      <avail>Rating * 3</avail>
+      <cost>FixedValues([1000],[2000],[3000],[8000],[10000],[12000])</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>246</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>5deb8e1d-98bf-4cd4-9dce-b74d67546a1d</sourceid>
@@ -4633,7 +4656,7 @@ have a copy of the tracking app, and the tracking number.\par
       <devicerating>5</devicerating>
       <gearname />
       <forcedvalue />
-      <matrixcmfilled>1</matrixcmfilled>
+      <matrixcmfilled>0</matrixcmfilled>
       <matrixcmbonus>0</matrixcmbonus>
       <parentid />
       <allowrename>False</allowrename>
@@ -5762,7 +5785,7 @@ have a copy of the tracking app, and the tracking number.\par
       <canswapattributes>True</canswapattributes>
       <active>True</active>
       <homenode>False</homenode>
-      <sortorder>4</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>67ea7c0c-1703-412b-80d3-9c23cc6d8291</sourceid>
@@ -6037,7 +6060,7 @@ have a copy of the tracking app, and the tracking number.\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>1</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -6094,7 +6117,7 @@ have a copy of the tracking app, and the tracking number.\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>2</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -6323,7 +6346,62 @@ have a copy of the tracking app, and the tracking number.\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>3</sortorder>
+      <sortorder>4</sortorder>
+    </gear>
+    <gear>
+      <sourceid>149a8dd2-dfef-473f-94a4-1bdd77e4f855</sourceid>
+      <guid>a3f9dde0-2ff5-4887-b30b-439197ede976</guid>
+      <name>Clearsight Autosoft</name>
+      <category>Autosofts</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>1</rating>
+      <qty>3</qty>
+      <avail>Rating * 2</avail>
+      <cost>Rating * 500</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>269</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
     </gear>
   </gears>
   <vehicles>
@@ -9017,6 +9095,118 @@ have a copy of the tracking app, and the tracking number.\par
       </undo>
     </expense>
     <expense>
+      <guid>4f70b726-6ba9-475f-930d-5b9be09ec246</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>35a078c4-f707-4880-882b-9808df8caa1d</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>104b1dfc-8fb1-4bb4-b64d-f0b7eab59242</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8b95cdd0-44a4-429e-bd73-c436ce5687d2</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0409136d-96b7-41c7-b349-667ef4e7073d</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>dc781247-5683-4296-bd87-7f9d23d175c2</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>a6f7f675-c771-4bd8-9a43-9a10a176f7b7</guid>
+      <date>2018-05-10T14:48:27</date>
+      <amount>-2</amount>
+      <reason>Removed Negative Quality In Debt</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
       <guid>2bb862c6-b927-4bb7-9ac1-ced47a5f1fb3</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
@@ -9130,118 +9320,6 @@ have a copy of the tracking app, and the tracking number.\par
     </expense>
     <expense>
       <guid>1c0c0b4d-1ae2-4aad-83ef-9badcd3d916b</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>4f70b726-6ba9-475f-930d-5b9be09ec246</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>35a078c4-f707-4880-882b-9808df8caa1d</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>104b1dfc-8fb1-4bb4-b64d-f0b7eab59242</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>8b95cdd0-44a4-429e-bd73-c436ce5687d2</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>0409136d-96b7-41c7-b349-667ef4e7073d</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>dc781247-5683-4296-bd87-7f9d23d175c2</guid>
-      <date>2018-05-10T14:48:27</date>
-      <amount>-2</amount>
-      <reason>Removed Negative Quality In Debt</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>RemoveQuality</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>2b4dd1b1-b806-44e3-9067-65dc39c82d13</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>a6f7f675-c771-4bd8-9a43-9a10a176f7b7</guid>
       <date>2018-05-10T14:48:27</date>
       <amount>-2</amount>
       <reason>Removed Negative Quality In Debt</reason>
@@ -11053,6 +11131,166 @@ have a copy of the tracking app, and the tracking number.\par
         <nuyentype>AddCyberware</nuyentype>
         <objectid />
         <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e0ed1b20-e038-43f4-83a3-2258dd5705df</guid>
+      <date>2022-08-17T22:40:16</date>
+      <amount>12000</amount>
+      <reason>Meat factory Mission</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9fbe7d67-64bd-482d-9dd1-b0e82550d610</guid>
+      <date>2022-08-17T22:47:51</date>
+      <amount>6</amount>
+      <reason>Meat factory Mission</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>f1cce696-0ecd-479e-a562-13e65c14c57f</guid>
+      <date>2022-08-30T18:51:10</date>
+      <amount>-5</amount>
+      <reason>Skill Group Outdoors 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>Outdoors</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>cbd69bd5-ad71-4358-b9a1-4cb0a3256596</guid>
+      <date>2022-08-30T19:00:59</date>
+      <amount>-2</amount>
+      <reason>Active Skill Pilot Ground Craft 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>0cf81f53-e8b6-41ec-af83-410354c1e62e</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>6f0bfd1d-3e30-4689-bb80-808b2a264ed3</guid>
+      <date>2022-08-30T21:13:08</date>
+      <amount>8000</amount>
+      <reason>Hit at Cape Town Stadium Mission Forward Payment</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>247e2bbd-11d1-4164-a06e-7dc6c85a60c4</guid>
+      <date>2022-10-04T20:25:08</date>
+      <amount>-100</amount>
+      <reason>paid for parking CT stadium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4c39116d-d23e-41d9-8ae0-f950a59188d7</guid>
+      <date>2022-10-04T21:05:53</date>
+      <amount>-50</amount>
+      <reason>Breakfast, Eggs and Bacon</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>fd05f9ee-2e90-434f-826f-e16379baf832</guid>
+      <date>2022-10-04T21:40:53</date>
+      <amount>-400</amount>
+      <reason>Night parking</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8b31eee1-a2a6-42ed-a87e-aa83e45545bf</guid>
+      <date>2022-12-14T20:59:56</date>
+      <amount>-12</amount>
+      <reason>Resurant</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c4af3233-01e9-4e95-84b6-38f52fb07977</guid>
+      <date>2022-12-14T21:55:35</date>
+      <amount>-1500</amount>
+      <reason>Purchased Gear Clearsight Autosoft</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>a3f9dde0-2ff5-4887-b30b-439197ede976</objectid>
+        <qty>3</qty>
         <extra />
       </undo>
     </expense>
