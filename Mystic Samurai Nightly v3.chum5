@@ -377,13 +377,19 @@ A box of CFD on a desk, infect him with this\par
 \par
 Next week bounty hunter semanar, sample bounties.\par
 Bring non lethal weapons.\par
+recommends zip ties\par
+\par
+\par
 Daniel Smith skipped out on bail 200\par
 Janie Smith\par
 \par
+GM Restricted Gear: avalibility 18, 50 000 nuyen credit\par
+\par
+Bounty on Mine, Janus and Ed's heads, 250 000?\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>5</karma>
+  <karma>6</karma>
   <special>0</special>
   <totalspecial>3</totalspecial>
   <totalattributes>24</totalattributes>
@@ -402,7 +408,7 @@ Janie Smith\par
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>169966.00000</nuyen>
+  <nuyen>208866.00000</nuyen>
   <startingnuyen>6000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -997,7 +1003,7 @@ Janie Smith\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <notes />
         <name>Etiquette</name>
@@ -1062,7 +1068,7 @@ Janie Smith\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <notes />
         <name>Gunnery</name>
@@ -1257,7 +1263,7 @@ Janie Smith\par
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <notes />
         <name>Negotiation</name>
@@ -2371,6 +2377,90 @@ Janie Smith\par
       <free>False</free>
       <groupenabled>True</groupenabled>
       <guid>f9305a5b-1025-45e2-b52b-a5bca5faca32</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Threaded</name>
+      <role>Magical Advisor</role>
+      <location />
+      <connection>1</connection>
+      <loyalty>1</loyalty>
+      <metatype>Ork</metatype>
+      <gender>Female</gender>
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>cbb2bbc6-cd5a-4aad-a6d1-60a9308d0b2c</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Wraith/ Tash</name>
+      <role>Tech Support/ Bouty Hunter</role>
+      <location />
+      <connection>1</connection>
+      <loyalty>2</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>df20435b-856f-472c-bf93-607dfe53e2ca</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Mr. Jameson</name>
+      <role>Fixer (Bouties)</role>
+      <location />
+      <connection>4</connection>
+      <loyalty>2</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>bfb0d1dc-98f7-4cc4-b0b8-ae615534eb60</guid>
       <mainmugshotindex>-1</mainmugshotindex>
       <mugshots />
     </contact>
@@ -4311,7 +4401,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
       </accessories>
       <location />
@@ -4468,7 +4558,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -4598,7 +4688,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -4728,7 +4818,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -4755,11 +4845,6 @@ Janie Smith\par
       <rating>0</rating>
       <clips>
         <clip>
-          <name>Ammo: Regular Ammo</name>
-          <id>5fc2eb44-84a8-41ec-9596-f5dc5739e9d1</id>
-          <count>12</count>
-        </clip>
-        <clip>
           <name>Ammo: APDS</name>
           <id>d4a0154e-4fcc-4786-9985-53a90829f693</id>
           <count>12</count>
@@ -4770,8 +4855,13 @@ Janie Smith\par
           <count>12</count>
         </clip>
         <clip>
-          <name>Ammo: Explosive Rounds</name>
-          <id>726b6da8-8439-4aab-b390-a5cfd5e36951</id>
+          <name>Ammo: Stick-n-Shock</name>
+          <id>a2fdb333-694a-4283-a1d5-098fe21bd50e</id>
+          <count>12</count>
+        </clip>
+        <clip>
+          <name>Ammo: Stick-n-Shock</name>
+          <id>a2fdb333-694a-4283-a1d5-098fe21bd50e</id>
           <count>12</count>
         </clip>
         <clip>
@@ -4916,7 +5006,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -4965,7 +5055,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -5014,7 +5104,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -5063,7 +5153,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -5112,7 +5202,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
         </accessory>
         <accessory>
           <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
@@ -5160,7 +5250,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -5208,7 +5298,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>7</sortorder>
         </accessory>
         <accessory>
           <sourceid>0da6149e-982f-4051-825b-52c1b79c7e52</sourceid>
@@ -5256,7 +5346,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>8</sortorder>
         </accessory>
       </accessories>
       <location />
@@ -5283,7 +5373,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -5373,7 +5463,7 @@ Janie Smith\par
           <avail>2</avail>
           <cost>25</cost>
           <included>False</included>
-          <equipped>True</equipped>
+          <equipped>False</equipped>
           <source>SR5</source>
           <page>433</page>
           <accuracy>0</accuracy>
@@ -5421,7 +5511,7 @@ Janie Smith\par
           <avail>2</avail>
           <cost>25</cost>
           <included>False</included>
-          <equipped>True</equipped>
+          <equipped>False</equipped>
           <source>SR5</source>
           <page>433</page>
           <accuracy>0</accuracy>
@@ -5450,7 +5540,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
         <accessory>
           <sourceid>18e18bbc-f287-4455-bedf-ba349779a4cb</sourceid>
@@ -5498,7 +5588,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </accessory>
         <accessory>
           <sourceid>d57d2c64-1f61-4f5f-a465-8ce0dfacec6a</sourceid>
@@ -5630,7 +5720,7 @@ Janie Smith\par
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -5658,7 +5748,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </accessory>
         <accessory>
           <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
@@ -5706,7 +5796,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </accessory>
         <accessory>
           <sourceid>d5abeadd-fba4-47f9-ac35-bfbb31ce34be</sourceid>
@@ -5754,7 +5844,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
         </accessory>
         <accessory>
           <sourceid>ea64527d-0e1e-4248-957b-7c02d79dad30</sourceid>
@@ -5802,7 +5892,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
         </accessory>
       </accessories>
       <location />
@@ -5829,7 +5919,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>5</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -5856,13 +5946,13 @@ Janie Smith\par
       <rating>0</rating>
       <clips>
         <clip>
-          <name>Ammo: Stick-n-Shock</name>
-          <id>50f2a118-33f8-43d1-803c-fcc5441c04ae</id>
+          <name>Ammo: EX-Explosive Rounds</name>
+          <id>8be0c065-06bf-4d79-b531-7cc731916f85</id>
           <count>15</count>
         </clip>
         <clip>
-          <name>Ammo: Regular Ammo</name>
-          <id>5fc2eb44-84a8-41ec-9596-f5dc5739e9d1</id>
+          <name>Ammo: EX-Explosive Rounds</name>
+          <id>8be0c065-06bf-4d79-b531-7cc731916f85</id>
           <count>15</count>
         </clip>
         <clip>
@@ -6032,7 +6122,7 @@ Janie Smith\par
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -6108,7 +6198,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -6156,7 +6246,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </accessory>
         <accessory>
           <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
@@ -6204,7 +6294,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </accessory>
       </accessories>
       <location />
@@ -6231,7 +6321,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>6</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -6311,7 +6401,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>7</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -6391,7 +6481,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>8</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -6471,7 +6561,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>9</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -6551,7 +6641,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>10</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -6631,7 +6721,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>11</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -6711,7 +6801,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>12</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -6791,7 +6881,7 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>13</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -6871,7 +6961,87 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>14</sortorder>
+      <weapontype>melee</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>a68d164d-4b79-47b9-ac89-4985ae18e882</sourceid>
+      <guid>8a6f1da7-6a75-4ddf-91f7-fcf7efb1f17c</guid>
+      <name>Sapphire Knife</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <spec>Knives</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>(STR+2)P</damage>
+      <ap>-3</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>6R</avail>
+      <cost>900</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>HT</source>
+      <page>179</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>5</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>15</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -7038,7 +7208,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
         <accessory>
           <sourceid>d57d2c64-1f61-4f5f-a465-8ce0dfacec6a</sourceid>
@@ -7170,7 +7340,7 @@ Janie Smith\par
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -7198,7 +7368,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </accessory>
         <accessory>
           <sourceid>6b06cf52-04fa-4034-bb10-2bcdd58c4bfb</sourceid>
@@ -7246,7 +7416,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </accessory>
         <accessory>
           <sourceid>98c9ed33-2636-40bb-a455-334e8fb8e65f</sourceid>
@@ -7294,7 +7464,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </accessory>
         <accessory>
           <sourceid>de62b79f-2864-4023-a286-6c1f270aade3</sourceid>
@@ -7342,7 +7512,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
         </accessory>
         <accessory>
           <sourceid>de62b79f-2864-4023-a286-6c1f270aade3</sourceid>
@@ -7390,55 +7560,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
-        </accessory>
-        <accessory>
-          <sourceid>8eec5df1-88e2-4822-b156-9c2340a33efc</sourceid>
-          <guid>704c84c9-c34d-49da-beb5-2889af5777e8</guid>
-          <name>Foregrip</name>
-          <mount>Under</mount>
-          <extramount>None</extramount>
-          <rc>1</rc>
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>1</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal>1</conceal>
-          <avail>2</avail>
-          <cost>100</cost>
-          <included>False</included>
-          <equipped>True</equipped>
-          <source>RG</source>
-          <page>52</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes>slide mount under</notes>
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>False</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
         </accessory>
         <accessory>
           <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
@@ -7486,7 +7608,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>8</sortorder>
         </accessory>
         <accessory>
           <sourceid>06e128ee-00fd-4992-8bf5-4be35815fd11</sourceid>
@@ -7534,7 +7656,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>9</sortorder>
         </accessory>
         <accessory>
           <sourceid>46596db4-6f25-4990-80cc-c4102eaf80f7</sourceid>
@@ -7582,7 +7704,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>10</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -7630,7 +7752,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>11</sortorder>
         </accessory>
         <accessory>
           <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
@@ -7678,7 +7800,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>12</sortorder>
         </accessory>
         <accessory>
           <sourceid>21bc8b85-3fd7-4bde-ac8d-35e1fa099f21</sourceid>
@@ -7726,7 +7848,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>13</sortorder>
         </accessory>
         <accessory>
           <sourceid>2905095e-937e-4dbc-aa56-3b66676e1559</sourceid>
@@ -7862,7 +7984,7 @@ Janie Smith\par
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
             <gear>
               <sourceid>f7f74a85-bd3b-4a46-9c3b-80688c72ef51</sourceid>
@@ -7917,7 +8039,7 @@ Janie Smith\par
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>2</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -7945,7 +8067,7 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>14</sortorder>
         </accessory>
         <accessory>
           <sourceid>a1865555-8ad5-43ec-a30e-b7d77e804fab</sourceid>
@@ -7993,6 +8115,54 @@ Janie Smith\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
+          <sortorder>15</sortorder>
+        </accessory>
+        <accessory>
+          <sourceid>8eec5df1-88e2-4822-b156-9c2340a33efc</sourceid>
+          <guid>7ea91052-a5c0-43ea-908d-2f4359f3fc4c</guid>
+          <name>Foregrip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>1</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal>1</conceal>
+          <avail>2</avail>
+          <cost>100</cost>
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>52</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>slide mount under</notes>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
           <sortorder>0</sortorder>
         </accessory>
       </accessories>
@@ -8020,348 +8190,8 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>16</sortorder>
       <weapontype>gun</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>cbff618e-6a12-4bab-aaeb-2453706bf42e</sourceid>
-      <guid>d6589f4d-70a9-4dc6-be07-501b273f860c</guid>
-      <name>Beretta 201T</name>
-      <category>Light Pistols</category>
-      <type>Ranged</type>
-      <spec>Semi-Automatics</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>6P</damage>
-      <ap>-</ap>
-      <mode>SA/BF</mode>
-      <rc>0</rc>
-      <ammo>21(c)</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <clips />
-      <conceal>-2</conceal>
-      <avail>7R</avail>
-      <cost>210</cost>
-      <useskill />
-      <useskillspec />
-      <range />
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>425</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>6</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <accessories>
-        <accessory>
-          <sourceid>27de824f-d5e4-43fd-abaa-e42da6023569</sourceid>
-          <guid>13742551-939c-415a-9374-07078e6023d8</guid>
-          <name>Stock</name>
-          <mount>Internal</mount>
-          <extramount>None</extramount>
-          <rc>1</rc>
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>2</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal />
-          <avail>2</avail>
-          <cost>30</cost>
-          <included>True</included>
-          <equipped>True</equipped>
-          <source>RG</source>
-          <page>51</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes />
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>False</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-        </accessory>
-      </accessories>
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots>Barrel/Top</weaponslots>
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
-      <weapontype>gun</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>cbff618e-6a12-4bab-aaeb-2453706bf42e</sourceid>
-      <guid>203693d5-0446-49a5-b40e-edfbb5893b0c</guid>
-      <name>Beretta 201T</name>
-      <category>Light Pistols</category>
-      <type>Ranged</type>
-      <spec>Semi-Automatics</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>6P</damage>
-      <ap>-</ap>
-      <mode>SA/BF</mode>
-      <rc>0</rc>
-      <ammo>21(c)</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <clips />
-      <conceal>-2</conceal>
-      <avail>7R</avail>
-      <cost>210</cost>
-      <useskill />
-      <useskillspec />
-      <range />
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>425</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>6</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <accessories>
-        <accessory>
-          <sourceid>27de824f-d5e4-43fd-abaa-e42da6023569</sourceid>
-          <guid>0b21b495-eef6-4b38-a036-6f6b5f8edd5c</guid>
-          <name>Stock</name>
-          <mount>Internal</mount>
-          <extramount>None</extramount>
-          <rc>1</rc>
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>2</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal />
-          <avail>2</avail>
-          <cost>30</cost>
-          <included>True</included>
-          <equipped>True</equipped>
-          <source>RG</source>
-          <page>51</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes />
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>False</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-        </accessory>
-      </accessories>
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots>Barrel/Top</weaponslots>
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
-      <weapontype>gun</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>a68d164d-4b79-47b9-ac89-4985ae18e882</sourceid>
-      <guid>8a6f1da7-6a75-4ddf-91f7-fcf7efb1f17c</guid>
-      <name>Sapphire Knife</name>
-      <category>Blades</category>
-      <type>Melee</type>
-      <spec>Knives</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>(STR+2)P</damage>
-      <ap>-3</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>0</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <clips />
-      <conceal>-2</conceal>
-      <avail>6R</avail>
-      <cost>900</cost>
-      <useskill />
-      <useskillspec />
-      <range />
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>HT</source>
-      <page>179</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>5</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
-      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>fb545997-dcd5-48d4-963e-4f0c797e5982</sourceid>
@@ -8385,7 +8215,13 @@ Janie Smith\par
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <clips />
+      <clips>
+        <clip>
+          <name>Ammo: APDS</name>
+          <id>9418cb40-d332-40e6-bd48-16403ec89b99</id>
+          <count>200</count>
+        </clip>
+      </clips>
       <conceal>10</conceal>
       <avail>24F</avail>
       <cost>29000</cost>
@@ -8547,7 +8383,7 @@ Janie Smith\par
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -8602,8 +8438,348 @@ Janie Smith\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>17</sortorder>
       <weapontype>gun</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>cbff618e-6a12-4bab-aaeb-2453706bf42e</sourceid>
+      <guid>203693d5-0446-49a5-b40e-edfbb5893b0c</guid>
+      <name>Beretta 201T</name>
+      <category>Light Pistols</category>
+      <type>Ranged</type>
+      <spec>Semi-Automatics</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>6P</damage>
+      <ap>-</ap>
+      <mode>SA/BF</mode>
+      <rc>0</rc>
+      <ammo>21(c)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>7R</avail>
+      <cost>210</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>425</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>6</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>27de824f-d5e4-43fd-abaa-e42da6023569</sourceid>
+          <guid>0b21b495-eef6-4b38-a036-6f6b5f8edd5c</guid>
+          <name>Stock</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>2</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>30</cost>
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>51</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+      </accessories>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots>Barrel/Top</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>18</sortorder>
+      <weapontype>gun</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>cbff618e-6a12-4bab-aaeb-2453706bf42e</sourceid>
+      <guid>d6589f4d-70a9-4dc6-be07-501b273f860c</guid>
+      <name>Beretta 201T</name>
+      <category>Light Pistols</category>
+      <type>Ranged</type>
+      <spec>Semi-Automatics</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>6P</damage>
+      <ap>-</ap>
+      <mode>SA/BF</mode>
+      <rc>0</rc>
+      <ammo>21(c)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>7R</avail>
+      <cost>210</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>425</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>6</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>27de824f-d5e4-43fd-abaa-e42da6023569</sourceid>
+          <guid>13742551-939c-415a-9374-07078e6023d8</guid>
+          <name>Stock</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>2</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>30</cost>
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>51</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+      </accessories>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots>Barrel/Top</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>19</sortorder>
+      <weapontype>gun</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>e789ce47-f1bf-4c08-88b8-3295dddd03b1</sourceid>
+      <guid>8711c35c-eeb7-43e4-bde5-e0cb2c97cae2</guid>
+      <name>Shock Gloves</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>8S(e)</damage>
+      <ap>-5</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>0</conceal>
+      <avail>6R</avail>
+      <cost>550</cost>
+      <useskill>Unarmed Combat</useskill>
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>423</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
   </weapons>
   <cyberwares />
@@ -9210,7 +9386,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>12</sortorder>
+      <sortorder>11</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -9382,7 +9558,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>15</sortorder>
+      <sortorder>14</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -9839,7 +10015,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>16</sortorder>
+      <sortorder>15</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -9935,6 +10111,63 @@ Janie Smith\par
           <homenode>False</homenode>
           <sortorder>0</sortorder>
         </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>a4629d52-8351-4626-875c-2042006859e3</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>1</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <extra>Driver's License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>1</sortorder>
+        </gear>
       </children>
       <location />
       <notes />
@@ -9954,7 +10187,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>17</sortorder>
+      <sortorder>16</sortorder>
     </gear>
     <gear>
       <sourceid>c6084c7a-ab84-4ea6-999e-ff99b91f9bf0</sourceid>
@@ -10126,62 +10359,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>18</sortorder>
-    </gear>
-    <gear>
-      <sourceid>a19055f0-02ab-4bc2-ab43-0ef82e1b9100</sourceid>
-      <guid>ce8c51de-5754-4cf1-95f2-0ee5e81e6c1f</guid>
-      <name>Certified Credstick, Platinum</name>
-      <category>ID/Credsticks</category>
-      <capacity>500000</capacity>
-      <armorcapacity />
-      <minrating>0</minrating>
-      <maxrating />
-      <rating>0</rating>
-      <qty>1</qty>
-      <avail>10</avail>
-      <cost>500</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>442</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>20</sortorder>
+      <sortorder>17</sortorder>
     </gear>
     <gear>
       <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
@@ -10404,117 +10582,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>19</sortorder>
-    </gear>
-    <gear>
-      <sourceid>697ef5f4-8cde-434d-aca6-1bddd4d526d3</sourceid>
-      <guid>80355174-52ed-417f-a5a4-890d447588da</guid>
-      <name>Certified Credstick, Gold</name>
-      <category>ID/Credsticks</category>
-      <capacity>100000</capacity>
-      <armorcapacity />
-      <minrating>0</minrating>
-      <maxrating />
-      <rating>0</rating>
-      <qty>1</qty>
-      <avail>5</avail>
-      <cost>100</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>442</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>21</sortorder>
-    </gear>
-    <gear>
-      <sourceid>4f5b4fbc-78c4-4aa4-a5c2-7739f12e9b39</sourceid>
-      <guid>065bb566-1ed0-4c98-a7d9-0fa75107dfee</guid>
-      <name>Certified Credstick, Silver</name>
-      <category>ID/Credsticks</category>
-      <capacity>20000</capacity>
-      <armorcapacity />
-      <minrating>0</minrating>
-      <maxrating />
-      <rating>0</rating>
-      <qty>10</qty>
-      <avail>0</avail>
-      <cost>20 + Rating</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>442</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating>0</devicerating>
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>22</sortorder>
+      <sortorder>18</sortorder>
     </gear>
     <gear>
       <sourceid>27f9775d-cd14-4900-827f-ba00d26e0c67</sourceid>
@@ -10901,62 +10969,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>8</sortorder>
-    </gear>
-    <gear>
-      <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
-      <guid>3c1774a1-ab93-47ed-9d9c-3cc57c9c799f</guid>
-      <name>Certified Credstick, Standard</name>
-      <category>ID/Credsticks</category>
-      <capacity>5000</capacity>
-      <armorcapacity />
-      <minrating>0</minrating>
-      <maxrating />
-      <rating>0</rating>
-      <qty>1</qty>
-      <avail>0</avail>
-      <cost>5</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>442</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>23</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
@@ -11122,7 +11135,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>10</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>73e98bb9-4521-45a2-9185-13067fe6b90b</sourceid>
@@ -11784,7 +11797,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>13</sortorder>
+      <sortorder>12</sortorder>
     </gear>
     <gear>
       <sourceid>82334694-a630-42c4-95d6-eb1345e4ed82</sourceid>
@@ -11839,7 +11852,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>24</sortorder>
+      <sortorder>22</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -12296,7 +12309,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>14</sortorder>
+      <sortorder>13</sortorder>
     </gear>
     <gear>
       <sourceid>ef37af30-1204-4918-af66-dfbdd33cd045</sourceid>
@@ -12333,7 +12346,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12351,7 +12364,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>25</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5</sourceid>
@@ -12391,7 +12404,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12409,7 +12422,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>27</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>1315cecd-1c13-4d69-9828-a3ea535675da</sourceid>
@@ -12421,7 +12434,7 @@ Janie Smith\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>8</qty>
+      <qty>20</qty>
       <avail>9F</avail>
       <costfor>10</costfor>
       <cost>80</cost>
@@ -12450,7 +12463,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12468,7 +12481,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>28</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
       <sourceid>7c5e7573-d75e-43e3-949c-cb4c9d70329b</sourceid>
@@ -12506,6 +12519,61 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>14</sortorder>
+    </gear>
+    <gear>
+      <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
+      <guid>3c1774a1-ab93-47ed-9d9c-3cc57c9c799f</guid>
+      <name>Certified Credstick, Standard</name>
+      <category>ID/Credsticks</category>
+      <capacity>5000</capacity>
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating />
+      <rating>0</rating>
+      <qty>1</qty>
+      <avail>0</avail>
+      <cost>5</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
       <location />
       <notes />
       <discountedcost>False</discountedcost>
@@ -12524,7 +12592,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>33</sortorder>
+      <sortorder>19</sortorder>
     </gear>
     <gear>
       <sourceid>96eb3f57-26e0-40c5-8dac-62cf8a0bc52f</sourceid>
@@ -12536,7 +12604,7 @@ Janie Smith\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>45</qty>
+      <qty>15</qty>
       <avail>14F</avail>
       <costfor>10</costfor>
       <cost>120</cost>
@@ -12565,7 +12633,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12583,7 +12651,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>29</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>b2a0b340-c793-4322-8422-8b03d18a6fae</sourceid>
@@ -12595,7 +12663,7 @@ Janie Smith\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>56.0</qty>
+      <qty>83.0</qty>
       <avail>2R</avail>
       <costfor>10</costfor>
       <cost>20</cost>
@@ -12612,6 +12680,61 @@ Janie Smith\par
       <page>434</page>
       <isflechetteammo>False</isflechetteammo>
       <ammoforweapontype>gun</ammoforweapontype>
+      <canformpersona />
+      <devicerating>0</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>8</sortorder>
+    </gear>
+    <gear>
+      <sourceid>4f5b4fbc-78c4-4aa4-a5c2-7739f12e9b39</sourceid>
+      <guid>065bb566-1ed0-4c98-a7d9-0fa75107dfee</guid>
+      <name>Certified Credstick, Silver</name>
+      <category>ID/Credsticks</category>
+      <capacity>20000</capacity>
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating />
+      <rating>0</rating>
+      <qty>10</qty>
+      <avail>0</avail>
+      <cost>20 + Rating</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating>0</devicerating>
       <gearname />
@@ -12639,39 +12762,34 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>30</sortorder>
+      <sortorder>20</sortorder>
     </gear>
     <gear>
-      <sourceid>d9f69780-93eb-41ff-9a9c-893f8c52794e</sourceid>
-      <guid>50f2a118-33f8-43d1-803c-fcc5441c04ae</guid>
-      <name>Ammo: Stick-n-Shock</name>
-      <category>Ammunition</category>
-      <capacity />
+      <sourceid>a19055f0-02ab-4bc2-ab43-0ef82e1b9100</sourceid>
+      <guid>ce8c51de-5754-4cf1-95f2-0ee5e81e6c1f</guid>
+      <name>Certified Credstick, Platinum</name>
+      <category>ID/Credsticks</category>
+      <capacity>500000</capacity>
       <armorcapacity />
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>3</qty>
-      <avail>6R</avail>
-      <costfor>10</costfor>
-      <cost>80</cost>
-      <extra>Heavy Pistols</extra>
+      <qty>1</qty>
+      <avail>10</avail>
+      <cost>500</cost>
+      <extra />
       <bonded>False</bonded>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
       <bonus />
       <wirelessbonus />
-      <weaponbonus>
-        <apreplace>-5</apreplace>
-        <damage>-2</damage>
-        <damagetype>S(e)</damagetype>
-      </weaponbonus>
+      <weaponbonus />
       <flechetteweaponbonus />
       <source>SR5</source>
-      <page>434</page>
+      <page>442</page>
       <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype>gun</ammoforweapontype>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -12699,7 +12817,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>31</sortorder>
+      <sortorder>21</sortorder>
     </gear>
     <gear>
       <sourceid>0c8d16cb-6e96-4d95-8454-104a36091cf9</sourceid>
@@ -12740,7 +12858,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12758,7 +12876,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>32</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>84c6921e-dfa0-42ca-a01f-87c459ffc000</sourceid>
@@ -12796,7 +12914,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12814,7 +12932,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>34</sortorder>
+      <sortorder>12</sortorder>
     </gear>
     <gear>
       <sourceid>f4b92e14-fe1f-4be4-ad73-aed10e1f73b4</sourceid>
@@ -12826,7 +12944,7 @@ Janie Smith\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>10</qty>
+      <qty>10.0</qty>
       <avail>6R</avail>
       <cost>100</cost>
       <extra />
@@ -12852,7 +12970,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12870,7 +12988,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>35</sortorder>
+      <sortorder>13</sortorder>
     </gear>
     <gear>
       <sourceid>ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5</sourceid>
@@ -12910,7 +13028,7 @@ Janie Smith\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12928,7 +13046,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>26</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>25b0168d-7052-4f76-b8e5-162d67b8ab6e</sourceid>
@@ -12985,7 +13103,7 @@ Janie Smith\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>36</sortorder>
+      <sortorder>23</sortorder>
     </gear>
     <gear>
       <sourceid>8783e50c-f80b-4efe-b440-d2963b55c54e</sourceid>
@@ -13041,62 +13159,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>37</sortorder>
-    </gear>
-    <gear>
-      <sourceid>76aca45d-0d4f-45a3-a532-c47ac0b26b89</sourceid>
-      <guid>02bbcbe2-a2bf-4003-a85c-cc20b364799a</guid>
-      <name>Medkit Supplies</name>
-      <category>Biotech</category>
-      <capacity />
-      <armorcapacity />
-      <minrating>0</minrating>
-      <maxrating />
-      <rating>0</rating>
-      <qty>9</qty>
-      <avail>0</avail>
-      <cost>100</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>450</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>42</sortorder>
+      <sortorder>24</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -13160,7 +13223,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>38</sortorder>
+      <sortorder>25</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -13224,7 +13287,62 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>39</sortorder>
+      <sortorder>26</sortorder>
+    </gear>
+    <gear>
+      <sourceid>76aca45d-0d4f-45a3-a532-c47ac0b26b89</sourceid>
+      <guid>02bbcbe2-a2bf-4003-a85c-cc20b364799a</guid>
+      <name>Medkit Supplies</name>
+      <category>Biotech</category>
+      <capacity />
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating />
+      <rating>0</rating>
+      <qty>9</qty>
+      <avail>0</avail>
+      <cost>100</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>450</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>29</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -13288,7 +13406,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>40</sortorder>
+      <sortorder>27</sortorder>
     </gear>
     <gear>
       <sourceid>ae9c37df-6d82-44c1-aa21-6c87e45e2dc1</sourceid>
@@ -13332,7 +13450,7 @@ Prayer beads with multi coloured strings.</notes>
       <allowrename>False</allowrename>
       <children />
       <location />
-      <notes>3 charges left</notes>
+      <notes>2 charges left</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
       <overclocked>None</overclocked>
@@ -13349,7 +13467,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>41</sortorder>
+      <sortorder>28</sortorder>
     </gear>
     <gear>
       <sourceid>8adaecd5-0c24-4982-8803-e4459e16589f</sourceid>
@@ -13404,7 +13522,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>43</sortorder>
+      <sortorder>30</sortorder>
     </gear>
     <gear>
       <sourceid>a6c84397-4ee6-4f04-a18f-5506b38725f2</sourceid>
@@ -13459,7 +13577,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>44</sortorder>
+      <sortorder>31</sortorder>
     </gear>
     <gear>
       <sourceid>1522dd91-99d9-42f9-ab19-b43e8e3c7322</sourceid>
@@ -14233,7 +14351,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>True</active>
       <homenode>False</homenode>
-      <sortorder>45</sortorder>
+      <sortorder>32</sortorder>
     </gear>
     <gear>
       <sourceid>b4bbdbd3-1f65-44e5-b196-6ccbee1cc182</sourceid>
@@ -14271,7 +14389,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14289,7 +14407,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>46</sortorder>
+      <sortorder>0</sortorder>
     </gear>
     <gear>
       <sourceid>d1fca845-ae01-4b39-a176-1506da699e0e</sourceid>
@@ -14344,7 +14462,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>11</sortorder>
+      <sortorder>10</sortorder>
     </gear>
     <gear>
       <sourceid>2633cf38-90a6-4843-b475-e3ee1132fb5f</sourceid>
@@ -14402,7 +14520,67 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>7</sortorder>
+      <sortorder>6</sortorder>
+    </gear>
+    <gear>
+      <sourceid>d9f69780-93eb-41ff-9a9c-893f8c52794e</sourceid>
+      <guid>9ab4c078-916b-4e89-9927-65bbb7d6385f</guid>
+      <name>Ammo: Stick-n-Shock</name>
+      <category>Ammunition</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>0</qty>
+      <avail>6R</avail>
+      <costfor>10</costfor>
+      <cost>80</cost>
+      <extra>Assault Rifles</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus>
+        <apreplace>-5</apreplace>
+        <damage>-2</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>10</sortorder>
     </gear>
     <gear>
       <sourceid>36b116d0-b401-4f60-b079-b748cf569edb</sourceid>
@@ -14457,7 +14635,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>9</sortorder>
+      <sortorder>8</sortorder>
     </gear>
     <gear>
       <sourceid>f8151303-b838-4af1-ba9d-d43ff0892b40</sourceid>
@@ -14693,66 +14871,6 @@ Prayer beads with multi coloured strings.</notes>
       <sortorder>4</sortorder>
     </gear>
     <gear>
-      <sourceid>d9f69780-93eb-41ff-9a9c-893f8c52794e</sourceid>
-      <guid>9ab4c078-916b-4e89-9927-65bbb7d6385f</guid>
-      <name>Ammo: Stick-n-Shock</name>
-      <category>Ammunition</category>
-      <capacity />
-      <armorcapacity />
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <qty>0</qty>
-      <avail>6R</avail>
-      <costfor>10</costfor>
-      <cost>80</cost>
-      <extra>Assault Rifles</extra>
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus>
-        <apreplace>-5</apreplace>
-        <damage>-2</damage>
-        <damagetype>S(e)</damagetype>
-      </weaponbonus>
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>434</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype>gun</ammoforweapontype>
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>5</sortorder>
-    </gear>
-    <gear>
       <sourceid>429fbdba-2818-43db-948a-e138b6bf49f9</sourceid>
       <guid>b9c4deb0-8ef2-4bdb-93f7-5ed9ea628440</guid>
       <name>Duffel Bag (Good)</name>
@@ -14805,7 +14923,125 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>6</sortorder>
+      <sortorder>5</sortorder>
+    </gear>
+    <gear>
+      <sourceid>ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5</sourceid>
+      <guid>9418cb40-d332-40e6-bd48-16403ec89b99</guid>
+      <name>Ammo: APDS</name>
+      <category>Ammunition</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>800</qty>
+      <avail>12F</avail>
+      <costfor>10</costfor>
+      <cost>120</cost>
+      <extra>Heavy Machine Guns</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus>
+        <ap>-4</ap>
+      </weaponbonus>
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>11</sortorder>
+    </gear>
+    <gear>
+      <sourceid>d9f69780-93eb-41ff-9a9c-893f8c52794e</sourceid>
+      <guid>a2fdb333-694a-4283-a1d5-098fe21bd50e</guid>
+      <name>Ammo: Stick-n-Shock</name>
+      <category>Ammunition</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>24.0</qty>
+      <avail>6R</avail>
+      <costfor>10</costfor>
+      <cost>80</cost>
+      <extra>Heavy Pistols</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus>
+        <apreplace>-5</apreplace>
+        <damage>-2</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>5</sortorder>
     </gear>
   </gears>
   <vehicles>
@@ -15427,7 +15663,7 @@ Prayer beads with multi coloured strings.</notes>
       <seats>8</seats>
       <armor>12</armor>
       <sensor>5</sensor>
-      <devicerating>2</devicerating>
+      <devicerating>6</devicerating>
       <avail>6R</avail>
       <cost>60000</cost>
       <addslots>0</addslots>
@@ -15741,6 +15977,41 @@ Prayer beads with multi coloured strings.</notes>
           <sortorder>0</sortorder>
           <stolen>False</stolen>
         </mod>
+        <mod>
+          <sourceid>73a5b64a-7197-48eb-88a3-5757c6cfa199</sourceid>
+          <guid>375cccc4-6ee6-4d5d-b496-61bd70b30f7b</guid>
+          <name>Pilot Enhancement</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>Rating</slots>
+          <capacity />
+          <rating>6</rating>
+          <maxrating>6</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>FixedValues(Rating * 2,Rating * 2,Rating * 2,Rating * 3,Rating * 3,Rating * 3)</avail>
+          <cost>0</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>167</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <bonus>
+            <pilot>Rating</pilot>
+          </bonus>
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
       </mods>
       <weaponmounts>
         <weaponmount>
@@ -15778,7 +16049,7 @@ Prayer beads with multi coloured strings.</notes>
               <ammocategory />
               <ammoslots>1</ammoslots>
               <sizecategory />
-              <firingmode>Skill</firingmode>
+              <firingmode>RemoteOperated</firingmode>
               <minrating />
               <maxrating />
               <rating>0</rating>
@@ -16105,7 +16376,7 @@ Prayer beads with multi coloured strings.</notes>
       <discountedcost>False</discountedcost>
       <active>False</active>
       <homenode>False</homenode>
-      <devicerating>2</devicerating>
+      <devicerating>6</devicerating>
       <programlimit />
       <overclocked>None</overclocked>
       <attack />
@@ -21807,6 +22078,29 @@ Prayer beads with multi coloured strings.</notes>
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>Driver's License</improvedname>
+      <sourcename>a4629d52-8351-4626-875c-2042006859e3</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits>
@@ -26943,7 +27237,7 @@ Prayer beads with multi coloured strings.</notes>
       <forcecareervisible>False</forcecareervisible>
     </expense>
     <expense>
-      <guid>cbed8ca6-d8b5-4a50-b98f-762f1d64cba3</guid>
+      <guid>1824fa1a-b15e-447a-9b01-cbd42e229d9e</guid>
       <date>2021-09-29T21:36:37</date>
       <amount>0</amount>
       <reason>Decremented Lifestyle Medium</reason>
@@ -26952,7 +27246,7 @@ Prayer beads with multi coloured strings.</notes>
       <forcecareervisible>False</forcecareervisible>
     </expense>
     <expense>
-      <guid>1824fa1a-b15e-447a-9b01-cbd42e229d9e</guid>
+      <guid>cbed8ca6-d8b5-4a50-b98f-762f1d64cba3</guid>
       <date>2021-09-29T21:36:37</date>
       <amount>0</amount>
       <reason>Decremented Lifestyle Medium</reason>
@@ -28810,13 +29104,240 @@ Prayer beads with multi coloured strings.</notes>
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>91466f4a-8c0d-4a47-8db3-e9ba6c17c689</guid>
+      <date>2023-01-25T20:25:21</date>
+      <amount>-2</amount>
+      <reason>Active Skill Gunnery 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>aa3bf006-307a-4277-b434-37ae538b92cf</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4ae50200-d483-44f0-aa4e-99af4415bbf6</guid>
+      <date>2023-01-25T20:27:59</date>
+      <amount>-15600.0</amount>
+      <reason>Purchased Gear Ammo: APDS</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>9418cb40-d332-40e6-bd48-16403ec89b99</objectid>
+        <qty>1000</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>78cb2b40-09bb-41ab-aca2-f3c0e6db4f17</guid>
+      <date>2023-01-25T22:03:23</date>
+      <amount>50000</amount>
+      <reason>Sold a guy to Headcases</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>160a36ef-c2ed-4156-9333-7b8f45e3fa58</guid>
+      <date>2023-01-25T22:12:24</date>
+      <amount>12500</amount>
+      <reason>Interrupted Convey Mission Reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9cf7c64e-b1f0-4dfe-8ef8-a2e9923c8ada</guid>
+      <date>2023-01-25T22:14:59</date>
+      <amount>10</amount>
+      <reason>Interrupted Convey Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>872305d2-5b7d-44cd-82ef-65e54718174c</guid>
+      <date>2023-02-08T19:01:52</date>
+      <amount>0.00</amount>
+      <reason>Purchased Vehicle Mod Pilot Enhancement</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>375cccc4-6ee6-4d5d-b496-61bd70b30f7b</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8c3796e4-cb0c-440f-a252-c4a0cce8edb6</guid>
+      <date>2023-02-08T20:17:04</date>
+      <amount>-12800</amount>
+      <reason>Fashion Refresh</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>daea7698-3d9b-4cae-8c00-a55a1d6d56d3</guid>
+      <date>2023-02-22T19:01:55</date>
+      <amount>-200.0</amount>
+      <reason>Purchased Gear Fake License</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>a4629d52-8351-4626-875c-2042006859e3</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>423f69bd-3dc1-43f8-8b9b-9f15351a0aea</guid>
+      <date>2023-03-01T21:06:43</date>
+      <amount>5</amount>
+      <reason>Working for the People</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualSubtract</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>bf1a8c70-1843-49d4-8135-93b13e9b4a17</guid>
+      <date>2023-03-01T21:06:43</date>
+      <amount>-10000</amount>
+      <reason>Working for the People</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0b7741c1-d9c4-4e62-ae65-5e5a2ba9678c</guid>
+      <date>2023-03-15T21:07:26</date>
+      <amount>15000</amount>
+      <reason>Bouty Huntery con</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>d74edad6-552f-4ad3-b457-893812f46dfe</guid>
+      <date>2023-03-15T21:12:33</date>
+      <amount>-6</amount>
+      <reason>Active Skill Etiquette 2 -&gt; 3</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>dd25b234-57c8-452f-add4-447b74285ee8</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>cf69aa69-4247-41f0-8f76-86ef1bd029f2</guid>
+      <date>2023-03-15T21:12:50</date>
+      <amount>-6</amount>
+      <reason>Active Skill Negotiation 2 -&gt; 3</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>30f2aaee-c5d2-44aa-b39d-d20c8ac8b371</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
-  <gearlocations />
+  <gearlocations>
+    <location>
+      <guid>227580d2-6a14-4604-98b3-a37151bcb004</guid>
+      <name>Ammo</name>
+      <notes />
+      <sortorder>1</sortorder>
+    </location>
+  </gearlocations>
   <armorlocations />
   <vehiclelocations />
   <weaponlocations />
   <improvementgroups />
   <calendar>
+    <week>
+      <guid>195828cc-2ba8-4d45-af4d-b9921fc4d82a</guid>
+      <year>2078</year>
+      <week>16</week>
+      <notes>Downtime week 2</notes>
+    </week>
+    <week>
+      <guid>d94027df-3a25-4c22-bdaa-5c755524d3a8</guid>
+      <year>2078</year>
+      <week>15</week>
+      <notes>Downtime week 1</notes>
+    </week>
     <week>
       <guid>73302908-8305-4858-8bbb-6d7b97c72ac9</guid>
       <year>2078</year>
