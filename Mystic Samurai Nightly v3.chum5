@@ -379,17 +379,56 @@ Next week bounty hunter semanar, sample bounties.\par
 Bring non lethal weapons.\par
 recommends zip ties\par
 \par
-\par
 Daniel Smith skipped out on bail 200\par
 Janie Smith\par
 \par
 GM Restricted Gear: avalibility 18, 50 000 nuyen credit\par
 \par
-Bounty on Mine, Janus and Ed's heads, 250 000?\par
+Bounty on Mine, Janus and Ed's heads, 250 000 each\par
+\par
+Threaded: ask any Magic questions\par
+Trace new Yakuza Boss\par
+\par
+Human Fighter: Wraith\par
+\par
+Neck Hold Him\par
+\par
+Bola whips\par
+\par
+Credstick 15 000 Nuyen\par
+\par
+2*3 days for neg or eti\par
+\par
+Ryu held by head of the other families\par
+Iroha is The new Bosses left hand\par
+Nobane new head of the family\par
+Masumune Blade: Meteorite steel\par
+Force 8 Weapon focus\par
+Katana\par
+Skill Focus +3 Blades \par
+\par
+Other Yakuza moved into family teritory\par
+\par
+PJSS model 55\par
+\par
+3 lifts carry 12 people 3 minutes from top to bottom 400m deep\par
+\par
+6 days till the execution\par
+40k + 20k for havoc\par
+\par
+train pilot aircraft\par
+\par
+Yamaha Raiden + 2 apds clips\par
+\par
+Corporate backed bounty: Grab a guy\par
+Organised crime guy needs to be grabbed, alive\par
+Accept the job for specifics\par
+\par
+Wuxing or Azetech is behind the 1000 people weapons programt that is the firelord's cult\par
 }
 </gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>6</karma>
+  <karma>21</karma>
   <special>0</special>
   <totalspecial>3</totalspecial>
   <totalattributes>24</totalattributes>
@@ -408,7 +447,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
   <basewildreputation>0</basewildreputation>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>208866.00000</nuyen>
+  <nuyen>270756.00000</nuyen>
   <startingnuyen>6000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -1796,7 +1835,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <name>Quick</name>
       <role>Fixer</role>
       <location>Cape Town</location>
-      <connection>1</connection>
+      <connection>2</connection>
       <loyalty>1</loyalty>
       <metatype />
       <gender />
@@ -1907,7 +1946,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
     <contact>
       <name>Ryu</name>
       <role>Yakuza Fixer</role>
-      <location>Harare</location>
+      <location>Harare Yakuza (Cape Town)</location>
       <connection>6</connection>
       <loyalty>5</loyalty>
       <metatype>Human</metatype>
@@ -2103,7 +2142,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
     <contact>
       <name>Hasegawa Aoi - Big Sis</name>
       <role>Yakuza</role>
-      <location>Harare</location>
+      <location>Harare Yakuza</location>
       <connection>1</connection>
       <loyalty>1</loyalty>
       <metatype />
@@ -2299,7 +2338,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
     <contact>
       <name>Hasagawa Iroha</name>
       <role>Yakuza</role>
-      <location>Harare</location>
+      <location>Harare Yakuza</location>
       <connection>1</connection>
       <loyalty>1</loyalty>
       <metatype />
@@ -2383,7 +2422,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
     <contact>
       <name>Threaded</name>
       <role>Magical Advisor</role>
-      <location />
+      <location>Harare Yakuza</location>
       <connection>1</connection>
       <loyalty>1</loyalty>
       <metatype>Ork</metatype>
@@ -2411,7 +2450,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
     <contact>
       <name>Wraith/ Tash</name>
       <role>Tech Support/ Bouty Hunter</role>
-      <location />
+      <location>Harare</location>
       <connection>1</connection>
       <loyalty>2</loyalty>
       <metatype />
@@ -2461,6 +2500,34 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <free>False</free>
       <groupenabled>True</groupenabled>
       <guid>bfb0d1dc-98f7-4cc4-b0b8-ae615534eb60</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Nobane/ Trace</name>
+      <role>Yakuza Fixer</role>
+      <location>Harare Yakuza</location>
+      <connection>1</connection>
+      <loyalty>1</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>ac273273-8948-4aa4-b746-899f37a39838</guid>
       <mainmugshotindex>-1</mainmugshotindex>
       <mugshots />
     </contact>
@@ -2782,7 +2849,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <source>HT</source>
       <page>191</page>
       <extra />
-      <notes />
+      <notes>Yoink</notes>
       <freebonus>False</freebonus>
       <usesunarmed>False</usesunarmed>
       <improvementsource>Spell</improvementsource>
@@ -3185,6 +3252,36 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
   </limitmodifiers>
   <armors>
     <armor>
+      <sourceid>1c5f484a-996c-4518-bf23-677a506b2ea5</sourceid>
+      <guid>efa7e3b1-356c-4fe5-bc39-fd87e702542d</guid>
+      <name>Forearm Guards</name>
+      <category>Specialty Armor</category>
+      <armor>+1</armor>
+      <armoroverride />
+      <armorcapacity>3</armorcapacity>
+      <avail>6</avail>
+      <cost>300</cost>
+      <source>RG</source>
+      <page>73</page>
+      <armorname />
+      <equipped>False</equipped>
+      <wirelesson>False</wirelesson>
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
+      <armormods />
+      <bonus />
+      <wirelessbonus />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <sortorder>0</sortorder>
+    </armor>
+    <armor>
       <sourceid>4ad1eeab-daf3-4495-a73d-fbb0ce89be5b</sourceid>
       <guid>0d72508d-61c4-477d-956d-7810a0be71ad</guid>
       <name>Armor Vest</name>
@@ -3209,7 +3306,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <armormods />
       <bonus />
       <wirelessbonus />
-      <location />
+      <location>015644c3-a4bf-4eab-b1ee-a6c3e3175ee0</location>
       <notes />
       <discountedcost>False</discountedcost>
       <sortorder>0</sortorder>
@@ -3239,10 +3336,10 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <armormods />
       <bonus />
       <wirelessbonus />
-      <location />
+      <location>015644c3-a4bf-4eab-b1ee-a6c3e3175ee0</location>
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </armor>
     <armor>
       <sourceid>31c68476-6328-476a-ae8a-94f65d505a04</sourceid>
@@ -3272,7 +3369,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <location />
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </armor>
     <armor>
       <sourceid>608d5c68-aba1-40e5-8100-d2615a39a2f3</sourceid>
@@ -3286,8 +3383,8 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <cost>300</cost>
       <source>RG</source>
       <page>74</page>
-      <armorname />
-      <equipped>True</equipped>
+      <armorname>Oni Mask</armorname>
+      <equipped>False</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -3412,7 +3509,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </gear>
         <gear>
           <sourceid>241e831d-230a-403b-a4a1-1e601b1afdc3</sourceid>
@@ -3470,7 +3567,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </gear>
         <gear>
           <sourceid>7fc23c2f-b41a-46b0-9ed7-9dc93986fab3</sourceid>
@@ -3525,7 +3622,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </gear>
         <gear>
           <sourceid>f7f74a85-bd3b-4a46-9c3b-80688c72ef51</sourceid>
@@ -3580,7 +3677,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </gear>
       </gears>
       <bonus>
@@ -3591,40 +3688,10 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
         </limitmodifier>
       </bonus>
       <wirelessbonus />
-      <location />
+      <location>015644c3-a4bf-4eab-b1ee-a6c3e3175ee0</location>
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
-    </armor>
-    <armor>
-      <sourceid>1c5f484a-996c-4518-bf23-677a506b2ea5</sourceid>
-      <guid>efa7e3b1-356c-4fe5-bc39-fd87e702542d</guid>
-      <name>Forearm Guards</name>
-      <category>Specialty Armor</category>
-      <armor>+1</armor>
-      <armoroverride />
-      <armorcapacity>3</armorcapacity>
-      <avail>6</avail>
-      <cost>300</cost>
-      <source>RG</source>
-      <page>73</page>
-      <armorname />
-      <equipped>False</equipped>
-      <wirelesson>False</wirelesson>
-      <extra />
-      <damage>0</damage>
-      <rating>0</rating>
-      <maxrating>0</maxrating>
-      <ratinglabel>String_Rating</ratinglabel>
-      <stolen>False</stolen>
-      <emcumbrance>True</emcumbrance>
-      <armormods />
-      <bonus />
-      <wirelessbonus />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </armor>
     <armor>
       <sourceid>5341cfd0-5cd7-49d5-8a95-0266355f391a</sourceid>
@@ -3639,7 +3706,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <source>RG</source>
       <page>61</page>
       <armorname />
-      <equipped>False</equipped>
+      <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -3699,7 +3766,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </armormod>
         <armormod>
           <guid>28dcc75d-b1b1-4782-969a-e60f33f55451</guid>
@@ -3725,7 +3792,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </armormod>
       </armormods>
       <bonus>
@@ -3736,10 +3803,10 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
         </limitmodifier>
       </bonus>
       <wirelessbonus />
-      <location />
+      <location>015644c3-a4bf-4eab-b1ee-a6c3e3175ee0</location>
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
     </armor>
     <armor>
       <sourceid>dceda713-a138-4161-8bd2-b909ffed7f85</sourceid>
@@ -3754,7 +3821,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <source>RG</source>
       <page>58</page>
       <armorname />
-      <equipped>False</equipped>
+      <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -3816,7 +3883,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes>-3</notes>
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </armormod>
         <armormod>
           <guid>0bed46b3-0c7d-425e-81eb-cb7d1929ab4b</guid>
@@ -3844,7 +3911,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </armormod>
         <armormod>
           <guid>0da40bb8-e9e5-4384-81ed-15e85bd385fd</guid>
@@ -3870,7 +3937,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </armormod>
         <armormod>
           <guid>05c2e346-1c66-4fcc-bff0-3366763471f0</guid>
@@ -3896,7 +3963,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </armormod>
         <armormod>
           <guid>e714ddd9-c457-4d56-aeac-1ec747046813</guid>
@@ -3922,7 +3989,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
         </armormod>
         <armormod>
           <guid>b477e6b5-3d19-4bf7-859a-ccd1734c0d3b</guid>
@@ -3950,7 +4017,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
         </armormod>
       </armormods>
       <bonus>
@@ -3961,10 +4028,10 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
         </limitmodifier>
       </bonus>
       <wirelessbonus />
-      <location />
+      <location>015644c3-a4bf-4eab-b1ee-a6c3e3175ee0</location>
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
     </armor>
     <armor>
       <sourceid>36a4cd30-c32c-44d0-847a-0c15fb51072a</sourceid>
@@ -3994,7 +4061,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <location />
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </armor>
     <armor>
       <sourceid>9ee80c97-9197-4dd5-baed-f77cfd2cee17</sourceid>
@@ -4009,7 +4076,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <source>SR5</source>
       <page>437</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <wirelesson>False</wirelesson>
       <extra />
       <damage>0</damage>
@@ -4069,7 +4136,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </armormod>
         <armormod>
           <guid>e73cbd1d-5c27-448e-8649-ea61eba685fa</guid>
@@ -4097,7 +4164,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </armormod>
         <armormod>
           <guid>58735077-fea5-4bb7-aa91-3ba2b50c3a59</guid>
@@ -4125,7 +4192,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </armormod>
         <armormod>
           <guid>6720fcc9-8e1a-4285-b6b9-d1e99386edc9</guid>
@@ -4153,7 +4220,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </armormod>
         <armormod>
           <guid>d8eea850-d026-480e-80c3-96cf31397d80</guid>
@@ -4179,7 +4246,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
         </armormod>
         <armormod>
           <guid>d19b4001-df12-438e-b3a3-e18d462eacec</guid>
@@ -4205,7 +4272,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <stolen>False</stolen>
           <notes />
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
         </armormod>
       </armormods>
       <bonus />
@@ -4213,7 +4280,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <location />
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
     </armor>
     <armor>
       <sourceid>608d5c68-aba1-40e5-8100-d2615a39a2f3</sourceid>
@@ -4227,7 +4294,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <cost>300</cost>
       <source>RG</source>
       <page>74</page>
-      <armorname>Oni Mask</armorname>
+      <armorname />
       <equipped>False</equipped>
       <wirelesson>False</wirelesson>
       <extra />
@@ -4249,7 +4316,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <location />
       <notes />
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
     </armor>
   </armors>
   <weapons>
@@ -4404,7 +4471,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>1</sortorder>
         </accessory>
       </accessories>
-      <location />
+      <location>e69ba300-b768-4336-958c-3a62e66cf2ff</location>
       <notes>SG 132 ALLIANCE</notes>
       <discountedcost>False</discountedcost>
       <weaponslots />
@@ -4428,7 +4495,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -4558,7 +4625,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>1</sortorder>
+      <sortorder>0</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -4664,7 +4731,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>0</sortorder>
         </accessory>
       </accessories>
-      <location />
+      <location>17fd62ca-5f03-40c7-9858-bd77a011f7ef</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots />
@@ -4688,138 +4755,8 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>2</sortorder>
+      <sortorder>0</sortorder>
       <weapontype>melee</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>e3b33b2b-3cd4-408d-b579-3a9d73d387f7</sourceid>
-      <guid>6100943c-546e-4bdb-84c0-dc75d5f07d27</guid>
-      <name>Shuriken</name>
-      <category>Gear</category>
-      <type>Ranged</type>
-      <spec />
-      <spec2 />
-      <reach>0</reach>
-      <damage>(STR+1)P</damage>
-      <ap>-1</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>1</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>-2</conceal>
-      <avail>4R</avail>
-      <cost>25</cost>
-      <useskill>Throwing Weapons</useskill>
-      <useskillspec />
-      <range>Thrown Knife</range>
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>424</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <accessories>
-        <accessory>
-          <sourceid>ea64527d-0e1e-4248-957b-7c02d79dad30</sourceid>
-          <guid>6ccd98be-9f56-48a0-898e-bb3981752fb5</guid>
-          <name>Concealed Quick-Draw Holster</name>
-          <mount>None</mount>
-          <extramount>None</extramount>
-          <rc />
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>0</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal>-1</conceal>
-          <avail>6</avail>
-          <cost>275</cost>
-          <included>False</included>
-          <equipped>True</equipped>
-          <source>RG</source>
-          <page>51</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes />
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus>0</ammobonus>
-          <wirelesson>False</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-        </accessory>
-      </accessories>
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>3</sortorder>
-      <weapontype>gear</weapontype>
     </weapon>
     <weapon>
       <sourceid>54a29917-7a30-4e21-b577-e0324b860501</sourceid>
@@ -4870,8 +4807,8 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <count>12</count>
         </clip>
         <clip>
-          <name>Ammo: Stick-n-Shock</name>
-          <id>50f2a118-33f8-43d1-803c-fcc5441c04ae</id>
+          <name>Ammo: EX-Explosive Rounds</name>
+          <id>8be0c065-06bf-4d79-b531-7cc731916f85</id>
           <count>12</count>
         </clip>
       </clips>
@@ -5349,7 +5286,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>8</sortorder>
         </accessory>
       </accessories>
-      <location />
+      <location>e69ba300-b768-4336-958c-3a62e66cf2ff</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots>Barrel/Top/Stock/Side</weaponslots>
@@ -5373,7 +5310,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>4</sortorder>
+      <sortorder>5</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -5895,7 +5832,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>6</sortorder>
         </accessory>
       </accessories>
-      <location />
+      <location>e69ba300-b768-4336-958c-3a62e66cf2ff</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots>Barrel/Top/Stock/Side</weaponslots>
@@ -5919,7 +5856,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>5</sortorder>
+      <sortorder>6</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -6321,328 +6258,8 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>6</sortorder>
+      <sortorder>1</sortorder>
       <weapontype>gun</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>c674a254-d47b-4215-a12d-e6dd3f0910af</sourceid>
-      <guid>c0e12bcd-bccd-43a5-aa2e-757933ba0bc4</guid>
-      <name>Grenade: Fragmentation</name>
-      <category>Gear</category>
-      <type>Ranged</type>
-      <spec>Non-Aerodynamic</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>18P(f) (-1/m)</damage>
-      <ap>+5</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>1</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>0</conceal>
-      <avail>11F</avail>
-      <cost>0</cost>
-      <useskill>Throwing Weapons</useskill>
-      <useskillspec />
-      <range>Standard Grenade</range>
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>435</page>
-      <parentid>fa523bbd-98cb-48a5-b985-99a81b6ac6bc</parentid>
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>7</sortorder>
-      <weapontype>gear</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>c674a254-d47b-4215-a12d-e6dd3f0910af</sourceid>
-      <guid>e6d10ad9-e54d-4c28-a3d9-8f6300b1a8b0</guid>
-      <name>Grenade: Fragmentation</name>
-      <category>Gear</category>
-      <type>Ranged</type>
-      <spec />
-      <spec2 />
-      <reach>0</reach>
-      <damage>18P(f) (-1/m)</damage>
-      <ap>+5</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>1</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>0</conceal>
-      <avail>11F</avail>
-      <cost>100</cost>
-      <useskill>Throwing Weapons</useskill>
-      <useskillspec />
-      <range>Standard Grenade</range>
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>435</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>8</sortorder>
-      <weapontype>gear</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>aab70ade-8586-4539-a184-99cb63e7bfab</sourceid>
-      <guid>f976b661-bbce-4895-8b2b-b8cf219f3e47</guid>
-      <name>Grenade: Smoke</name>
-      <category>Gear</category>
-      <type>Ranged</type>
-      <spec>Non-Aerodynamic</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>(10m Radius)</damage>
-      <ap>-</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>1</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>0</conceal>
-      <avail>4R</avail>
-      <cost>40</cost>
-      <useskill>Throwing Weapons</useskill>
-      <useskillspec />
-      <range>Standard Grenade</range>
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>435</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>9</sortorder>
-      <weapontype>gear</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>9629810f-8db3-44a4-afc4-97eb5b391fb5</sourceid>
-      <guid>58bb35c4-f6c1-4f9a-a966-542b7ebe9b21</guid>
-      <name>Grenade: Flash-Bang</name>
-      <category>Gear</category>
-      <type>Ranged</type>
-      <spec />
-      <spec2 />
-      <reach>0</reach>
-      <damage>10S (10m Radius)</damage>
-      <ap>-4</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>1</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>0</conceal>
-      <avail>6R</avail>
-      <cost>100</cost>
-      <useskill>Throwing Weapons</useskill>
-      <useskillspec />
-      <range>Standard Grenade</range>
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>435</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>10</sortorder>
-      <weapontype>gear</weapontype>
     </weapon>
     <weapon>
       <sourceid>a92933cb-0c81-4b54-aeb1-ddc24836775d</sourceid>
@@ -6697,7 +6314,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <mount />
       <stolen>False</stolen>
       <extramount />
-      <location />
+      <location>e69ba300-b768-4336-958c-3a62e66cf2ff</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots />
@@ -6721,167 +6338,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>11</sortorder>
-      <weapontype>melee</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>e3b33b2b-3cd4-408d-b579-3a9d73d387f7</sourceid>
-      <guid>2c18cd1d-d010-4369-92bd-83d5344e3744</guid>
-      <name>Shuriken</name>
-      <category>Gear</category>
-      <type>Ranged</type>
-      <spec>Blades</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>(STR+1)P</damage>
-      <ap>-1</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>1</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>-2</conceal>
-      <avail>4R</avail>
-      <cost>0</cost>
-      <useskill>Throwing Weapons</useskill>
-      <useskillspec />
-      <range>Shuriken</range>
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>424</page>
-      <parentid>86d7b6f8-9722-4fab-b1ec-09a766483b71</parentid>
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>12</sortorder>
-      <weapontype>gear</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>63dcfdb6-bbd9-4a58-bbf4-cd35f7614fdc</sourceid>
-      <guid>8d529f47-49a6-426c-a4fb-31d58b94b2dd</guid>
-      <name>Unarmed Attack</name>
-      <category>Unarmed</category>
-      <type>Melee</type>
-      <spec />
-      <spec2 />
-      <reach>0</reach>
-      <damage>(STR)S</damage>
-      <ap>-</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>0</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>0</conceal>
-      <avail>0</avail>
-      <cost>0</cost>
-      <useskill />
-      <useskillspec />
-      <range />
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>132</page>
-      <parentid />
-      <allowaccessory>False</allowaccessory>
-      <weaponname />
-      <included>True</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>13</sortorder>
+      <sortorder>2</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -6937,7 +6394,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <mount />
       <stolen>False</stolen>
       <extramount />
-      <location />
+      <location>e69ba300-b768-4336-958c-3a62e66cf2ff</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots />
@@ -6961,7 +6418,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>14</sortorder>
+      <sortorder>1</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -7041,7 +6498,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>15</sortorder>
+      <sortorder>2</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -7070,7 +6527,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
         <clip>
           <name>Ammo: APDS</name>
           <id>2ad4cd1d-a99e-4827-a924-dbde403745ab</id>
-          <count>54</count>
+          <count>60</count>
         </clip>
         <clip>
           <name>Ammo: APDS</name>
@@ -7078,9 +6535,9 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <count>60</count>
         </clip>
         <clip>
-          <name>Ammo: Stick-n-Shock</name>
-          <id>9ab4c078-916b-4e89-9927-65bbb7d6385f</id>
-          <count>60</count>
+          <name>Ammo: EX-Explosive Rounds</name>
+          <id>2a076844-ce71-41cb-a9af-e558f915b809</id>
+          <count>50</count>
         </clip>
       </clips>
       <conceal>6</conceal>
@@ -7208,7 +6665,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>1</sortorder>
+          <sortorder>2</sortorder>
         </accessory>
         <accessory>
           <sourceid>d57d2c64-1f61-4f5f-a465-8ce0dfacec6a</sourceid>
@@ -7368,7 +6825,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>2</sortorder>
+          <sortorder>3</sortorder>
         </accessory>
         <accessory>
           <sourceid>6b06cf52-04fa-4034-bb10-2bcdd58c4bfb</sourceid>
@@ -7416,7 +6873,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>3</sortorder>
+          <sortorder>4</sortorder>
         </accessory>
         <accessory>
           <sourceid>98c9ed33-2636-40bb-a455-334e8fb8e65f</sourceid>
@@ -7464,7 +6921,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>4</sortorder>
+          <sortorder>5</sortorder>
         </accessory>
         <accessory>
           <sourceid>de62b79f-2864-4023-a286-6c1f270aade3</sourceid>
@@ -7512,7 +6969,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>5</sortorder>
+          <sortorder>6</sortorder>
         </accessory>
         <accessory>
           <sourceid>de62b79f-2864-4023-a286-6c1f270aade3</sourceid>
@@ -7560,7 +7017,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>6</sortorder>
+          <sortorder>7</sortorder>
         </accessory>
         <accessory>
           <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
@@ -8163,10 +7620,10 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
       </accessories>
-      <location />
+      <location>e69ba300-b768-4336-958c-3a62e66cf2ff</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots>Stock/Side/Internal/Barrel/Top/Under</weaponslots>
@@ -8190,7 +7647,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>16</sortorder>
+      <sortorder>4</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -8414,7 +7871,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>0</sortorder>
         </accessory>
       </accessories>
-      <location />
+      <location>17fd62ca-5f03-40c7-9858-bd77a011f7ef</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots>Stock/Side/Internal/Barrel/Top/Under</weaponslots>
@@ -8438,7 +7895,137 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>17</sortorder>
+      <sortorder>2</sortorder>
+      <weapontype>gun</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>62221199-7958-4a76-a538-0c8e0a516608</sourceid>
+      <guid>be2bb880-d3c4-4735-ab62-c12cf1401c5a</guid>
+      <name>PJSS Model 55</name>
+      <category>Shotguns</category>
+      <type>Ranged</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>11P</damage>
+      <ap>-1</ap>
+      <mode>SS</mode>
+      <rc>0</rc>
+      <ammo>2(b)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <clips />
+      <conceal>6</conceal>
+      <avail>9R</avail>
+      <cost>1000</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange>Shotguns (flechette)</alternaterange>
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>429</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>6</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>46596db4-6f25-4990-80cc-c4102eaf80f7</sourceid>
+          <guid>71005237-e5c5-4166-b0a9-527466ac3c89</guid>
+          <name>Shock Pad</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>2</rcgroup>
+          <rcdeployable>True</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>50</cost>
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>432</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+      </accessories>
+      <location>17fd62ca-5f03-40c7-9858-bd77a011f7ef</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots>Stock/Side/Internal/Barrel/Top/Under</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>1</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -8568,7 +8155,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>18</sortorder>
+      <sortorder>3</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -8698,7 +8285,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>19</sortorder>
+      <sortorder>4</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -8754,7 +8341,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <mount />
       <stolen>False</stolen>
       <extramount />
-      <location />
+      <location>e69ba300-b768-4336-958c-3a62e66cf2ff</location>
       <notes />
       <discountedcost>False</discountedcost>
       <weaponslots />
@@ -8780,6 +8367,616 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
       <weapontype>melee</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>63dcfdb6-bbd9-4a58-bbf4-cd35f7614fdc</sourceid>
+      <guid>8d529f47-49a6-426c-a4fb-31d58b94b2dd</guid>
+      <name>Unarmed Attack</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>(STR)S</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <clips />
+      <conceal>0</conceal>
+      <avail>0</avail>
+      <cost>0</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>132</page>
+      <parentid />
+      <allowaccessory>False</allowaccessory>
+      <weaponname />
+      <included>True</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>5</sortorder>
+      <weapontype>melee</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>e3b33b2b-3cd4-408d-b579-3a9d73d387f7</sourceid>
+      <guid>6100943c-546e-4bdb-84c0-dc75d5f07d27</guid>
+      <name>Shuriken</name>
+      <category>Gear</category>
+      <type>Ranged</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>(STR+1)P</damage>
+      <ap>-1</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>1</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>4R</avail>
+      <cost>25</cost>
+      <useskill>Throwing Weapons</useskill>
+      <useskillspec />
+      <range>Thrown Knife</range>
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>424</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>ea64527d-0e1e-4248-957b-7c02d79dad30</sourceid>
+          <guid>6ccd98be-9f56-48a0-898e-bb3981752fb5</guid>
+          <name>Concealed Quick-Draw Holster</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal>-1</conceal>
+          <avail>6</avail>
+          <cost>275</cost>
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>51</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus>0</ammobonus>
+          <wirelesson>False</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+        </accessory>
+      </accessories>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>6</sortorder>
+      <weapontype>gear</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>e3b33b2b-3cd4-408d-b579-3a9d73d387f7</sourceid>
+      <guid>2c18cd1d-d010-4369-92bd-83d5344e3744</guid>
+      <name>Shuriken</name>
+      <category>Gear</category>
+      <type>Ranged</type>
+      <spec>Blades</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>(STR+1)P</damage>
+      <ap>-1</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>1</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <clips />
+      <conceal>-2</conceal>
+      <avail>4R</avail>
+      <cost>0</cost>
+      <useskill>Throwing Weapons</useskill>
+      <useskillspec />
+      <range>Shuriken</range>
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>424</page>
+      <parentid>86d7b6f8-9722-4fab-b1ec-09a766483b71</parentid>
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>7</sortorder>
+      <weapontype>gear</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>c674a254-d47b-4215-a12d-e6dd3f0910af</sourceid>
+      <guid>c0e12bcd-bccd-43a5-aa2e-757933ba0bc4</guid>
+      <name>Grenade: Fragmentation</name>
+      <category>Gear</category>
+      <type>Ranged</type>
+      <spec>Non-Aerodynamic</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>18P(f) (-1/m)</damage>
+      <ap>+5</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>1</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <clips />
+      <conceal>0</conceal>
+      <avail>11F</avail>
+      <cost>0</cost>
+      <useskill>Throwing Weapons</useskill>
+      <useskillspec />
+      <range>Standard Grenade</range>
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>435</page>
+      <parentid>fa523bbd-98cb-48a5-b985-99a81b6ac6bc</parentid>
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>8</sortorder>
+      <weapontype>gear</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>c674a254-d47b-4215-a12d-e6dd3f0910af</sourceid>
+      <guid>e6d10ad9-e54d-4c28-a3d9-8f6300b1a8b0</guid>
+      <name>Grenade: Fragmentation</name>
+      <category>Gear</category>
+      <type>Ranged</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>18P(f) (-1/m)</damage>
+      <ap>+5</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>1</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <clips />
+      <conceal>0</conceal>
+      <avail>11F</avail>
+      <cost>100</cost>
+      <useskill>Throwing Weapons</useskill>
+      <useskillspec />
+      <range>Standard Grenade</range>
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>435</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>9</sortorder>
+      <weapontype>gear</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>aab70ade-8586-4539-a184-99cb63e7bfab</sourceid>
+      <guid>f976b661-bbce-4895-8b2b-b8cf219f3e47</guid>
+      <name>Grenade: Smoke</name>
+      <category>Gear</category>
+      <type>Ranged</type>
+      <spec>Non-Aerodynamic</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>(10m Radius)</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>1</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <clips />
+      <conceal>0</conceal>
+      <avail>4R</avail>
+      <cost>40</cost>
+      <useskill>Throwing Weapons</useskill>
+      <useskillspec />
+      <range>Standard Grenade</range>
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>435</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>10</sortorder>
+      <weapontype>gear</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>9629810f-8db3-44a4-afc4-97eb5b391fb5</sourceid>
+      <guid>58bb35c4-f6c1-4f9a-a966-542b7ebe9b21</guid>
+      <name>Grenade: Flash-Bang</name>
+      <category>Gear</category>
+      <type>Ranged</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>10S (10m Radius)</damage>
+      <ap>-4</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>1</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <clips />
+      <conceal>0</conceal>
+      <avail>6R</avail>
+      <cost>100</cost>
+      <useskill>Throwing Weapons</useskill>
+      <useskillspec />
+      <range>Standard Grenade</range>
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>435</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>11</sortorder>
+      <weapontype>gear</weapontype>
     </weapon>
   </weapons>
   <cyberwares />
@@ -9060,7 +9257,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <lp>4</lp>
       <baselifestyle>Medium</baselifestyle>
       <multiplier>100</multiplier>
-      <months>3</months>
+      <months>2</months>
       <roommates>0</roommates>
       <percentage>100</percentage>
       <area>0</area>
@@ -9279,6 +9476,61 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
   </lifestyles>
   <gears>
     <gear>
+      <sourceid>82334694-a630-42c4-95d6-eb1345e4ed82</sourceid>
+      <guid>7d814194-233e-4a60-b073-b5df33366ea1</guid>
+      <name>Concealed Quick-Draw Holster</name>
+      <category>Armor Enhancements</category>
+      <capacity />
+      <armorcapacity>[4]</armorcapacity>
+      <minrating>0</minrating>
+      <maxrating />
+      <rating>0</rating>
+      <qty>1</qty>
+      <avail>6</avail>
+      <cost>275</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>RG</source>
+      <page>51</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>Attached to Katana</notes>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
       <sourceid>dfb20beb-a64c-4d75-b606-9e4f24622e02</sourceid>
       <guid>92350ef8-73ac-43b5-9838-41aefd5e3a46</guid>
       <name>Fetish</name>
@@ -9313,7 +9565,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>a3a034ec-a0bd-4e82-88b4-5b5e7dbb8f6b</location>
       <notes>Ghoul safe passage</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -9331,7 +9583,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>418d5ba1-dd19-4179-add8-074be445a7b2</sourceid>
@@ -9368,7 +9620,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -9386,7 +9638,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>11</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -9540,7 +9792,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>1</sortorder>
         </gear>
       </children>
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -9558,7 +9810,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>14</sortorder>
+      <sortorder>8</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -10015,7 +10267,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>15</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -10169,7 +10421,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>1</sortorder>
         </gear>
       </children>
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -10187,7 +10439,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>16</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>c6084c7a-ab84-4ea6-999e-ff99b91f9bf0</sourceid>
@@ -10341,7 +10593,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>1</sortorder>
         </gear>
       </children>
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -10359,7 +10611,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>17</sortorder>
+      <sortorder>6</sortorder>
     </gear>
     <gear>
       <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
@@ -10564,7 +10816,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>1</sortorder>
         </gear>
       </children>
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -10582,7 +10834,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>18</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>27f9775d-cd14-4900-827f-ba00d26e0c67</sourceid>
@@ -10951,7 +11203,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>5</sortorder>
         </gear>
       </children>
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -10969,7 +11221,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>7</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
@@ -11135,7 +11387,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>9</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>73e98bb9-4521-45a2-9185-13067fe6b90b</sourceid>
@@ -11797,32 +12049,38 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>12</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
-      <sourceid>82334694-a630-42c4-95d6-eb1345e4ed82</sourceid>
-      <guid>7d814194-233e-4a60-b073-b5df33366ea1</guid>
-      <name>Concealed Quick-Draw Holster</name>
-      <category>Armor Enhancements</category>
+      <sourceid>ae9c37df-6d82-44c1-aa21-6c87e45e2dc1</sourceid>
+      <guid>5886f9e5-e9f6-40cf-98d3-23b948395698</guid>
+      <name>Medkit</name>
+      <category>Biotech</category>
       <capacity />
-      <armorcapacity>[4]</armorcapacity>
+      <armorcapacity>[5]</armorcapacity>
       <minrating>0</minrating>
-      <maxrating />
-      <rating>0</rating>
+      <maxrating>6</maxrating>
+      <rating>6</rating>
       <qty>1</qty>
-      <avail>6</avail>
-      <cost>275</cost>
+      <avail>Rating</avail>
+      <cost>Rating * 250</cost>
       <extra />
       <bonded>False</bonded>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
+      <bonus>
+        <limitmodifier>
+          <limit>Mental</limit>
+          <value>Rating</value>
+          <condition>Only for First Aid and Medicine</condition>
+        </limitmodifier>
+      </bonus>
       <wirelessbonus />
       <weaponbonus />
       <flechetteweaponbonus />
-      <source>RG</source>
-      <page>51</page>
+      <source>SR5</source>
+      <page>450</page>
       <isflechetteammo>False</isflechetteammo>
       <ammoforweapontype />
       <canformpersona />
@@ -11834,8 +12092,8 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
-      <notes>Attached to Katana</notes>
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
+      <notes>2 charges left</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
       <overclocked>None</overclocked>
@@ -11852,7 +12110,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>22</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -12291,7 +12549,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
           <sortorder>6</sortorder>
         </gear>
       </children>
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12309,7 +12567,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>13</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>ef37af30-1204-4918-af66-dfbdd33cd045</sourceid>
@@ -12321,7 +12579,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>70</qty>
+      <qty>58</qty>
       <avail>0</avail>
       <cost>20</cost>
       <extra />
@@ -12574,7 +12832,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -12592,7 +12850,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>19</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
       <sourceid>96eb3f57-26e0-40c5-8dac-62cf8a0bc52f</sourceid>
@@ -12604,7 +12862,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>15</qty>
+      <qty>3</qty>
       <avail>14F</avail>
       <costfor>10</costfor>
       <cost>120</cost>
@@ -12707,7 +12965,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>8</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>4f5b4fbc-78c4-4aa4-a5c2-7739f12e9b39</sourceid>
@@ -12719,7 +12977,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>10</qty>
+      <qty>9.0</qty>
       <avail>0</avail>
       <cost>20 + Rating</cost>
       <extra />
@@ -12762,7 +13020,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>20</sortorder>
+      <sortorder>6</sortorder>
     </gear>
     <gear>
       <sourceid>a19055f0-02ab-4bc2-ab43-0ef82e1b9100</sourceid>
@@ -12817,7 +13075,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>21</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>0c8d16cb-6e96-4d95-8454-104a36091cf9</sourceid>
@@ -12876,7 +13134,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>7</sortorder>
+      <sortorder>6</sortorder>
     </gear>
     <gear>
       <sourceid>84c6921e-dfa0-42ca-a01f-87c459ffc000</sourceid>
@@ -12944,7 +13202,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <minrating>0</minrating>
       <maxrating />
       <rating>0</rating>
-      <qty>10.0</qty>
+      <qty>5.0</qty>
       <avail>6R</avail>
       <cost>100</cost>
       <extra />
@@ -13000,7 +13258,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>984</qty>
+      <qty>978</qty>
       <avail>12F</avail>
       <costfor>10</costfor>
       <cost>120</cost>
@@ -13085,7 +13343,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>a3a034ec-a0bd-4e82-88b4-5b5e7dbb8f6b</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -13103,7 +13361,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>23</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>8783e50c-f80b-4efe-b440-d2963b55c54e</sourceid>
@@ -13140,7 +13398,7 @@ Bounty on Mine, Janus and Ed's heads, 250 000?\par
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes>"Onii-chan ♡ Ohime-san"
 Prayer beads with multi coloured strings.</notes>
       <discountedcost>False</discountedcost>
@@ -13159,7 +13417,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>24</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -13205,7 +13463,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes>Improved Ability (Blades) level 3</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -13223,7 +13481,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>25</sortorder>
+      <sortorder>8</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -13269,7 +13527,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes>Enhanced Accuracy (Blades)</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -13287,7 +13545,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>26</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>76aca45d-0d4f-45a3-a532-c47ac0b26b89</sourceid>
@@ -13324,7 +13582,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>a3a034ec-a0bd-4e82-88b4-5b5e7dbb8f6b</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -13342,7 +13600,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>29</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>a64c073c-8aa9-4383-b885-267f8ce1ea99</sourceid>
@@ -13388,7 +13646,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes>Critical Strike (Blades)</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -13406,68 +13664,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>27</sortorder>
-    </gear>
-    <gear>
-      <sourceid>ae9c37df-6d82-44c1-aa21-6c87e45e2dc1</sourceid>
-      <guid>5886f9e5-e9f6-40cf-98d3-23b948395698</guid>
-      <name>Medkit</name>
-      <category>Biotech</category>
-      <capacity />
-      <armorcapacity>[5]</armorcapacity>
-      <minrating>0</minrating>
-      <maxrating>6</maxrating>
-      <rating>6</rating>
-      <qty>1</qty>
-      <avail>Rating</avail>
-      <cost>Rating * 250</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus>
-        <limitmodifier>
-          <limit>Mental</limit>
-          <value>Rating</value>
-          <condition>Only for First Aid and Medicine</condition>
-        </limitmodifier>
-      </bonus>
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>450</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes>2 charges left</notes>
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>28</sortorder>
+      <sortorder>6</sortorder>
     </gear>
     <gear>
       <sourceid>8adaecd5-0c24-4982-8803-e4459e16589f</sourceid>
@@ -13504,7 +13701,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -13522,7 +13719,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>30</sortorder>
+      <sortorder>0</sortorder>
     </gear>
     <gear>
       <sourceid>a6c84397-4ee6-4f04-a18f-5506b38725f2</sourceid>
@@ -13559,7 +13756,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -13577,7 +13774,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>31</sortorder>
+      <sortorder>0</sortorder>
     </gear>
     <gear>
       <sourceid>1522dd91-99d9-42f9-ab19-b43e8e3c7322</sourceid>
@@ -14333,7 +14530,7 @@ Prayer beads with multi coloured strings.</notes>
           <sortorder>2</sortorder>
         </gear>
       </children>
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14351,7 +14548,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>True</active>
       <homenode>False</homenode>
-      <sortorder>32</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>b4bbdbd3-1f65-44e5-b196-6ccbee1cc182</sourceid>
@@ -14444,7 +14641,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14502,7 +14699,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14520,7 +14717,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>6</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>d9f69780-93eb-41ff-9a9c-893f8c52794e</sourceid>
@@ -14532,7 +14729,7 @@ Prayer beads with multi coloured strings.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>0</qty>
+      <qty>60</qty>
       <avail>6R</avail>
       <costfor>10</costfor>
       <cost>80</cost>
@@ -14617,7 +14814,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14635,7 +14832,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>8</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>f8151303-b838-4af1-ba9d-d43ff0892b40</sourceid>
@@ -14735,7 +14932,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>a3a034ec-a0bd-4e82-88b4-5b5e7dbb8f6b</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14753,7 +14950,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>2</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
       <sourceid>0fdeb240-743c-4a9d-9cf1-fef0990575bb</sourceid>
@@ -14790,7 +14987,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14808,7 +15005,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>3</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>a39501ca-0df5-4fb7-8992-97b765383d17</sourceid>
@@ -14868,7 +15065,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>4</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>429fbdba-2818-43db-948a-e138b6bf49f9</sourceid>
@@ -14905,7 +15102,7 @@ Prayer beads with multi coloured strings.</notes>
       <parentid />
       <allowrename>False</allowrename>
       <children />
-      <location />
+      <location>a3a034ec-a0bd-4e82-88b4-5b5e7dbb8f6b</location>
       <notes />
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -14923,7 +15120,7 @@ Prayer beads with multi coloured strings.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>5</sortorder>
+      <sortorder>0</sortorder>
     </gear>
     <gear>
       <sourceid>ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5</sourceid>
@@ -15042,6 +15239,287 @@ Prayer beads with multi coloured strings.</notes>
       <active>False</active>
       <homenode>False</homenode>
       <sortorder>5</sortorder>
+    </gear>
+    <gear>
+      <sourceid>53c0b4cc-b209-4db4-bb0d-6710b3f4349a</sourceid>
+      <guid>7db7df20-092e-4f61-bf63-17084cec24aa</guid>
+      <name>Restraint, Plastic</name>
+      <category>Security Devices</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>19</qty>
+      <avail>0</avail>
+      <costfor>10</costfor>
+      <cost>5</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>447</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>4</sortorder>
+    </gear>
+    <gear>
+      <sourceid>96eb3f57-26e0-40c5-8dac-62cf8a0bc52f</sourceid>
+      <guid>2a076844-ce71-41cb-a9af-e558f915b809</guid>
+      <name>Ammo: EX-Explosive Rounds</name>
+      <category>Ammunition</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>0</qty>
+      <avail>14F</avail>
+      <costfor>10</costfor>
+      <cost>120</cost>
+      <extra>Assault Rifles</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus>
+        <ap>-1</ap>
+        <damage>2</damage>
+      </weaponbonus>
+      <flechetteweaponbonus />
+      <source>RG</source>
+      <page>54</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>227580d2-6a14-4604-98b3-a37151bcb004</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>8</sortorder>
+    </gear>
+    <gear>
+      <sourceid>f4b92e14-fe1f-4be4-ad73-aed10e1f73b4</sourceid>
+      <guid>b608600d-60ae-495b-8c9d-a0725c922817</guid>
+      <name>Grenade: Flash-Bang</name>
+      <category>Ammunition</category>
+      <capacity />
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating />
+      <rating>0</rating>
+      <qty>5</qty>
+      <avail>6R</avail>
+      <cost>100</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <weaponguid>58bb35c4-f6c1-4f9a-a966-542b7ebe9b21</weaponguid>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>435</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>0</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>1150455c-b4fd-4630-9baf-3b59c0527e63</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>11</sortorder>
+    </gear>
+    <gear>
+      <sourceid>ef37af30-1204-4918-af66-dfbdd33cd045</sourceid>
+      <guid>90da86a2-8484-46f2-97b2-a63bb81906e7</guid>
+      <name>Reagents, per dram</name>
+      <category>Magical Supplies</category>
+      <capacity />
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating />
+      <rating>0</rating>
+      <qty>12</qty>
+      <avail>0</avail>
+      <cost>20</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>317</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>0</devicerating>
+      <gearname>Buddhism</gearname>
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>10</sortorder>
+    </gear>
+    <gear>
+      <sourceid>4f5b4fbc-78c4-4aa4-a5c2-7739f12e9b39</sourceid>
+      <guid>6a9e7767-de8d-41bc-a2c8-bfac827bf20c</guid>
+      <name>Certified Credstick, Silver</name>
+      <category>ID/Credsticks</category>
+      <capacity>20000</capacity>
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>20 + Rating</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>0</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>11</sortorder>
     </gear>
   </gears>
   <vehicles>
@@ -16049,7 +16527,7 @@ Prayer beads with multi coloured strings.</notes>
               <ammocategory />
               <ammoslots>1</ammoslots>
               <sizecategory />
-              <firingmode>RemoteOperated</firingmode>
+              <firingmode>GunneryCommandDevice</firingmode>
               <minrating />
               <maxrating />
               <rating>0</rating>
@@ -16715,6 +17193,38 @@ Prayer beads with multi coloured strings.</notes>
           <sortorder>0</sortorder>
           <stolen>False</stolen>
         </mod>
+        <mod>
+          <sourceid>376658ad-d040-4d1e-9c6a-1d7b2ae38609</sourceid>
+          <guid>0f54b50e-329c-4770-9176-b60d4f5f183f</guid>
+          <name>Amenities (Luxury)</name>
+          <category>Cosmetic</category>
+          <limit />
+          <slots>0</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>16</avail>
+          <cost>0</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>169</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
       </mods>
       <weaponmounts />
       <gears>
@@ -17042,7 +17552,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>True</enabled>
+      <enabled>False</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -17066,7 +17576,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>False</enabled>
+      <enabled>True</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -17090,7 +17600,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>False</enabled>
+      <enabled>True</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -17162,7 +17672,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>True</enabled>
+      <enabled>False</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -17257,7 +17767,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>True</enabled>
+      <enabled>False</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -17281,7 +17791,7 @@ Prayer beads with multi coloured strings.</notes>
       <customid />
       <customgroup />
       <addtorating>False</addtorating>
-      <enabled>True</enabled>
+      <enabled>False</enabled>
       <order>0</order>
       <notes />
     </improvement>
@@ -29268,7 +29778,7 @@ Prayer beads with multi coloured strings.</notes>
       <guid>0b7741c1-d9c4-4e62-ae65-5e5a2ba9678c</guid>
       <date>2023-03-15T21:07:26</date>
       <amount>15000</amount>
-      <reason>Bouty Huntery con</reason>
+      <reason>Bounty Huntery con</reason>
       <type>Nuyen</type>
       <refund>False</refund>
       <forcecareervisible>False</forcecareervisible>
@@ -29312,20 +29822,253 @@ Prayer beads with multi coloured strings.</notes>
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>e170573a-d16b-4059-bd51-eba2e8b2b176</guid>
+      <date>2023-03-28T22:24:35</date>
+      <amount>5</amount>
+      <reason>Working for the People</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>True</forcecareervisible>
+      <undo>
+        <karmatype>ManualSubtract</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>f974d2b9-99db-4915-b43f-4b3fbace03a7</guid>
+      <date>2023-03-28T22:24:35</date>
+      <amount>-10000</amount>
+      <reason>Working for the People</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ab1a65a6-0197-4080-a94f-d038d13eddb9</guid>
+      <date>2023-04-05T20:06:29</date>
+      <amount>-500</amount>
+      <reason>Purchased Lifestyle Low</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>IncreaseLifestyle</nuyentype>
+        <objectid>d5208b09-2f06-4cc9-9a37-c10d36d9b308</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>522bcba1-4bb5-40a2-a200-fda7d4799159</guid>
+      <date>2023-04-05T20:06:30</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Low</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>21c3535f-f9be-41e8-b593-a942ac88db92</guid>
+      <date>2023-04-05T20:06:35</date>
+      <amount>-2000.0</amount>
+      <reason>Purchased Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>IncreaseLifestyle</nuyentype>
+        <objectid>35614705-c9b3-4e13-b130-35bded62061c</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>fb7f5bac-7143-475a-9dfd-2a305a0f612a</guid>
+      <date>2023-04-05T20:06:36</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>6312a2bd-20bb-45dc-a795-39ff9455b9c7</guid>
+      <date>2023-04-05T20:06:39</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Medium</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>8581fff6-63ac-41a3-beeb-8546251a014c</guid>
+      <date>2023-04-18T21:17:49</date>
+      <amount>-10</amount>
+      <reason>Purchased Gear Restraint, Plastic</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>7db7df20-092e-4f61-bf63-17084cec24aa</objectid>
+        <qty>20</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>37c78d40-ed8c-4f44-bedf-955dfa4ea2de</guid>
+      <date>2023-05-17T19:23:37</date>
+      <amount>-600</amount>
+      <reason>Purchased Gear Ammo: EX-Explosive Rounds</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>2a076844-ce71-41cb-a9af-e558f915b809</objectid>
+        <qty>50</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>76a12e9f-2948-46bd-94c2-95fef35a411d</guid>
+      <date>2023-05-17T19:48:43</date>
+      <amount>0.0</amount>
+      <reason>Purchased Vehicle Mod Amenities (Luxury)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>0f54b50e-329c-4770-9176-b60d4f5f183f</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>3e6d886b-c4c6-4508-85a3-39ed43294652</guid>
+      <date>2023-05-30T22:17:08</date>
+      <amount>10</amount>
+      <reason>Ryo Rescue Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0994c19e-7573-4adc-81ad-f7e001cc1b49</guid>
+      <date>2023-05-30T22:17:55</date>
+      <amount>75000</amount>
+      <reason>Ryo Rescue Mission Reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations>
     <location>
       <guid>227580d2-6a14-4604-98b3-a37151bcb004</guid>
       <name>Ammo</name>
       <notes />
+      <sortorder>4</sortorder>
+    </location>
+    <location>
+      <guid>a3a034ec-a0bd-4e82-88b4-5b5e7dbb8f6b</guid>
+      <name>In the Car</name>
+      <notes />
+      <sortorder>2</sortorder>
+    </location>
+    <location>
+      <guid>1150455c-b4fd-4630-9baf-3b59c0527e63</guid>
+      <name>On Samurai</name>
+      <notes />
       <sortorder>1</sortorder>
     </location>
+    <location>
+      <guid>79c47ec2-9471-42fb-9cca-8ccfa2bfe600</guid>
+      <name>In Backpack</name>
+      <notes />
+      <sortorder>3</sortorder>
+    </location>
   </gearlocations>
-  <armorlocations />
+  <armorlocations>
+    <location>
+      <guid>015644c3-a4bf-4eab-b1ee-a6c3e3175ee0</guid>
+      <name>High Fashion </name>
+      <notes />
+      <sortorder>1</sortorder>
+    </location>
+  </armorlocations>
   <vehiclelocations />
-  <weaponlocations />
+  <weaponlocations>
+    <location>
+      <guid>e69ba300-b768-4336-958c-3a62e66cf2ff</guid>
+      <name>On Samurai</name>
+      <notes />
+      <sortorder>2</sortorder>
+    </location>
+    <location>
+      <guid>17fd62ca-5f03-40c7-9858-bd77a011f7ef</guid>
+      <name>In Car</name>
+      <notes />
+      <sortorder>1</sortorder>
+    </location>
+  </weaponlocations>
   <improvementgroups />
   <calendar>
+    <week>
+      <guid>c4045056-9ab5-4af9-82dc-9014feaaaddb</guid>
+      <year>2078</year>
+      <week>20</week>
+      <notes>Downtime week 1</notes>
+    </week>
+    <week>
+      <guid>492795c8-3355-4a39-8526-54d0e89d6b72</guid>
+      <year>2078</year>
+      <week>19</week>
+      <notes>Save Ryu from Yakuza Prison</notes>
+    </week>
+    <week>
+      <guid>60852d01-de02-43b0-9452-dda048025f9a</guid>
+      <year>2078</year>
+      <week>18</week>
+      <notes>Downtime 2 Week 2</notes>
+    </week>
+    <week>
+      <guid>3db27396-b5be-4585-a9f5-0e52073e9c2c</guid>
+      <year>2078</year>
+      <week>17</week>
+      <notes>Yakuza 'Town Hall' meeting, Downtime 2 Week 1</notes>
+    </week>
     <week>
       <guid>195828cc-2ba8-4d45-af4d-b9921fc4d82a</guid>
       <year>2078</year>
@@ -29403,8 +30146,8 @@ Prayer beads with multi coloured strings.</notes>
     <source>SR5</source>
     <source>SG</source>
     <source>HT</source>
-    <source>RF</source>
     <source>RG</source>
+    <source>RF</source>
     <source>SL</source>
     <source>FA</source>
     <source>CF</source>
