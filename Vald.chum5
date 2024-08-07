@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <character>
   <createdversion>5.210</createdversion>
-  <appversion>5.213.0.0</appversion>
+  <appversion>5.214.0.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>default.xml</settings>
   <metatype>Elf</metatype>
@@ -2281,7 +2281,6 @@ found on a note: 8007 cdef\par
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2344,6 +2343,7 @@ found on a note: 8007 cdef\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>00000000-0000-0000-0000-000000000000</sourceid>
@@ -2361,7 +2361,6 @@ found on a note: 8007 cdef\par
       <ammo />
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2424,6 +2423,7 @@ found on a note: 8007 cdef\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>critter powers</weapontype>
     </weapon>
     <weapon>
       <sourceid>656906d8-b6a4-47a2-9554-de365097eba0</sourceid>
@@ -2441,7 +2441,6 @@ found on a note: 8007 cdef\par
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2504,6 +2503,7 @@ found on a note: 8007 cdef\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>95fd2fb9-f174-4f03-add9-80e1d947bd5b</sourceid>
@@ -2521,7 +2521,6 @@ found on a note: 8007 cdef\par
       <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
-      <ammoname />
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
@@ -2584,6 +2583,7 @@ found on a note: 8007 cdef\par
       <wirelessbonus />
       <wirelesson>False</wirelesson>
       <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
   </weapons>
   <cyberwares />
@@ -3355,6 +3355,7 @@ found on a note: 8007 cdef\par
       <source>DT</source>
       <page>17</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona>Self</canformpersona>
       <devicerating>6</devicerating>
       <gearname />
@@ -3389,6 +3390,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>438</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -3423,6 +3425,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3477,6 +3480,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3531,6 +3535,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3585,6 +3590,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>443</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3639,6 +3645,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3693,6 +3700,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3747,6 +3755,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3801,6 +3810,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3855,6 +3865,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>445</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3909,6 +3920,7 @@ found on a note: 8007 cdef\par
               <source>SR5</source>
               <page>438</page>
               <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
               <canformpersona />
               <devicerating />
               <gearname />
@@ -3984,6 +3996,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>438</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating>0</devicerating>
           <gearname />
@@ -4065,6 +4078,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>450</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4119,6 +4133,7 @@ found on a note: 8007 cdef\par
       <source>KC</source>
       <page>60</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating>4</devicerating>
       <gearname />
@@ -4173,6 +4188,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4227,6 +4243,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>441</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4283,6 +4300,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>442</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4319,6 +4337,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>443</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4375,6 +4394,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>443</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4450,6 +4470,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>443</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4484,6 +4505,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>444</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4538,6 +4560,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>444</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -4613,6 +4636,7 @@ found on a note: 8007 cdef\par
       <source>HT</source>
       <page>187</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4667,6 +4691,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>439</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating>4</devicerating>
       <gearname />
@@ -4727,6 +4752,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>319</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4786,6 +4812,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>449</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4843,6 +4870,7 @@ found on a note: 8007 cdef\par
       <source>SR5</source>
       <page>449</page>
       <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
       <canformpersona />
       <devicerating />
       <gearname />
@@ -4936,6 +4964,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>445</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -5050,6 +5079,7 @@ found on a note: 8007 cdef\par
           <source>SR5</source>
           <page>445</page>
           <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
           <canformpersona />
           <devicerating />
           <gearname />
@@ -8623,38 +8653,9 @@ found on a note: 8007 cdef\par
     <source>R5</source>
   </sources>
   <customdatadirectorynames>
+    <directoryname>Bone Lacing Adds to Body</directoryname>
     <directoryname>Legal SIN and Licenses</directoryname>
   </customdatadirectorynames>
-  <plugins>
-    <NeonJungleLC version="1.0.0.0">""</NeonJungleLC>
-    <SamplePlugin version="1.0.0.0">"This Char was saved with the SamplePlugin enabled!"</SamplePlugin>
-    <ChummerHub.Client version="1.0.0.4">{
-  "DownloadedFromSINnersTime": "2021-05-19T20:51:50.5839685Z",
-  "ZipFilePath": "C:\\Users\\Cameron\\AppData\\Local\\Temp\\SINner\\10928682-13b5-4004-a053-cd0c79fddb46",
-  "FilePath": "",
-  "editionNumber": null,
-  "myHash": null,
-  "language": "en-us",
-  "siNnerMetaData": {
-    "id": "08cb035d-9c0b-4bf8-9fcb-d152edb6cee5",
-    "visibility": {
-      "id": "2b2f602c-4d8c-4035-a125-efcec002d0d1",
-      "isPublic": true,
-      "isGroupVisible": true,
-      "userRights": null
-    },
-    "tags": []
-  },
-  "lastDownload": null,
-  "myGroup": null,
-  "alias": null,
-  "id": "10928682-13b5-4004-a053-cd0c79fddb46",
-  "downloadUrl": null,
-  "uploadDateTime": null,
-  "lastChange": "2021-05-19T20:51:28.9549124Z",
-  "fileName": null
-}</ChummerHub.Client>
-  </plugins>
   <calculatedvalues>
     <!--these values are not loaded and only stored here for third parties, who parse this files (to not have to calculate them themselves)-->
     <physicalcm>11</physicalcm>
